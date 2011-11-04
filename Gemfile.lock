@@ -1,0 +1,59 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.6)
+    albino (1.3.3)
+      posix-spawn (>= 0.3.6)
+    chunky_png (1.2.5)
+    classifier (1.3.3)
+      fast-stemmer (>= 1.0.0)
+    compass (0.11.5)
+      chunky_png (~> 1.2)
+      fssm (>= 0.2.7)
+      sass (~> 3.1)
+    directory_watcher (1.4.1)
+    fast-stemmer (1.0.0)
+    fssm (0.2.7)
+    heroku (2.11.0)
+      launchy (>= 0.3.2)
+      rest-client (~> 1.6.1)
+      rubyzip
+      term-ansicolor (~> 1.0.5)
+    jekyll (0.11.0)
+      albino (>= 1.3.2)
+      classifier (>= 1.3.1)
+      directory_watcher (>= 1.1.1)
+      kramdown (>= 0.13.2)
+      liquid (>= 1.9.0)
+      maruku (>= 0.5.9)
+    kramdown (0.13.3)
+    launchy (2.0.5)
+      addressable (~> 2.2.6)
+    liquid (2.3.0)
+    maruku (0.6.0)
+      syntax (>= 1.0.0)
+    mime-types (1.17.2)
+    posix-spawn (0.3.6)
+    rack (1.3.5)
+    rack-protection (1.1.4)
+      rack
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    rubyzip (0.9.4)
+    sass (3.1.10)
+    sinatra (1.3.1)
+      rack (~> 1.3, >= 1.3.4)
+      rack-protection (~> 1.1, >= 1.1.2)
+      tilt (~> 1.3, >= 1.3.3)
+    syntax (1.0.0)
+    term-ansicolor (1.0.7)
+    tilt (1.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  compass
+  heroku
+  jekyll
+  sinatra
