@@ -1,0 +1,1 @@
+exclude: *.rb, Gemfile, Gemfile.lock, Procfile, README
