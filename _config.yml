@@ -1,1 +1,7 @@
+auto: true
 exclude: *.rb, Gemfile, Gemfile.lock, Procfile, README
+lsi: true
+markdown: rdiscount
+paginate: 10
+permalink: /:year/:month/:day/:title
+server: true
