@@ -1,0 +1,11 @@
+Sent:       <%= Time.now.strftime("%b %e, %Y %H:%M:%S %Z") %>
+IP address: <%= @env['REMOTE_ADDR'] %>
+
+Name:    <%= params[:name] %>
+Email:   <%= params[:email] %>
+Company: <%= params[:company] %>
+Phone:   <%= params[:phone] %>
+
+Message:
+
+<%= params[:message] %>

@@ -1,0 +1,36 @@
+<% if @sent %>
+  <p class="notice">Thank you for contacting us. We'll be in touch shortly.</p>
+<% else %>
+
+  <% unless @errors.nil? or @errors.empty? %>
+    <div class="error">
+      Please correct the error(s) in the form below and resubmit.
+    </div>
+  <% end %>
+
+  <form action="/contact-form" method="POST">
+    <fieldset>
+      <% [:name, :email, :company, :phone].each do |a| %>
+        <div class="field<%= ' error' unless @errors[a].nil? %>">
+          <label for="<%= a %>"><%= a.capitalize %></label>
+          <input type="text" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>" />
+          <% unless @errors[a].nil? %>
+            <span class="error-message"><%= @errors[a] %></span>
+          <% end %>
+        </div>
+      <% end %>
+
+      <div class="field<%= ' error' unless @errors[:message].nil? %>">
+        <label for="message">Briefly describe your project</label>
+        <textarea name="message" id="message"><%= @params[:message] %></textarea>
+        <% unless @errors[:message].nil? %>
+          <span class="error-message"><%= @errors[:message] %></span>
+        <% end %>
+      </div>
+
+      <div class="actions">
+        <input type="submit" name="" value="Submit" />
+      </div>
+    </fieldset>
+  </form>
+<% end %>

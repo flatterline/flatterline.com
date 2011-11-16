@@ -1,3 +1,10 @@
+
+@import "compass/reset";
+@import "compass";
+@import "compass/css3";
+@import "compass/typography";
+@import "compass/utilities";
+
 html, body {
   background-color: #eee;
 }
@@ -37,4 +44,23 @@ h1, h2, h3, h4, h5, h6 {
   font-family: monospace;
   margin-top: 180px;
   text-align: center;
+}
+
+.contact-form {
+  height: 500px;
+  width: 500px;
+}
+
+form label {
+  display: block;
+}
+
+form .error input,
+form .error textarea {
+  border: 2px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 90%;
 }

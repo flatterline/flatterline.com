@@ -1,7 +1,12 @@
 source 'http://rubygems.org'
 
 gem 'compass'
+gem 'foreman'
+gem 'gsl'
 gem 'heroku'
 gem 'jekyll'
+gem 'pony'
+gem 'rb-fsevent'
+gem 'rdiscount'
 gem 'sinatra'
 gem 'thin'
