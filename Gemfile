@@ -1,12 +1,15 @@
 source 'http://rubygems.org'
 
-gem 'compass'
-gem 'foreman'
-gem 'gsl'
 gem 'heroku'
-gem 'jekyll'
 gem 'pony'
 gem 'rb-fsevent'
 gem 'rdiscount'
 gem 'sinatra'
 gem 'thin'
+
+group :development do
+  gem 'compass'
+  gem 'foreman'
+  gem 'jekyll'
+  gem 'gsl'
+end
