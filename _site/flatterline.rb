@@ -27,13 +27,6 @@
     File.read("_site/index.html")
   end
 
-  # Other static pages
-  [:contact].each do |page|
-    get "/#{page}/?" do
-      File.read("_site/#{page}.html")
-    end
-  end
-
   # Dynamic contact form
   get '/contact-form/?' do
     @errors = {}
