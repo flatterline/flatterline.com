@@ -1,5 +1,9 @@
 <% if @sent %>
   <p class="alert-message success">Thank you for contacting us. We'll be in touch shortly.</p>
+  <div class="center">
+    <a href="?" class="btn">Contact Us Again?</a>
+    <a href="/" class="btn primary" target="_parent">Flatterline Home</a>
+  </div>
 <% else %>
 
   <% unless @errors.nil? or @errors.empty? %>
@@ -40,8 +44,8 @@
         </div>
       </div>
 
-      <div class="center">
-        <input type="submit" name="" value="Send" />
+      <div class="actions shh">
+        <input type="submit" name="" value="Send" class="btn primary" />
       </div>
     </fieldset>
   </form>

@@ -553,6 +553,10 @@ footer {
     color: $white;
     @include gradientBar($blue, $blueDark)
   }
+  &.orange {
+    color: $white;
+    @include gradientBar($orange, $orangeDark)
+  }
 
    // Transitions
   @include transition(.1s linear all);

@@ -1,0 +1,12 @@
+.actions.shh {
+  border-color-top: transparent;
+  background: transparent none;
+}
+
+a.shh {
+  &:link, &:visited, &:hover {
+    color: inherit;
+    text-decoration: inherit;
+    font-weight: inherit;
+  }
+}
