@@ -1,61 +1,61 @@
 
-
-html, body {
-  background-color: #eee;
-}
-
-p {
-  font-size: 14px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #111;
-}
-
-.container > footer p {
-  text-align: center; /* center align it with the container */
-}
-
-.page-header {
-  border: none;
-  box-shadow: none;
-  margin-bottom: 3em;
-}
-
-.page-header > img {
-  width: 100%;
-}
-
-.page-header h2 {
-  font-size: 7em;
-  line-height: 1em;
-}
-
-.page-header h1 {
-  font-size: 2em;
-}
-
-.content {
-  font-family: monospace;
-  margin-top: 180px;
-  text-align: center;
-}
+// 
+// html, body {
+//   background-color: #eee;
+// }
+// 
+// p {
+//   font-size: 14px;
+// }
+// 
+// h1, h2, h3, h4, h5, h6 {
+//   color: #111;
+// }
+// 
+// .container > footer p {
+//   text-align: center; /* center align it with the container */
+// }
+// 
+// .page-header {
+//   border: none;
+//   box-shadow: none;
+//   margin-bottom: 3em;
+// }
+// 
+// .page-header > img {
+//   width: 100%;
+// }
+// 
+// .page-header h2 {
+//   font-size: 7em;
+//   line-height: 1em;
+// }
+// 
+// .page-header h1 {
+//   font-size: 2em;
+// }
+// 
+// .content {
+//   font-family: monospace;
+//   margin-top: 180px;
+//   text-align: center;
+// }
 
 .contact-form {
   height: 500px;
   width: 500px;
 }
-
-form label {
-  display: block;
-}
-
-form .error input,
-form .error textarea {
-  border: 2px solid red;
-}
-
-.error-message {
-  color: red;
-  font-size: 90%;
-}
+// 
+// form label {
+//   display: block;
+// }
+// 
+// form .error input,
+// form .error textarea {
+//   border: 2px solid red;
+// }
+// 
+// .error-message {
+//   color: red;
+//   font-size: 90%;
+// }
