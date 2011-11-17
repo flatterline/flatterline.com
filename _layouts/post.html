@@ -10,7 +10,9 @@ layout: default
   </div>
 
   <div id="post">
-    {{ content }}
+    <div id="content">
+      {{ content }}
+    </div>
   </div>
 
   <div id="related">
@@ -21,10 +23,9 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  
+  {% include bottom_call_to_action.html %}
 </div>
 
 
-
-<div id="sidebar" class="span4">
-  <p>Test sidebar</p>
-</div>
+{% include sidebar.html %}
