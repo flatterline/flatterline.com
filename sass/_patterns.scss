@@ -65,7 +65,7 @@
     float: left;
     margin: 5px 0 0 0;
     position: relative;
-    @include opacity(1);
+    @include opacity(100);
   }
   // Todo: remove from v2.0 when ready, added for legacy
   form.pull-right {
@@ -74,7 +74,7 @@
   input {
     background-color: #444;
     background-color: rgba(255,255,255,.3);
-    @include sans-serif(13px, normal, 1);
+    @include font-sans-serif(13px, normal, 1);
     padding: 4px 9px;
     color: $white;
     color: rgba(255,255,255,.75);
@@ -235,7 +235,7 @@ a.menu:after,
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
   border-top: 4px solid $white;
-  @include opacity(0.5);
+  @include opacity(50);
 }
 // The dropdown menu (ul)
 // .menu-dropdown for backwards compatibility
@@ -525,7 +525,7 @@ footer {
   // Button Base
   cursor: pointer;
   display: inline-block;
-  @include gradient-vertical-three-colors(#ffffff, #ffffff, 25%, darken(#ffffff, 10%)); // Don't use @include gradientbar(); here since it does a three-color gradient
+  @include gradient-vertical-three-colors(#ffffff, #ffffff, 25%, darken(#ffffff, 10%)); // Don't use .gradientbar() here since it does a three-color gradient
   padding: 5px 14px 6px;
   text-shadow: 0 1px 1px rgba(255,255,255,.75);
   color: #333;
@@ -551,7 +551,7 @@ footer {
   // Primary Button Type
   &.primary {
     color: $white;
-    @include gradientBar($blue, $blueDark);
+    @include gradientBar($blue, $blueDark)
   }
 
    // Transitions
@@ -566,7 +566,7 @@ footer {
     cursor: default;
     background-image: none;
     @include reset-filter();
-    @include opacity(0.65);
+    @include opacity(65);
     @include box-shadow(none);
   }
   &[disabled] {
@@ -575,7 +575,7 @@ footer {
     cursor: default;
     background-image: none;
     @include reset-filter();
-    @include opacity(0.65);
+    @include opacity(65);
     @include box-shadow(none);
   }
 
@@ -594,15 +594,15 @@ footer {
 // Super jank hack for removing border-radius from IE9 so we can keep filter gradients on alerts and buttons
 :root .alert-message,
 :root .btn {
-  border-radius: 0 \0;
+    border-radius: 0 \0;
 }
 
 // Help Firefox not be a jerk about adding extra padding to buttons
 button.btn,
 input[type=submit].btn {
   &::-moz-focus-inner {
-    padding: 0;
-    border: 0;
+  	padding: 0;
+  	border: 0;
   }
 }
 
@@ -616,11 +616,11 @@ input[type=submit].btn {
   font-weight: bold;
   line-height: $baseline * .75;
   text-shadow: 0 1px 0 rgba(255,255,255,1);
-  @include opacity(0.2);
+  @include opacity(20);
   &:hover {
     color: $black;
     text-decoration: none;
-    @include opacity(0.4);
+    @include opacity(40);
   }
 }
 
@@ -781,7 +781,7 @@ input[type=submit].btn {
 }
 
 .modal-backdrop, .modal-backdrop.fade.in {
-  @include opacity(0.8);
+  @include opacity(80);
 }
 
 .modal {
@@ -830,37 +830,37 @@ input[type=submit].btn {
 // POPOVER ARROWS
 // --------------
 
-@mixin popover-arrow-above($arrowWidth: 5px) {
+@mixin popoverArrow-above($arrowWidth: 5px) {
   bottom: 0;
   left: 50%;
   margin-left: -$arrowWidth;
   border-left: $arrowWidth solid transparent;
   border-right: $arrowWidth solid transparent;
-  border-top: $arrowWidth solid #000;
+  border-top: $arrowWidth solid $black;
 }
-@mixin popover-arrow-left($arrowWidth: 5px) {
+@mixin popoverArrow-left($arrowWidth: 5px) {
   top: 50%;
   right: 0;
   margin-top: -$arrowWidth;
   border-top: $arrowWidth solid transparent;
   border-bottom: $arrowWidth solid transparent;
-  border-left: $arrowWidth solid #000;
+  border-left: $arrowWidth solid $black;
 }
-@mixin popover-arrow-below($arrowWidth: 5px) {
+@mixin popoverArrow-below($arrowWidth: 5px) {
   top: 0;
   left: 50%;
   margin-left: -$arrowWidth;
   border-left: $arrowWidth solid transparent;
   border-right: $arrowWidth solid transparent;
-  border-bottom: $arrowWidth solid #000;
+  border-bottom: $arrowWidth solid $black;
 }
-@mixin popover-arrow-right($arrowWidth: 5px) {
+@mixin popoverArrow-right($arrowWidth: 5px) {
   top: 50%;
   left: 0;
   margin-top: -$arrowWidth;
   border-top: $arrowWidth solid transparent;
   border-bottom: $arrowWidth solid transparent;
-  border-right: $arrowWidth solid #000;
+  border-right: $arrowWidth solid $black;
 }
 
 // TWIPSY
@@ -873,14 +873,14 @@ input[type=submit].btn {
   padding: 5px;
   font-size: 11px;
   z-index: 1000;
-  @include opacity(0.8);
+  @include opacity(80);
   &.fade.in {
-    @include opacity(0.8);
+    @include opacity(80);
   }
-  &.above .twipsy-arrow   { @include popover-arrow-above(); }
-  &.left .twipsy-arrow    { @include popover-arrow-left();  }
-  &.below .twipsy-arrow   { @include popover-arrow-below(); }
-  &.right .twipsy-arrow   { @include popover-arrow-right(); }
+  &.above .twipsy-arrow   { @include popoverArrow-above(); }
+  &.left .twipsy-arrow    { @include popoverArrow-left(); }
+  &.below .twipsy-arrow   { @include popoverArrow-below(); }
+  &.right .twipsy-arrow   { @include popoverArrow-right(); }
 }
 .twipsy-inner {
   padding: 3px 8px;
@@ -908,10 +908,10 @@ input[type=submit].btn {
   z-index: 1000;
   padding: 5px;
   display: none;
-  &.above .arrow { @include popover-arrow-above(); }
-  &.right .arrow { @include popover-arrow-right(); }
-  &.below .arrow { @include popover-arrow-below(); }
-  &.left .arrow  { @include popover-arrow-left();  }
+  &.above .arrow { @include popoverArrow-above(); }
+  &.right .arrow { @include popoverArrow-right(); }
+  &.below .arrow { @include popoverArrow-below(); }
+  &.left .arrow  { @include popoverArrow-left(); }
   .arrow {
     position: absolute;
     width: 0;

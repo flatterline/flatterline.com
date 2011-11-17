@@ -36,7 +36,7 @@ label,
 input,
 select,
 textarea {
-  @include sans-serif(normal,13px,normal);
+  @include font-sans-serif(normal,13px,normal);
 }
 
 // Float labels left
@@ -232,7 +232,7 @@ textarea.xxlarge {
 }
 
 // Grid style input sizes
-// This is a duplication of the main grid @include columns(); mixin, but subtracts 10px to account for input padding and border
+// This is a duplication of the main grid .columns() mixin, but subtracts 10px to account for input padding and border
 @mixin formColumns($columnSpan: 1) {
   display: inline-block;
   float: none;
