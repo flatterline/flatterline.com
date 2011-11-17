@@ -1,9 +1,10 @@
 --- 
 author: chris
+excerpt: Flatterline
 layout: post
-title: In the beginning...
 tags: 
 - business
+title: In the beginning...
 ---
 
 Tomorrow marks the last day of the first full week of Flatterline operations, and let me say it's been awesome.
