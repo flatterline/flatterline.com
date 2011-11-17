@@ -1,9 +1,10 @@
 
-@import "compass/reset";
 @import "compass";
 @import "compass/css3";
-@import "compass/typography";
 @import "compass/utilities";
+
+
+@import "applied_bootstrap";
 
 html, body {
   background-color: #eee;
