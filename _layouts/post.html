@@ -10,10 +10,11 @@ layout: default
   </div>
 
   <div id="post">
-    <div id="content">
-      {{ content }}
-    </div>
+    <h1><a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a></h1>
+    <div id="content">{{ content }}</div>
   </div>
+
+  {% include author.html %}
 
   <div id="related">
     <h2>Related Posts</h2>
@@ -26,6 +27,5 @@ layout: default
   
   {% include bottom_call_to_action.html %}
 </div>
-
 
 {% include sidebar.html %}
