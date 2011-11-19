@@ -1,4 +1,8 @@
 <aside id="sidebar" class="span4">
+  {% if page.image %}
+    <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+  {% endif %}
+
   <h3>Services</h3>
   <ul>
     <li>Web Development</li>

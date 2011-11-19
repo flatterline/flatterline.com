@@ -7,10 +7,6 @@ tags:
 - community
 ---
 
-<div class="left">
-  <a href="http://opencoffeeclub.org"><img src="http://flatterline.com/wp-content/uploads/2009/04/occ_logo.gif" alt="occ_logo" title="occ_logo" width="200" height="32" class="size-full wp-image-166" /></a>
-</div>
-
 At Flatterline, our stated mission is to help startups realize their vision. To that end, we've decided to help bring [OpenCoffee Club to Phoenix](http://upcoming.yahoo.com/group/15697/).
 
 ## What is OpenCoffee Club?

@@ -3,14 +3,11 @@ layout: default
 ---
 
 <div class="span12">
-  <div class="before-content-header">
-    <menu>
-      <a href="/blog/">Blog</a>
-    </menu>
-  </div>
-
   <div id="post">
     <h1><a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a></h1>
+    <small class="post-data">
+      {{ page.date | date:"%Y-%m-%d" }} | {{ page.author | capitalize }}
+    </small>
     <div id="content">{{ content }}</div>
   </div>
 
@@ -24,7 +21,7 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-  
+
   {% include bottom_call_to_action.html %}
 </div>
 

@@ -1,10 +1,14 @@
-.contact-form {
-  height: 500px;
-  width: 500px;
+h1 {
+  margin-bottom: 0;
 }
 
 .center {
   text-align: center;
+}
+
+.contact-form {
+  height: 500px;
+  width: 500px;
 }
 
 #copyright {
@@ -16,4 +20,8 @@
 
 #copyright > div {
   line-height: 1.5em;
+}
+
+#content {
+  margin: 20px 0 35px;
 }

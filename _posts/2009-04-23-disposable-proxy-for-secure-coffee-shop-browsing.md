@@ -7,10 +7,6 @@ tags:
 - technology
 ---
 
-<div class="left">
-  <a href="http://aws.amazon.com"><img src="http://flatterline.com/wp-content/uploads/2009/04/logo_aws.gif" alt="Amazon Web Services" title="logo_aws" width="164" height="60" class="size-full wp-image-160" /></a>
-</div>
-
 If you are a highly mobile laptop user, chances are you work out of a lot of varying public locations such as coffee shops, libraries, and just about anywhere that has public wifi. Are you concerned about the privacy of your data?If you're like me, and our clients, you're very concerned. Applications like [tcpflow](http://www.circlemud.org/~jelson/software/tcpflow/) and [Wireshark](http://www.wireshark.org/) are not only particularly effective at grabbing content from the network, they also happen to be readily available.
 
 **Here's a very simple scheme to leverage the inexpensive power of Amazon's EC2 to create a disposable, secure proxy.**

@@ -1,16 +1,14 @@
 --- 
 author: curtis
+image:
+  url: http://sxsw.com/files/u10/ia_meet_webtile.gif
+  title: Meet me at SXSW 2009 (http://sxsw.com)
+  alt: Meet me at SXSW 2009 (http://sxsw.com)
 layout: post
 title: "SXSW Interactive 2009: Flatterline will be there!"
 tags: 
 - conferences
 ---
-
-<div class="left">
-  <a href="http://sxsw.com">
-    <img src="http://sxsw.com/files/u10/ia_meet_webtile.gif" alt="Meet me at SXSW 2009 (http://sxsw.com)" />
-  </a>
-</div>
 
 That's right, folks, both [Chris Chandler](http://chrischandler.name) and [Curtis Miller](http://millarian.com) will be hitting up SXSW this year in Austin. We arrive Thursday night and leave Tuesday night. Unfortunately, we made our plans when we still worked for someone else, so we tried to minimize time off from work... boo!
 

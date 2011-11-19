@@ -1,14 +1,14 @@
 --- 
 author: chris
+image:
+  url: http://farm1.static.flickr.com/67/170500174_d15d6c5541_m_d.jpg
+  title: A happy application in the cloud. Photo by Timothy K. Hamilton.
+  alt: A happy application in the cloud.
 layout: post
 title: Optimizing hardware costs for Amazon EC2
 tags: 
 - technology
 ---
-
-<div class="left">
-  <img title="A happy application in the cloud. Photo by Timothy K. Hamilton." src="http://farm1.static.flickr.com/67/170500174_d15d6c5541_m_d.jpg" alt="Cloud" width="160" height="120" />
-</div>
 
 A happy application in the cloud. Photo by Timothy K. Hamilton.
 
