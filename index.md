@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Ruby on Rails Development | Web Application Development
 description: Flatterline is a software development company specializing in custom web application using Ruby on Rails.
 ---
