@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Web Development Services in Arizona
+title: Ruby on Rails Development Services | Custom Web Application Development | Rails Consulting
 ---
 
-# Services
+# Ruby on Rails Development Services
 
-Ua hakahaka na iwi loihi nui, i paa lakou aole e hai wawe, a i mama lakou, a i wahi hoi e waiho ai ka momona. Eia paha ke kuleana o ka momona maloko o na iwi. I ka wa e mai ai ke kanaka, aole e hiki ia ia ke ai i ka ai, aole e pono ka opu ke hoonohonoho i ka ai a lilo ia i mea e maona ai, aka, ua lilo ia i mea awaawa a me ka wela, a me ke nahu, maloko o kona opu: ia manawa kiiia ae la ua momona la, a ma ke koko e lawe aku la, a hiki i na wahi a pau o ke kino, oia ka mea e ikaika ai ke kanaka i ka wa mai, aka i liuliu ka mai ana, pau ia momona, alaila kiiia ka momona o ke kino a puni, hiki wawe iho la ka wiwi i ua mai la. A pau ka mai, komo hou ka ai maloko o ka opu, lilo ia i mea e ikaika ai, alaila e hoi hou ua momona la i laweia'ku ai mamua, a piha hou na iwi i ka momona. No ia mau mea, e pono ke waiho i ka ai i ka manawa mai: he hoopailua ka opu i ka ai, no ka mea ua ike ia he mea kaumaha ka ai. Mai makau ka mai i ka pololi; ina e hoole ka opu i ka ai, aole e make koke ke kanaka i ka pololi. Nani ka lokomaikai o ke Akua i kona hoomakaukau ana i ka momona maloko o na iwi, i mea e ola ai ke kino i ka manawa mai.
+## Ruby on Rails Development
+At our core, we're Ruby on Rails developers. We specilize in building custom web applications using agile methodologies that allow us to create error-free code, on time and on budget. We don't take a 'put your head down and code approach.' Rather, we keep the communication going throughout the process, with you taking an active role in the development of your app. This allows us to adjust to changes quickly as we make new discoveries along the way.
 
-Aole e like loa na poo o kanaka ke nana aku. Ua hana ke Akua, he ano okoa iki ko kekahi, a he okoa iki ko kekahi. Pela no na maka: aole loa e loaaia na kanaka elua, ua like loa ko laua helehelena, ke imi nui ma na aina a pau. O kekahi mau mahoe, ua kokoke like ka.
+## Ruby on Rails Consulting
+Our rails consulting service is perfect for the startup or business that needs help creating a requirements document, wants to integrate agile methodologies into their team, or just needs an action plan for improving communication, making teams more independent and self-sufficient, honing processes for greatest efficiency. 
+
+## Rails Updates
+If your web app was developed a few years ago, chances are you're running on an older version of Rails. When you update, it may help your app's performance, but it may also break it. That's why you bring us in to professionally transition you to the latest rails update.
+
+## Source Code Audit
+Maybe you have a project in progress, or an app that's already complete. We provide a third party perspective on the state of your code. Find out if your developers are using extensive testing for error-free code and if they're following RoR best practices.
