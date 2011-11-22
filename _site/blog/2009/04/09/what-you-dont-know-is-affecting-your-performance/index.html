@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>What you don't know is affecting your performance | Flatterline</title>
+    <meta name="description" content="">
+
+    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+    <!--[if IE]>
+        <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script src="/javascripts/bootstrap-dropdown.js"></script>
+  </head>
+
+  <body>
+    <div id="wrap_all">
+  <div id="wrap_all_2" class="row">
+    <header id="page_header" class="span16">
+  <div id="page_header_inner_wrap" class="row">
+    <div id="page_logo_wrap" class="span12"><a href="/" title="home" class="shh">Flatterline</a></div>
+    <div class="page-head-contact" class="span4">
+      <a href="/contact/" class="success orange btn">Contact</a>
+    </div>
+  </div>
+</header>
+    <nav>
+  <ul class="tabs">
+    <li class="dropdown" data-dropdown="dropdown">
+      <a href="#" class="dropdown-toggle">Services</a>
+      <ul class="dropdown-menu">
+        <li><a href="/services/ruby-on-rails-development/">Ruby on Rails Development</a></li>
+        <li><a href="/services/code-audits/">Code Audits</a></li>
+        <li class="divider"></li>
+        <li><a href="/services/search-engine-marketing/">Search Engine Marketing</a></li>
+      </ul>
+    </li>
+    <li><a href="/portfolio/">Portfolio</a></li>
+    <li><a href="/team/">Team</a></li>
+    <li><a href="/blog/">Blog</a></li>
+  </ul>
+</nav>
+
+    <div class="span12">
+  <div id="post">
+    <h1><a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a></h1>
+    <small class="post-data">
+      2009-04-09 | Chris
+    </small>
+    <div id="content"><p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
+
+<h2>Swappiness</h2>
+
+<p>The Linux 2.6 kernel has a parameter called vm.swappiness that regulates the kernel's likelihood to swap memory to disk (e.g., to free up memory for disk/content caching, load other programs, etc). Valid values are between 0 and 100. On the current release of Ubuntu (Intrepid) this value has a default value of 60 that you can investigate with the following command:</p>
+
+<pre><code>$ cat /proc/sys/vm/swappiness
+60
+</code></pre>
+
+<p>This value is generally fine, but if your physical memory is significantly higher than what you need it's worth investigating other choices.I personally find a pretty significant performance increase in Rails behavior with a value of 0; essentially telling the kernel to not swap anything out until it becomes absolutely necessary.</p>
+
+<p>The value can be changed either with:</p>
+
+<pre><code>$ sysctl vm.swappiness=0
+</code></pre>
+
+<p><strong>or</strong></p>
+
+<pre><code>$ echo 0 &amp;gt; /proc/sys/vm/swappiness
+</code></pre>
+
+<h2>A persistent lack of swappiness</h2>
+
+<p>If you restart the server, then your change will be lost. If you want the change to remain persistent across restarts you'll either need to create a script that calls one of these commands or edit /etc/sysctl.conf to specify the swappiness. As always, exercise caution playing with kernel parameters :-).</p>
+
+<h2>Swapping it back in</h2>
+
+<p>If you change vm.swappiness and want to force the kernel to swap everything back in you can temporarily disable the swap partition and then immediately re-enable it.</p>
+
+<pre><code>$ swapon -s
+
+Filename         Type      Size  Used  Priority
+/dev/sda2         partition    524280 33948  -2
+
+$ swapoff /dev/sda2
+$ swapon /dev/sda2
+</code></pre>
+
+<p>If the machine doesn't have enough memory to accommodate the swap-in the command will fail with an error.</p>
+
+<p><strong>Let us know if this helps you out!</strong></p>
+</div>
+  </div>
+
+  <div id="authors">
+  <div class="author row">
+  <div class="author-image span2">
+    <img src="/images/chris-chandler.jpg" title="Chris Chandler" alt="Chris Chandler" />
+  </div>
+
+  <div class="author-info span10">
+    <div class="author-name">Chris Chandler</div>
+    <div class="author-bio">
+      Chris has dabbled in cross-layer wireless network routing algorithms as a PhD student at ASU
+      and co-authored several papers during his time there. His development experience includes
+      several widely-integrated and PCI-compliant e-commerce platforms, a handful of data
+      protection/encryption suites, and a significant amount of work for one of the world’s
+      largest public-facing Certificate Authorities in addition to several other projects.
+    </div>
+    <div class="author-sm">
+      <ul>
+        <li><a class="github"   href="http://github.com/cchandler">GitHub</a></li>
+        <li><a class="twitter"  href="http://twitter.com/squanderingtime">Twitter</a></li>
+        <li><a class="linkedin" href="http://www.linkedin.com/in/cchandler480">LinkedIn</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+
+
+  <div id="related">
+    <h2>Related Posts</h2>
+    <ul class="posts">
+      
+        <li><span>23 Apr 2009</span> &raquo; <a href="/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing">Disposable proxy for secure coffee shop browsing</a></li>
+      
+        <li><span>27 Apr 2009</span> &raquo; <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a></li>
+      
+        <li><span>06 Mar 2009</span> &raquo; <a href="/blog/2009/03/06/in-the-beginning">In the beginning...</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="bottom-call-to-action alert-message block-message info">
+  Looking for <a href="/" class="shh">web development services</a>?&nbsp;  <a href="/contact/">Contact our developers</a> to get started.
+</div>
+</div>
+
+<aside id="sidebar" class="span4">
+  
+
+  <h3>Services</h3>
+  <ul>
+    <li>Web Development</li>
+    <li>Ruby on Rails Project Management</li>
+    <li>Search Engine Optimization</li>
+  </ul>
+</aside>
+
+    <footer id="page_footer" class="span16">
+  <a href="/contact/">Contact us</a>.
+
+  <div class="vcard">
+    <div class="adr">
+      <a class="fn org url" href="http://flatterline.com/">Flatterline</a>
+      <div class="tag-line">Purveyors of Kick Ass Web Development</div>
+
+      <span class="locality">Phoenix</span>,
+      <abbr title="Arizona" class="region">AZ</abbr>
+      <div class="tel"><a class="value" href="tel:+14804209081">480.420.9081</a></div>
+    </div>
+  </div>
+
+  <div id="copyright" class="row">
+    <div class="span2 center">
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" />
+      </a>
+    </div>
+
+    <div class="span10">
+      <a xmlns:cc="http://creativecommons.org/ns#" href="http://flatterline.com/" property="cc:attributionName" rel="cc:attributionURL">Flatterline.com</a>
+      is licensed under a
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+      </a>.
+    </div>
+  </div>
+</footer>
+
+  </div>
+</div>
+  </body>
+</html>

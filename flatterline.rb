@@ -17,10 +17,25 @@
   end
 
 ## GET requests ##
+  ############################################################
   # Handle old site URLs with a permanent redirect
-  get "/index.php/*" do |title|
-    redirect title, 301
+  ############################################################
+  get '/index.php/blog/?' do
+    redirect '/blog', 301
   end
+
+  get '/index.php/team/?' do
+    redirect '/team', 301
+  end
+
+  get '/index.php/services/?' do
+    redirect '/services', 301
+  end
+
+  get "/index.php/*/?" do |title|
+    redirect "blog/#{title}", 301
+  end
+  ############################################################
 
   # Index page
   get '/' do

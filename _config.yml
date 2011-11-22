@@ -3,5 +3,5 @@ exclude: *.sass, *.scss, Gemfile, Gemfile.lock, Procfile, README.md
 lsi: true
 markdown: rdiscount
 paginate: 10
-permalink: /:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 pygments: true
