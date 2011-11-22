@@ -10,3 +10,12 @@ a.shh {
     font-weight: inherit;
   }
 }
+
+.tabs .menu-dropdown, .tabs .dropdown-menu {
+  border-radius: 0 0 6px 6px;
+  top: 37px;
+}
+
+.menu-dropdown, .dropdown-menu {
+  min-width: 200px;
+}
