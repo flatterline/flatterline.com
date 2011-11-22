@@ -5,7 +5,7 @@ title: Content Creation Services
 
 # Content Creation and Content Writing
 
-We've all heard the adage, "Content is king." But in Orwellian gest, we ask, "Is all content created equal? Or is some content more equal than others?"
+We've all heard the adage, "Content is king." But in Orwellian jest, we ask, "Is all content created equal? Or is some content more equal than others?"
 
 You see...it's not 'content' that's going to get you more visitors; it's 'quality content'--you know, the kind of content that grabs you by the balls and threatens to hold you in agony until you read the next sentence. Do I have your attention now...?
 
