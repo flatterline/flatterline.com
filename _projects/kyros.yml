@@ -1,0 +1,10 @@
+description: 
+image:
+  url: /images/kyros.jpg
+  title: Kyros
+  alt: Kyros
+layout:    project
+published: true
+short:     A web-based social learning platform for college students & professors.
+title:     Kyros
+website:   http://mykyros.com/

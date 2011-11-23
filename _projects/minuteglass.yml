@@ -1,0 +1,10 @@
+description: 
+image:
+  url: /images/minuteglass.jpg
+  title: Minuteglass
+  alt: Minuteglass
+layout:    project
+published: true
+short:     A time tracking application that allows you to easily track your time through the day and quickly shift between tasks.
+title:     Minuteglass
+website:   http://minuteglass.com/

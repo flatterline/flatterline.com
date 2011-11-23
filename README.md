@@ -20,8 +20,8 @@ Local Development
 - `rvm`
 - `bundle`
 - `gsl` (optionally).
-	
-	If you don’t have `gsl` installed (currently a `brew` install of `1.14`, not `1.15`, is good if you on OS X), then generation will run a bit more slowly, but you _can_ remove or comment it out of the Gemfile.
+  
+  If you don’t have `gsl` installed (currently a `brew` install of `1.14`, not `1.15`, is good if you on OS X), then generation will run a bit more slowly, but you _can_ remove or comment it out of the Gemfile.
 
 ### Working and Viewing
 

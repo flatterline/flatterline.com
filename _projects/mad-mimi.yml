@@ -1,0 +1,10 @@
+description: 
+image:
+  url: /images/madmimi.jpg
+  title: Mad Mimi
+  alt: Mad Mimi
+layout:    project
+published: true
+short:     A lovely, simple email service that lets you create, send and track emails.
+title:     Mad Mimi
+website:   http://madmimi.com/

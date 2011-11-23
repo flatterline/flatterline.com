@@ -17,120 +17,120 @@
 
 <!-- generator="WordPress/2.8.4" created="2011-11-09 22:12"-->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.0/"
+  xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.0/"
 >
 
 <channel>
-	<title>Flatterline</title>
-	<link>http://flatterline.com</link>
-	<description>Kick ass developers helping web startups realize their vision.</description>
-	<pubDate>Thu, 12 Nov 2009 04:17:16 +0000</pubDate>
-	<generator>http://wordpress.org/?v=2.8.4</generator>
-	<language>en</language>
-	<wp:wxr_version>1.0</wp:wxr_version>
-	<wp:base_site_url>http://flatterline.com</wp:base_site_url>
-	<wp:base_blog_url>http://flatterline.com</wp:base_blog_url>
-	<wp:category><wp:category_nicename>business</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Business]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>community</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Community]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>excursions</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Excursions]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>startups</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Startups]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>sxsw-2009</wp:category_nicename><wp:category_parent>Excursions</wp:category_parent><wp:cat_name><![CDATA[SXSW 2009]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>tech</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Tech]]></wp:cat_name></wp:category>
-	<wp:category><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:tag><wp:tag_slug>about</wp:tag_slug><wp:tag_name><![CDATA[about]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>activity</wp:tag_slug><wp:tag_name><![CDATA[activity]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>amazon-ec2</wp:tag_slug><wp:tag_name><![CDATA[Amazon EC2]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>capacity-planning</wp:tag_slug><wp:tag_name><![CDATA[capacity planning]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>cloud</wp:tag_slug><wp:tag_name><![CDATA[cloud]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>coffee-shop</wp:tag_slug><wp:tag_name><![CDATA[coffee shop]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>conferences</wp:tag_slug><wp:tag_name><![CDATA[conferences]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>couchdb</wp:tag_slug><wp:tag_name><![CDATA[couchdb]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>crypto</wp:tag_slug><wp:tag_name><![CDATA[crypto]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>desertcodecamp</wp:tag_slug><wp:tag_name><![CDATA[desertcodecamp]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>devignite</wp:tag_slug><wp:tag_name><![CDATA[devignite]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>ec2</wp:tag_slug><wp:tag_name><![CDATA[ec2]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>entrepreneur</wp:tag_slug><wp:tag_name><![CDATA[entrepreneur]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>erlang</wp:tag_slug><wp:tag_name><![CDATA[erlang]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>flatterline</wp:tag_slug><wp:tag_name><![CDATA[flatterline]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>haskell</wp:tag_slug><wp:tag_name><![CDATA[haskell]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>investor</wp:tag_slug><wp:tag_name><![CDATA[investor]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>java</wp:tag_slug><wp:tag_name><![CDATA[java]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>jruby</wp:tag_slug><wp:tag_name><![CDATA[jruby]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>linear-programming</wp:tag_slug><wp:tag_name><![CDATA[linear programming]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>opencoffee</wp:tag_slug><wp:tag_name><![CDATA[opencoffee]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>operations</wp:tag_slug><wp:tag_name><![CDATA[operations]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>optimal</wp:tag_slug><wp:tag_name><![CDATA[optimal]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>performance</wp:tag_slug><wp:tag_name><![CDATA[performance]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>phoenix</wp:tag_slug><wp:tag_name><![CDATA[phoenix]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>proxy</wp:tag_slug><wp:tag_name><![CDATA[proxy]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>referrals</wp:tag_slug><wp:tag_name><![CDATA[referrals]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>ruby</wp:tag_slug><wp:tag_name><![CDATA[ruby]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>scala</wp:tag_slug><wp:tag_name><![CDATA[scala]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>secure</wp:tag_slug><wp:tag_name><![CDATA[secure]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>security</wp:tag_slug><wp:tag_name><![CDATA[security]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>squid</wp:tag_slug><wp:tag_name><![CDATA[squid]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>swapping</wp:tag_slug><wp:tag_name><![CDATA[swapping]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>sxsw</wp:tag_slug><wp:tag_name><![CDATA[sxsw]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>technology</wp:tag_slug><wp:tag_name><![CDATA[technology]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>thanks</wp:tag_slug><wp:tag_name><![CDATA[thanks]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu]]></wp:tag_name></wp:tag>
-		<item>
+  <title>Flatterline</title>
+  <link>http://flatterline.com</link>
+  <description>Kick ass developers helping web startups realize their vision.</description>
+  <pubDate>Thu, 12 Nov 2009 04:17:16 +0000</pubDate>
+  <generator>http://wordpress.org/?v=2.8.4</generator>
+  <language>en</language>
+  <wp:wxr_version>1.0</wp:wxr_version>
+  <wp:base_site_url>http://flatterline.com</wp:base_site_url>
+  <wp:base_blog_url>http://flatterline.com</wp:base_blog_url>
+  <wp:category><wp:category_nicename>business</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Business]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>community</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Community]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>excursions</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Excursions]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>startups</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Startups]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>sxsw-2009</wp:category_nicename><wp:category_parent>Excursions</wp:category_parent><wp:cat_name><![CDATA[SXSW 2009]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>tech</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Tech]]></wp:cat_name></wp:category>
+  <wp:category><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+  <wp:tag><wp:tag_slug>about</wp:tag_slug><wp:tag_name><![CDATA[about]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>activity</wp:tag_slug><wp:tag_name><![CDATA[activity]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>amazon-ec2</wp:tag_slug><wp:tag_name><![CDATA[Amazon EC2]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>capacity-planning</wp:tag_slug><wp:tag_name><![CDATA[capacity planning]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>cloud</wp:tag_slug><wp:tag_name><![CDATA[cloud]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>coffee-shop</wp:tag_slug><wp:tag_name><![CDATA[coffee shop]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>conferences</wp:tag_slug><wp:tag_name><![CDATA[conferences]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>couchdb</wp:tag_slug><wp:tag_name><![CDATA[couchdb]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>crypto</wp:tag_slug><wp:tag_name><![CDATA[crypto]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>desertcodecamp</wp:tag_slug><wp:tag_name><![CDATA[desertcodecamp]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>devignite</wp:tag_slug><wp:tag_name><![CDATA[devignite]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>ec2</wp:tag_slug><wp:tag_name><![CDATA[ec2]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>entrepreneur</wp:tag_slug><wp:tag_name><![CDATA[entrepreneur]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>erlang</wp:tag_slug><wp:tag_name><![CDATA[erlang]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>flatterline</wp:tag_slug><wp:tag_name><![CDATA[flatterline]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>haskell</wp:tag_slug><wp:tag_name><![CDATA[haskell]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>investor</wp:tag_slug><wp:tag_name><![CDATA[investor]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>java</wp:tag_slug><wp:tag_name><![CDATA[java]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>jruby</wp:tag_slug><wp:tag_name><![CDATA[jruby]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>linear-programming</wp:tag_slug><wp:tag_name><![CDATA[linear programming]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>opencoffee</wp:tag_slug><wp:tag_name><![CDATA[opencoffee]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>operations</wp:tag_slug><wp:tag_name><![CDATA[operations]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>optimal</wp:tag_slug><wp:tag_name><![CDATA[optimal]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>performance</wp:tag_slug><wp:tag_name><![CDATA[performance]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>phoenix</wp:tag_slug><wp:tag_name><![CDATA[phoenix]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>proxy</wp:tag_slug><wp:tag_name><![CDATA[proxy]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>referrals</wp:tag_slug><wp:tag_name><![CDATA[referrals]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>ruby</wp:tag_slug><wp:tag_name><![CDATA[ruby]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>scala</wp:tag_slug><wp:tag_name><![CDATA[scala]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>secure</wp:tag_slug><wp:tag_name><![CDATA[secure]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>security</wp:tag_slug><wp:tag_name><![CDATA[security]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>squid</wp:tag_slug><wp:tag_name><![CDATA[squid]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>swapping</wp:tag_slug><wp:tag_name><![CDATA[swapping]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>sxsw</wp:tag_slug><wp:tag_name><![CDATA[sxsw]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>technology</wp:tag_slug><wp:tag_name><![CDATA[technology]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>thanks</wp:tag_slug><wp:tag_name><![CDATA[thanks]]></wp:tag_name></wp:tag>
+  <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu]]></wp:tag_name></wp:tag>
+    <item>
 <title>Language performance comparison using Fibonacci sequence</title>
 <link>http://flatterline.com/?p=378</link>
 <pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Excursions]]></category>
+    <category><![CDATA[Excursions]]></category>
 
-		<category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
+    <category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag"><![CDATA[erlang]]></category>
+    <category domain="tag"><![CDATA[erlang]]></category>
 
-		<category domain="tag" nicename="erlang"><![CDATA[erlang]]></category>
+    <category domain="tag" nicename="erlang"><![CDATA[erlang]]></category>
 
-		<category domain="tag"><![CDATA[haskell]]></category>
+    <category domain="tag"><![CDATA[haskell]]></category>
 
-		<category domain="tag" nicename="haskell"><![CDATA[haskell]]></category>
+    <category domain="tag" nicename="haskell"><![CDATA[haskell]]></category>
 
-		<category domain="tag"><![CDATA[java]]></category>
+    <category domain="tag"><![CDATA[java]]></category>
 
-		<category domain="tag" nicename="java"><![CDATA[java]]></category>
+    <category domain="tag" nicename="java"><![CDATA[java]]></category>
 
-		<category domain="tag"><![CDATA[jruby]]></category>
+    <category domain="tag"><![CDATA[jruby]]></category>
 
-		<category domain="tag" nicename="jruby"><![CDATA[jruby]]></category>
+    <category domain="tag" nicename="jruby"><![CDATA[jruby]]></category>
 
-		<category domain="tag"><![CDATA[performance]]></category>
+    <category domain="tag"><![CDATA[performance]]></category>
 
-		<category domain="tag" nicename="performance"><![CDATA[performance]]></category>
+    <category domain="tag" nicename="performance"><![CDATA[performance]]></category>
 
-		<category domain="tag"><![CDATA[ruby]]></category>
+    <category domain="tag"><![CDATA[ruby]]></category>
 
-		<category domain="tag" nicename="ruby"><![CDATA[ruby]]></category>
+    <category domain="tag" nicename="ruby"><![CDATA[ruby]]></category>
 
-		<category domain="tag"><![CDATA[scala]]></category>
+    <category domain="tag"><![CDATA[scala]]></category>
 
-		<category domain="tag" nicename="scala"><![CDATA[scala]]></category>
+    <category domain="tag" nicename="scala"><![CDATA[scala]]></category>
 
-		<category domain="tag"><![CDATA[technology]]></category>
+    <category domain="tag"><![CDATA[technology]]></category>
 
-		<category domain="tag" nicename="technology"><![CDATA[technology]]></category>
+    <category domain="tag" nicename="technology"><![CDATA[technology]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=378</guid>
 <description></description>
@@ -175,24 +175,24 @@ I encourage you to run the tests yourself and compare your results with those pr
 <wp:meta_key>_edit_last</wp:meta_key>
 <wp:meta_value>2</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>In the beginning...</title>
 <link>http://flatterline.com/index.php/2009/03/06/in-the-beginning/</link>
 <pubDate>Fri, 06 Mar 2009 14:57:13 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Business]]></category>
+    <category><![CDATA[Business]]></category>
 
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+    <category domain="category" nicename="business"><![CDATA[Business]]></category>
 
-		<category domain="tag"><![CDATA[about]]></category>
+    <category domain="tag"><![CDATA[about]]></category>
 
-		<category domain="tag" nicename="about"><![CDATA[about]]></category>
+    <category domain="tag" nicename="about"><![CDATA[about]]></category>
 
-		<category domain="tag"><![CDATA[flatterline]]></category>
+    <category domain="tag"><![CDATA[flatterline]]></category>
 
-		<category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
+    <category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=4</guid>
 <description></description>
@@ -314,32 +314,32 @@ Nice to hear you're on Twitter, too. It's about freakin' time!]]></wp:comment_co
 <wp:comment_parent>47</wp:comment_parent>
 <wp:comment_user_id>3</wp:comment_user_id>
 </wp:comment>
-	</item>
+  </item>
 <item>
 <title>SXSW Interactive 2009: Flatterline will be there!</title>
 <link>http://flatterline.com/index.php/2009/03/09/sxsw-interactive-2009-flatterline-will-be-there/</link>
 <pubDate>Tue, 10 Mar 2009 03:56:55 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Excursions]]></category>
+    <category><![CDATA[Excursions]]></category>
 
-		<category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
+    <category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
 
-		<category><![CDATA[SXSW 2009]]></category>
+    <category><![CDATA[SXSW 2009]]></category>
 
-		<category domain="category" nicename="sxsw-2009"><![CDATA[SXSW 2009]]></category>
+    <category domain="category" nicename="sxsw-2009"><![CDATA[SXSW 2009]]></category>
 
-		<category domain="tag"><![CDATA[conferences]]></category>
+    <category domain="tag"><![CDATA[conferences]]></category>
 
-		<category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
+    <category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
 
-		<category domain="tag"><![CDATA[flatterline]]></category>
+    <category domain="tag"><![CDATA[flatterline]]></category>
 
-		<category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
+    <category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
 
-		<category domain="tag"><![CDATA[sxsw]]></category>
+    <category domain="tag"><![CDATA[sxsw]]></category>
 
-		<category domain="tag" nicename="sxsw"><![CDATA[sxsw]]></category>
+    <category domain="tag" nicename="sxsw"><![CDATA[sxsw]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=74</guid>
 <description></description>
@@ -387,28 +387,28 @@ Nice to hear you're on Twitter, too. It's about freakin' time!]]></wp:comment_co
 <wp:meta_key>_edit_last</wp:meta_key>
 <wp:meta_value>3</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Return from SXSW and followup</title>
 <link>http://flatterline.com/index.php/2009/03/19/return-from-sxsw-and-followup/</link>
 <pubDate>Thu, 19 Mar 2009 18:42:01 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Excursions]]></category>
+    <category><![CDATA[Excursions]]></category>
 
-		<category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
+    <category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
 
-		<category><![CDATA[SXSW 2009]]></category>
+    <category><![CDATA[SXSW 2009]]></category>
 
-		<category domain="category" nicename="sxsw-2009"><![CDATA[SXSW 2009]]></category>
+    <category domain="category" nicename="sxsw-2009"><![CDATA[SXSW 2009]]></category>
 
-		<category domain="tag"><![CDATA[conferences]]></category>
+    <category domain="tag"><![CDATA[conferences]]></category>
 
-		<category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
+    <category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
 
-		<category domain="tag"><![CDATA[sxsw]]></category>
+    <category domain="tag"><![CDATA[sxsw]]></category>
 
-		<category domain="tag" nicename="sxsw"><![CDATA[sxsw]]></category>
+    <category domain="tag" nicename="sxsw"><![CDATA[sxsw]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=105</guid>
 <description></description>
@@ -437,36 +437,36 @@ Nice to hear you're on Twitter, too. It's about freakin' time!]]></wp:comment_co
 <wp:meta_key>_edit_lock</wp:meta_key>
 <wp:meta_value>1242069637</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Current activity and a thanks to everyone!</title>
 <link>http://flatterline.com/index.php/2009/04/01/current-activity-and-a-thanks-to-everyone/</link>
 <pubDate>Wed, 01 Apr 2009 23:34:34 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Business]]></category>
+    <category><![CDATA[Business]]></category>
 
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+    <category domain="category" nicename="business"><![CDATA[Business]]></category>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category domain="tag"><![CDATA[activity]]></category>
+    <category domain="tag"><![CDATA[activity]]></category>
 
-		<category domain="tag" nicename="activity"><![CDATA[activity]]></category>
+    <category domain="tag" nicename="activity"><![CDATA[activity]]></category>
 
-		<category domain="tag"><![CDATA[flatterline]]></category>
+    <category domain="tag"><![CDATA[flatterline]]></category>
 
-		<category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
+    <category domain="tag" nicename="flatterline"><![CDATA[flatterline]]></category>
 
-		<category domain="tag"><![CDATA[referrals]]></category>
+    <category domain="tag"><![CDATA[referrals]]></category>
 
-		<category domain="tag" nicename="referrals"><![CDATA[referrals]]></category>
+    <category domain="tag" nicename="referrals"><![CDATA[referrals]]></category>
 
-		<category domain="tag"><![CDATA[thanks]]></category>
+    <category domain="tag"><![CDATA[thanks]]></category>
 
-		<category domain="tag" nicename="thanks"><![CDATA[thanks]]></category>
+    <category domain="tag" nicename="thanks"><![CDATA[thanks]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=116</guid>
 <description></description>
@@ -499,28 +499,28 @@ Nice to hear you're on Twitter, too. It's about freakin' time!]]></wp:comment_co
 <wp:meta_key>_edit_last</wp:meta_key>
 <wp:meta_value>3</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>What you don&#039;t know is affecting your performance</title>
 <link>http://flatterline.com/index.php/2009/04/09/what-you-dont-know-is-affecting-your-performance/</link>
 <pubDate>Fri, 10 Apr 2009 01:13:55 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[performance]]></category>
+    <category domain="tag"><![CDATA[performance]]></category>
 
-		<category domain="tag" nicename="performance"><![CDATA[performance]]></category>
+    <category domain="tag" nicename="performance"><![CDATA[performance]]></category>
 
-		<category domain="tag"><![CDATA[swapping]]></category>
+    <category domain="tag"><![CDATA[swapping]]></category>
 
-		<category domain="tag" nicename="swapping"><![CDATA[swapping]]></category>
+    <category domain="tag" nicename="swapping"><![CDATA[swapping]]></category>
 
-		<category domain="tag"><![CDATA[ubuntu]]></category>
+    <category domain="tag"><![CDATA[ubuntu]]></category>
 
-		<category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
+    <category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=141</guid>
 <description></description>
@@ -579,40 +579,40 @@ $ swapon /dev/sda2</pre>
 <wp:meta_key>_edit_last</wp:meta_key>
 <wp:meta_value>3</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Disposable proxy for secure coffee shop browsing</title>
 <link>http://flatterline.com/index.php/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing/</link>
 <pubDate>Thu, 23 Apr 2009 23:39:37 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Business]]></category>
+    <category><![CDATA[Business]]></category>
 
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+    <category domain="category" nicename="business"><![CDATA[Business]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag"><![CDATA[proxy]]></category>
+    <category domain="tag"><![CDATA[proxy]]></category>
 
-		<category domain="tag" nicename="proxy"><![CDATA[proxy]]></category>
+    <category domain="tag" nicename="proxy"><![CDATA[proxy]]></category>
 
-		<category domain="tag"><![CDATA[security]]></category>
+    <category domain="tag"><![CDATA[security]]></category>
 
-		<category domain="tag" nicename="security"><![CDATA[security]]></category>
+    <category domain="tag" nicename="security"><![CDATA[security]]></category>
 
-		<category domain="tag"><![CDATA[squid]]></category>
+    <category domain="tag"><![CDATA[squid]]></category>
 
-		<category domain="tag" nicename="squid"><![CDATA[squid]]></category>
+    <category domain="tag" nicename="squid"><![CDATA[squid]]></category>
 
-		<category domain="tag"><![CDATA[ubuntu]]></category>
+    <category domain="tag"><![CDATA[ubuntu]]></category>
 
-		<category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
+    <category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=155</guid>
 <description></description>
@@ -628,9 +628,9 @@ $ swapon /dev/sda2</pre>
 
 <p>You will need the following to make this recipe work:</p>
 <ul>
-	<li>Amazon AWS account</li>
-	<li>A Ubuntu-based Amazon AMI with keypair (we are using public ami-7cfd1a15 for this article)</li>
-	<li>An EC2 security group allowing a minimum of port 22 for SSH</li>
+  <li>Amazon AWS account</li>
+  <li>A Ubuntu-based Amazon AMI with keypair (we are using public ami-7cfd1a15 for this article)</li>
+  <li>An EC2 security group allowing a minimum of port 22 for SSH</li>
 </ul>
 
 <p>To start, launch a small instance of your AMI of choice.  Once again, we prefer Ubuntu so most of this article is going to be Ubuntu-centric.  This instance will need to be setup with whatever key pair you plan on using as well as be placed in the security group that allows SSH access.  If you need help with this the Amazon <a title="Amazon AWS Console" href="http://console.aws.amazon.com/">AWS console</a> is particularly useful.</p>
@@ -826,16 +826,16 @@ I had to modify Squid access to allow remote connections]]></wp:comment_content>
 <wp:comment_parent>0</wp:comment_parent>
 <wp:comment_user_id>0</wp:comment_user_id>
 </wp:comment>
-	</item>
+  </item>
 <item>
 <title>logo_aws</title>
 <link>http://flatterline.com/index.php/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing/logo_aws/</link>
 <pubDate>Fri, 24 Apr 2009 06:32:59 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/wp-content/uploads/2009/04/logo_aws.gif</guid>
 <description></description>
@@ -861,16 +861,16 @@ I had to modify Squid access to allow remote connections]]></wp:comment_content>
 <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 <wp:meta_value>a:5:{s:5:"width";s:3:"164";s:6:"height";s:2:"60";s:14:"hwstring_small";s:23:"height='46' width='128'";s:4:"file";s:20:"2009/04/logo_aws.gif";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>occ_logo</title>
 <link>http://flatterline.com/index.php/2009/04/24/phoenix-opencoffee-club/occ_logo/</link>
 <pubDate>Fri, 24 Apr 2009 08:01:49 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/wp-content/uploads/2009/04/occ_logo.gif</guid>
 <description></description>
@@ -896,16 +896,16 @@ I had to modify Squid access to allow remote connections]]></wp:comment_content>
 <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 <wp:meta_value>a:5:{s:5:"width";s:3:"278";s:6:"height";s:2:"45";s:14:"hwstring_small";s:23:"height='20' width='128'";s:4:"file";s:20:"2009/04/occ_logo.gif";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>occ_logo1</title>
 <link>http://flatterline.com/index.php/2009/04/24/phoenix-opencoffee-club/occ_logo1/</link>
 <pubDate>Fri, 24 Apr 2009 08:04:22 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/wp-content/uploads/2009/04/occ_logo1.gif</guid>
 <description></description>
@@ -931,44 +931,44 @@ I had to modify Squid access to allow remote connections]]></wp:comment_content>
 <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 <wp:meta_value>a:5:{s:5:"width";s:3:"278";s:6:"height";s:2:"45";s:14:"hwstring_small";s:23:"height='20' width='128'";s:4:"file";s:21:"2009/04/occ_logo1.gif";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Phoenix OpenCoffee Club</title>
 <link>http://flatterline.com/index.php/2009/04/24/phoenix-opencoffee-club/</link>
 <pubDate>Fri, 24 Apr 2009 18:33:15 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Business]]></category>
+    <category><![CDATA[Business]]></category>
 
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+    <category domain="category" nicename="business"><![CDATA[Business]]></category>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category><![CDATA[Startups]]></category>
+    <category><![CDATA[Startups]]></category>
 
-		<category domain="category" nicename="startups"><![CDATA[Startups]]></category>
+    <category domain="category" nicename="startups"><![CDATA[Startups]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[entrepreneur]]></category>
+    <category domain="tag"><![CDATA[entrepreneur]]></category>
 
-		<category domain="tag" nicename="entrepreneur"><![CDATA[entrepreneur]]></category>
+    <category domain="tag" nicename="entrepreneur"><![CDATA[entrepreneur]]></category>
 
-		<category domain="tag"><![CDATA[investor]]></category>
+    <category domain="tag"><![CDATA[investor]]></category>
 
-		<category domain="tag" nicename="investor"><![CDATA[investor]]></category>
+    <category domain="tag" nicename="investor"><![CDATA[investor]]></category>
 
-		<category domain="tag"><![CDATA[opencoffee]]></category>
+    <category domain="tag"><![CDATA[opencoffee]]></category>
 
-		<category domain="tag" nicename="opencoffee"><![CDATA[opencoffee]]></category>
+    <category domain="tag" nicename="opencoffee"><![CDATA[opencoffee]]></category>
 
-		<category domain="tag"><![CDATA[phoenix]]></category>
+    <category domain="tag"><![CDATA[phoenix]]></category>
 
-		<category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
+    <category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=163</guid>
 <description></description>
@@ -1100,16 +1100,16 @@ In my opinion, as an outsider (I’ve been living here since 4 years ago), I thi
 <wp:comment_parent>0</wp:comment_parent>
 <wp:comment_user_id>0</wp:comment_user_id>
 </wp:comment>
-	</item>
+  </item>
 <item>
 <title>cloud</title>
 <link>http://flatterline.com/index.php/2009/04/27/optimizing-hardware-costs-for-amazon-ec2/cloud/</link>
 <pubDate>Sun, 26 Apr 2009 05:01:36 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/wp-content/uploads/2009/04/cloud.jpg</guid>
 <description></description>
@@ -1135,16 +1135,16 @@ In my opinion, as an outsider (I’ve been living here since 4 years ago), I thi
 <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 <wp:meta_value>a:5:{s:5:"width";s:3:"100";s:6:"height";s:2:"75";s:14:"hwstring_small";s:23:"height='75' width='100'";s:4:"file";s:17:"2009/04/cloud.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>cloud</title>
 <link>http://flatterline.com/index.php/2009/04/27/optimizing-hardware-costs-for-amazon-ec2/cloud-1/</link>
 <pubDate>Sun, 26 Apr 2009 05:08:19 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/wp-content/uploads/2009/04/cloud-1.jpg</guid>
 <description></description>
@@ -1170,36 +1170,36 @@ In my opinion, as an outsider (I’ve been living here since 4 years ago), I thi
 <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 <wp:meta_value>a:5:{s:5:"width";s:4:"1024";s:6:"height";s:3:"766";s:14:"hwstring_small";s:23:"height='95' width='128'";s:4:"file";s:19:"2009/04/cloud-1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:2:"10";s:6:"credit";s:0:"";s:6:"camera";s:9:"MAXXUM 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1150650467";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"75";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:8:"0.000625";s:5:"title";s:0:"";}}</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Optimizing hardware costs for Amazon EC2</title>
 <link>http://flatterline.com/index.php/2009/04/27/optimizing-hardware-costs-for-amazon-ec2/</link>
 <pubDate>Mon, 27 Apr 2009 17:29:05 +0000</pubDate>
 <dc:creator><![CDATA[chris]]></dc:creator>
 
-		<category><![CDATA[Startups]]></category>
+    <category><![CDATA[Startups]]></category>
 
-		<category domain="category" nicename="startups"><![CDATA[Startups]]></category>
+    <category domain="category" nicename="startups"><![CDATA[Startups]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
+    <category domain="tag" nicename="amazon-ec2"><![CDATA[Amazon EC2]]></category>
 
-		<category domain="tag"><![CDATA[capacity planning]]></category>
+    <category domain="tag"><![CDATA[capacity planning]]></category>
 
-		<category domain="tag" nicename="capacity-planning"><![CDATA[capacity planning]]></category>
+    <category domain="tag" nicename="capacity-planning"><![CDATA[capacity planning]]></category>
 
-		<category domain="tag"><![CDATA[linear programming]]></category>
+    <category domain="tag"><![CDATA[linear programming]]></category>
 
-		<category domain="tag" nicename="linear-programming"><![CDATA[linear programming]]></category>
+    <category domain="tag" nicename="linear-programming"><![CDATA[linear programming]]></category>
 
-		<category domain="tag"><![CDATA[operations]]></category>
+    <category domain="tag"><![CDATA[operations]]></category>
 
-		<category domain="tag" nicename="operations"><![CDATA[operations]]></category>
+    <category domain="tag" nicename="operations"><![CDATA[operations]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=193</guid>
 <description></description>
@@ -1292,40 +1292,40 @@ Objective:  cost = 14400 (MINimum)
 <wp:comment_parent>0</wp:comment_parent>
 <wp:comment_user_id>0</wp:comment_user_id>
 </wp:comment>
-	</item>
+  </item>
 <item>
 <title>2009-04-30: Recap of Phoenix OpenCoffee Club</title>
 <link>http://flatterline.com/index.php/2009/05/03/2009-04-30-recap-of-phoenix-opencoffee-club/</link>
 <pubDate>Mon, 04 May 2009 04:32:08 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category><![CDATA[Startups]]></category>
+    <category><![CDATA[Startups]]></category>
 
-		<category domain="category" nicename="startups"><![CDATA[Startups]]></category>
+    <category domain="category" nicename="startups"><![CDATA[Startups]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[entrepreneur]]></category>
+    <category domain="tag"><![CDATA[entrepreneur]]></category>
 
-		<category domain="tag" nicename="entrepreneur"><![CDATA[entrepreneur]]></category>
+    <category domain="tag" nicename="entrepreneur"><![CDATA[entrepreneur]]></category>
 
-		<category domain="tag"><![CDATA[investor]]></category>
+    <category domain="tag"><![CDATA[investor]]></category>
 
-		<category domain="tag" nicename="investor"><![CDATA[investor]]></category>
+    <category domain="tag" nicename="investor"><![CDATA[investor]]></category>
 
-		<category domain="tag"><![CDATA[opencoffee]]></category>
+    <category domain="tag"><![CDATA[opencoffee]]></category>
 
-		<category domain="tag" nicename="opencoffee"><![CDATA[opencoffee]]></category>
+    <category domain="tag" nicename="opencoffee"><![CDATA[opencoffee]]></category>
 
-		<category domain="tag"><![CDATA[phoenix]]></category>
+    <category domain="tag"><![CDATA[phoenix]]></category>
 
-		<category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
+    <category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=252</guid>
 <description></description>
@@ -1391,16 +1391,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:comment_parent>0</wp:comment_parent>
 <wp:comment_user_id>0</wp:comment_user_id>
 </wp:comment>
-	</item>
+  </item>
 <item>
 <title>[home] Chris Profile</title>
 <link>http://flatterline.com/index.php/home-chris-profile/</link>
 <pubDate>Thu, 07 May 2009 06:54:37 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=282</guid>
 <description></description>
@@ -1429,16 +1429,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[team] chris-chandler</title>
 <link>http://flatterline.com/index.php/team-chris-chandler/</link>
 <pubDate>Thu, 07 May 2009 06:56:56 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=290</guid>
 <description></description>
@@ -1467,16 +1467,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[team] curtis-miller</title>
 <link>http://flatterline.com/index.php/team-curtis-miller/</link>
 <pubDate>Thu, 07 May 2009 06:57:49 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=291</guid>
 <description></description>
@@ -1505,16 +1505,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[home] Curtis Profile</title>
 <link>http://flatterline.com/index.php/home-curtis-profile/</link>
 <pubDate>Thu, 07 May 2009 07:00:36 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=284</guid>
 <description></description>
@@ -1543,16 +1543,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[home] Elevator Pitch</title>
 <link>http://flatterline.com/index.php/home-elevator-pitch/</link>
 <pubDate>Thu, 07 May 2009 07:03:18 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=285</guid>
 <description></description>
@@ -1582,16 +1582,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[services] Affordability</title>
 <link>http://flatterline.com/index.php/services-affordability/</link>
 <pubDate>Thu, 07 May 2009 07:04:28 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=287</guid>
 <description></description>
@@ -1621,16 +1621,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[services] form alternate</title>
 <link>http://flatterline.com/index.php/services-form-alternate/</link>
 <pubDate>Thu, 07 May 2009 07:05:03 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=286</guid>
 <description></description>
@@ -1670,16 +1670,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>[services] Super Agility</title>
 <link>http://flatterline.com/index.php/services-super-agility/</link>
 <pubDate>Thu, 07 May 2009 07:05:12 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=288</guid>
 <description></description>
@@ -1712,16 +1712,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>default</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Team</title>
 <link>http://flatterline.com/index.php/team/</link>
 <pubDate>Thu, 07 May 2009 07:07:02 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=294</guid>
 <description></description>
@@ -1750,16 +1750,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>team.php</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Services</title>
 <link>http://flatterline.com/index.php/services/</link>
 <pubDate>Thu, 07 May 2009 07:07:09 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=293</guid>
 <description></description>
@@ -1788,16 +1788,16 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>services.php</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Blog</title>
 <link>http://flatterline.com/index.php/blog/</link>
 <pubDate>Thu, 07 May 2009 07:07:15 +0000</pubDate>
 <dc:creator><![CDATA[jim]]></dc:creator>
 
-		<category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?page_id=292</guid>
 <description></description>
@@ -1826,48 +1826,48 @@ We've been looking for a place to hold another event called Coffee & Code. I'll 
 <wp:meta_key>_wp_page_template</wp:meta_key>
 <wp:meta_value>blog.php</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Desert Code Camp</title>
 <link>http://flatterline.com/index.php/2009/06/09/desert-code-camp/</link>
 <pubDate>Tue, 09 Jun 2009 22:50:09 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Business]]></category>
+    <category><![CDATA[Business]]></category>
 
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+    <category domain="category" nicename="business"><![CDATA[Business]]></category>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category><![CDATA[Excursions]]></category>
+    <category><![CDATA[Excursions]]></category>
 
-		<category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
+    <category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[conferences]]></category>
+    <category domain="tag"><![CDATA[conferences]]></category>
 
-		<category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
+    <category domain="tag" nicename="conferences"><![CDATA[conferences]]></category>
 
-		<category domain="tag"><![CDATA[couchdb]]></category>
+    <category domain="tag"><![CDATA[couchdb]]></category>
 
-		<category domain="tag" nicename="couchdb"><![CDATA[couchdb]]></category>
+    <category domain="tag" nicename="couchdb"><![CDATA[couchdb]]></category>
 
-		<category domain="tag"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag"><![CDATA[phoenix]]></category>
+    <category domain="tag"><![CDATA[phoenix]]></category>
 
-		<category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
+    <category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
 
-		<category domain="tag"><![CDATA[technology]]></category>
+    <category domain="tag"><![CDATA[technology]]></category>
 
-		<category domain="tag" nicename="technology"><![CDATA[technology]]></category>
+    <category domain="tag" nicename="technology"><![CDATA[technology]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=360</guid>
 <description></description>
@@ -1904,36 +1904,36 @@ The schedule became available today, so if you haven't registered do so now and 
 <wp:meta_key>_edit_lock</wp:meta_key>
 <wp:meta_value>1244588500</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Desert Code Camp Followup</title>
 <link>http://flatterline.com/index.php/2009/06/20/desert-code-camp-followup/</link>
 <pubDate>Sat, 20 Jun 2009 18:43:14 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category><![CDATA[Excursions]]></category>
+    <category><![CDATA[Excursions]]></category>
 
-		<category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
+    <category domain="category" nicename="excursions"><![CDATA[Excursions]]></category>
 
-		<category><![CDATA[Tech]]></category>
+    <category><![CDATA[Tech]]></category>
 
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+    <category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 
-		<category domain="tag"><![CDATA[couchdb]]></category>
+    <category domain="tag"><![CDATA[couchdb]]></category>
 
-		<category domain="tag" nicename="couchdb"><![CDATA[couchdb]]></category>
+    <category domain="tag" nicename="couchdb"><![CDATA[couchdb]]></category>
 
-		<category domain="tag"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
+    <category domain="tag" nicename="desertcodecamp"><![CDATA[desertcodecamp]]></category>
 
-		<category domain="tag"><![CDATA[technology]]></category>
+    <category domain="tag"><![CDATA[technology]]></category>
 
-		<category domain="tag" nicename="technology"><![CDATA[technology]]></category>
+    <category domain="tag" nicename="technology"><![CDATA[technology]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=374</guid>
 <description></description>
@@ -1974,32 +1974,32 @@ If you have any questions or comments, please <a href="mailto:chris@flatterline.
 <wp:meta_key>_edit_last</wp:meta_key>
 <wp:meta_value>3</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 <item>
 <title>Developer Ignite Phoenix: Real World Cryptography</title>
 <link>http://flatterline.com/index.php/2009/11/11/developer-ignite-phoenix-real-world-cryptography/</link>
 <pubDate>Thu, 12 Nov 2009 04:17:16 +0000</pubDate>
 <dc:creator><![CDATA[Curtis]]></dc:creator>
 
-		<category><![CDATA[Community]]></category>
+    <category><![CDATA[Community]]></category>
 
-		<category domain="category" nicename="community"><![CDATA[Community]]></category>
+    <category domain="category" nicename="community"><![CDATA[Community]]></category>
 
-		<category domain="tag"><![CDATA[crypto]]></category>
+    <category domain="tag"><![CDATA[crypto]]></category>
 
-		<category domain="tag" nicename="crypto"><![CDATA[crypto]]></category>
+    <category domain="tag" nicename="crypto"><![CDATA[crypto]]></category>
 
-		<category domain="tag"><![CDATA[devignite]]></category>
+    <category domain="tag"><![CDATA[devignite]]></category>
 
-		<category domain="tag" nicename="devignite"><![CDATA[devignite]]></category>
+    <category domain="tag" nicename="devignite"><![CDATA[devignite]]></category>
 
-		<category domain="tag"><![CDATA[phoenix]]></category>
+    <category domain="tag"><![CDATA[phoenix]]></category>
 
-		<category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
+    <category domain="tag" nicename="phoenix"><![CDATA[phoenix]]></category>
 
-		<category domain="tag"><![CDATA[technology]]></category>
+    <category domain="tag"><![CDATA[technology]]></category>
 
-		<category domain="tag" nicename="technology"><![CDATA[technology]]></category>
+    <category domain="tag" nicename="technology"><![CDATA[technology]]></category>
 
 <guid isPermaLink="false">http://flatterline.com/?p=387</guid>
 <description></description>
@@ -2050,6 +2050,6 @@ If you have any questions or comments, please <a href="mailto:chris@flatterline.
 <wp:meta_key>_wp_old_slug</wp:meta_key>
 <wp:meta_value>developer-ignite-real-world-cryptography</wp:meta_value>
 </wp:postmeta>
-	</item>
+  </item>
 </channel>
 </rss>

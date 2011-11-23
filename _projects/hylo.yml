@@ -1,0 +1,10 @@
+description: 
+image:
+  url: /images/hylo.jpg
+  title: HyLo
+  alt: HyLo
+layout:    project
+published: true
+short:     A real-time, location-based advertising platform that can be tied into any website or mobile device.
+title:     HyLo
+website:   http://hylo.com/
