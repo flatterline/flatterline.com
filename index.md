@@ -11,6 +11,10 @@ description: Flatterline is Ruby on Rails development company specializing in cu
       <img src="/images/horizontal_rule-trans.png" height="20" alt="">
       <h1>Developing kick ass custom web applications using Ruby on Rails and an agile process</h1>
     </div>
+Everyone who hires us has something in common. They want to:
+Create something new
+Make a difference
+Move forward with an idea
 
 As seen in:
       <div class="">
