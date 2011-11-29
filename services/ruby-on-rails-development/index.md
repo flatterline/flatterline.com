@@ -5,6 +5,18 @@ title: Ruby on Rails Development
 
 # Ruby on Rails Development
 
+<div class="snapshot">
+Prioritize
+Our agile process helps you prioritize the esentials
+Develop
+We develop based on your priorities
+Launch
+Launch your product minimally to test your assumptions
+Adjust
+Adjust based on user feedback.
+Rinse and Repeat
+</div>
+
 At our core, we're Ruby on Rails developers. 
 You have an idea...we want to build it...
 You have a problem...we want to fix it...
