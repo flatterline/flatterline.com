@@ -1,5 +1,5 @@
 --- 
-author: chris
+author: Chris Chandler
 layout: post
 title: Current activity and a thanks to everyone!
 tags: 

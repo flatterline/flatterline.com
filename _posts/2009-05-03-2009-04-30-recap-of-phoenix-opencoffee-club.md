@@ -1,5 +1,5 @@
 --- 
-author: curtis
+author: Curtis Miller
 image:
   url: http://farm1.static.flickr.com/13/17189040_a78ea36a0d_m_d.jpg
   title: Latte Art. Photo by tonx.

@@ -1,0 +1,14 @@
+active: true
+bio:
+email: ralph@flatterline.com
+image:
+  url: /images/ralph-miller.jpg
+  title: Ralph Miller
+  alt: Ralph Miller
+layout: profile
+linkedin: ralphmillerjr
+name: Ralph Miller
+role: Business Development
+short:
+twitter: FearlessAdvisor
+type: employee

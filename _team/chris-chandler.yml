@@ -1,0 +1,22 @@
+active: false
+bio:
+  Chris has dabbled in cross-layer wireless network routing algorithms as a PhD student at ASU
+  and co-authored several papers during his time there. His development experience includes
+  several widely-integrated and PCI-compliant e-commerce platforms, a handful of data
+  protection/encryption suites, and a significant amount of work for one of the world’s
+  largest public-facing Certificate Authorities in addition to several other projects.
+github: cchandler
+image:
+  url: /images/chris-chandler.jpg
+  title: Chris Chandler
+  alt: Chris Chandler
+layout: profile
+linkedin: cchandler480
+name: Chris Chandler
+short:
+  The former co-founder of Flatterline, Chris has extensive experience in security,
+  algorithms, e-commerce and infrastructure engineering. He's currently employed as
+  an infrastructural engineer at Square in San Francisco.
+twitter: squanderingtime
+website: http://chrischandler.name/
+type: employee

@@ -1,5 +1,5 @@
 --- 
-author: chris
+author: Chris Chandler
 excerpt: Flatterline
 layout: post
 tags: 

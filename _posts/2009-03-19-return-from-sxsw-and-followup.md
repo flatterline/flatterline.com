@@ -1,5 +1,5 @@
 --- 
-author: chris
+author: Chris Chandler
 layout: post
 title: Return from SXSW and followup
 tags: 

@@ -1,5 +1,20 @@
-h1 {
-  margin-bottom: 0;
+p {
+  font: 1em/1.8em Verdana, sans-serif;
+  margin-bottom: 1em;
+}
+
+ul {
+  list-style-type: square;
+}
+
+/* Blockquotes */
+blockquote {
+  margin: 0 3em 1em;
+  p {
+    color: #666;
+    font-style: italic;
+    @include font-shorthand(300, 1em, 1.8em);
+  }
 }
 
 .center {
@@ -26,6 +41,10 @@ h1 {
   margin: 20px 0 35px;
 }
 
+
+
+
+/* Projects */
 #projects {
   list-style-type: none;
   margin: 0;
@@ -59,10 +78,203 @@ h1 {
 }
 
 #projects .project p {
+  font: 0.9em/1.5em Verdana, sans-serif;
   margin-top: 10px;
   text-align: left;
 }
 
-#projects .project .short {
-  
+
+
+
+/* Posts */
+#post .posted-on {
+  border-bottom: 1px dashed #D2D2D2;
+  font: 0.9em Verdana, sans-serif;
+  letter-spacing: 0.33em;
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#post .title {
+  font: 1.8em Georgia, Times, serif;
+  margin-bottom: 0.25em;
+  text-align: center;
+}
+
+#post .byline {
+  font: italic 1.1em Times, serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+#post .byline a {
+  font: bold 0.85em Verdana, sans-serif;
+  text-transform: uppercase;
+  margin-left: 0.25em;
+}
+
+#post h3 {
+  color: black;
+  font: 1.25em Georgia, "Times New Roman", serif;
+  letter-spacing: 1px;
+  margin: 0.5em 0;
+}
+
+#post footer,
+#related-posts {
+  border-top: 1px dashed #D2D2D2;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+#related-posts ul li {
+  font: 1em/1.8em Verdana, sans-serif;
+  margin-bottom: 0.25em;
+}
+
+#content h3 {
+  margin-top: 2em;
+}
+
+#content p strong {
+  font-size: 0.9em;
+}
+
+
+
+/* Team */
+.team li {
+  padding: 10px;
+}
+
+.team li a {
+  display: block;
+  text-align: center;
+}
+
+.team li a:hover {
+  text-decoration: none;
+}
+
+.team li img {
+  border: 1px solid #ccc;
+  padding: 2px;
+}
+
+.team li p {
+  color: #555555;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+#profile h1 {
+  margin-bottom: 20px;
+}
+
+#profile-photo {
+  text-align: center;
+}
+
+.author-info .fn {
+  color: #444;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.author-info .note p {
+  font-size: 14px;
+}
+ 
+ 
+ 
+ 
+ /* Twitter */
+#tweets {
+  margin-top: 20px;
+}
+
+#tweets ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+#tweets ul li {
+  border-top: 1px dashed #D2D2D2;
+  font: 1em/1.4em Verdana,sans-serif;
+  padding-top: 1em;
+}
+
+#tweets .jta-tweet-attributes {
+  color: #999;
+  display: block;
+  font-size: 0.75em;
+  line-height: 1.4em;
+  margin-top: 0.75em;
+}
+
+/*.jta-tweet-list-item {
+  background: none;
+  padding: 8px 20px 8px 0;
+}
+
+.jta-follow-button {
+  margin-top: 10px;
+}
+*/
+
+
+
+
+/* Github */
+#github-header {
+  margin-bottom: 10px;
+}
+
+#github-header h3 {
+  line-height: 1.3em;
+}
+
+#followGithub {
+  color: #121516;
+  float: right;
+  line-height: 1em;
+  text-shadow: 0 1px 1px #ccc;
+  padding: 2px 8px 4px;
+
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border-radius: 5px; 
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+
+  -moz-box-shadow: 0px 0px 2px #666;
+  -webkit-box-shadow: 0px 0px 2px #666; 
+  box-shadow: 0px 0px 2px #666; 
+
+  background-color: #eeeeee;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#eeeeee), to(#aaaaaa)); 
+  background-image: -webkit-linear-gradient(top, #eeeeee, #aaaaaa); 
+  background-image: -moz-linear-gradient(top, #eeeeee, #aaaaaa); 
+  background-image: -ms-linear-gradient(top, #eeeeee, #aaaaaa); 
+  background-image: -o-linear-gradient(top, #eeeeee, #aaaaaa); 
+  background-image: linear-gradient(top, #eeeeee, #aaaaaa);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#eeeeee', EndColorStr='#aaaaaa'); 
+}
+
+#followGithub img { position: relative; top: 2px; margin: 0 6px 0 0; }
+
+#github {
+  margin-top: 25px;
+}
+
+
+
+
+
+/* LinkedIn */
+#linkedin {
+  margin-top: 30px;
 }

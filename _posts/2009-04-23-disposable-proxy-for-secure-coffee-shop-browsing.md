@@ -1,5 +1,5 @@
 --- 
-author: chris
+author: Chris Chandler
 layout: post
 title: Disposable proxy for secure coffee shop browsing
 tags: 
@@ -11,17 +11,19 @@ If you are a highly mobile laptop user, chances are you work out of a lot of var
 
 **Here's a very simple scheme to leverage the inexpensive power of Amazon's EC2 to create a disposable, secure proxy.**
 
-## Getting started
+### Getting started
 
 You will need the following to make this recipe work:
 
 *   Amazon AWS account
+
 *   A Ubuntu-based Amazon AMI with keypair (we are using publicami-7cfd1a15 for this article)
+
 *   An EC2 security group allowing a minimum of port 22 for SSH
 
 To start, launch a small instance of your AMI of choice. Once again, we prefer Ubuntu so most of this article is going to be Ubuntu-centric. This instance will need to be setup with whatever key pair you plan on using as well as be placed in the security group that allows SSH access. If you need help with this the Amazon [AWS console](http://console.aws.amazon.com/) is particularly useful.
 
-## Putting the pieces together
+### Putting the pieces together
 
 Once the instance is made available ssh to your newly created instance.
 
@@ -38,7 +40,7 @@ The last remaining step is to configure your browser of choice to use proxy `loc
 
 The final result is **all local HTTP traffic will be relayed across local port 3128 across the encrypted SSH tunnel to the 10 cents / hour remote server**. From there it will go out to the internet at large away from the prying eyes of nefarious coffee shop patrons. **Keep the SSH connection open for as long as you need access to the proxy.**
 
-## Cleaning up after yourself
+### Cleaning up after yourself
 
 When your done at the coffee shop feel free to decommission the AMI instance and you're done. The machine will go away with all records of the proxy's cache.
 

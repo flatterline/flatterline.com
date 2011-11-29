@@ -1,5 +1,5 @@
 --- 
-author: curtis
+author: Curtis Miller
 layout: post
 title: Desert Code Camp Followup
 tags: 

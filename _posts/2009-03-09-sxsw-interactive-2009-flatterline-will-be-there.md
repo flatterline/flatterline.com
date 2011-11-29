@@ -1,5 +1,5 @@
 --- 
-author: curtis
+author: Curtis Miller
 image:
   url: http://sxsw.com/files/u10/ia_meet_webtile.gif
   title: Meet me at SXSW 2009 (http://sxsw.com)
@@ -18,7 +18,7 @@ That's right, folks, both [Chris Chandler](http://chrischandler.name) and [Curti
 
 But wait, there's more. We're also going with some awesome people from Phoenix and sharing a loft right on 6th street!
 
-## Who's Coming?
+### Who's Coming?
 
 *   [Josh Huckabee](http://www.linkedin.com/in/joshhuckabee), an awesome [freelance drupal and ruby on rails web developer](http://joshhuckabee.com).
 

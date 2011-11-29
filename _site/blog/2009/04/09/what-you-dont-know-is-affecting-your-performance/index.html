@@ -5,6 +5,7 @@
     <title>What you don't know is affecting your performance | Flatterline</title>
     <meta name="description" content="">
 
+    <!-- <link href="/stylesheets/jquery.jtweetsanywhere-1.2.1.css" media="screen, projection" rel="stylesheet" type="text/css" /> -->
     <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
     <!--[if IE]>
@@ -53,15 +54,28 @@
   </ul>
 </nav>
 
-    <div class="span12">
-  <div id="post">
-    <h1><a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a></h1>
-    <small class="post-data">
-      2009-04-09 | Chris
-    </small>
-    <div id="content"><p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
+    <div class="row">
+  <div class="span11">
+    <article id="post">
+      <header>
+        <div class="posted-on" >
+          <time datetime="2009-04-09" pubdate="pubdate">April 09, 2009</time>
+          
+        </div>
 
-<h2>Swappiness</h2>
+        <h1 class="title">
+          <a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a>
+        </h1>
+
+        <h2 class="byline">
+          by
+          <a href="">Chris Chandler</a>
+        </h2>
+      </header>
+
+      <div id="content"><p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
+
+<h3>Swappiness</h3>
 
 <p>The Linux 2.6 kernel has a parameter called vm.swappiness that regulates the kernel's likelihood to swap memory to disk (e.g., to free up memory for disk/content caching, load other programs, etc). Valid values are between 0 and 100. On the current release of Ubuntu (Intrepid) this value has a default value of 60 that you can investigate with the following command:</p>
 
@@ -81,11 +95,11 @@
 <pre><code>$ echo 0 &amp;gt; /proc/sys/vm/swappiness
 </code></pre>
 
-<h2>A persistent lack of swappiness</h2>
+<h3>A persistent lack of swappiness</h3>
 
 <p>If you restart the server, then your change will be lost. If you want the change to remain persistent across restarts you'll either need to create a script that calls one of these commands or edit /etc/sysctl.conf to specify the swappiness. As always, exercise caution playing with kernel parameters :-).</p>
 
-<h2>Swapping it back in</h2>
+<h3>Swapping it back in</h3>
 
 <p>If you change vm.swappiness and want to force the kernel to swap everything back in you can temporarily disable the swap partition and then immediately re-enable it.</p>
 
@@ -102,54 +116,46 @@ $ swapon /dev/sda2
 
 <p><strong>Let us know if this helps you out!</strong></p>
 </div>
-  </div>
 
-  <div id="authors">
-  <div class="author row">
-  <div class="author-image span2">
-    <img src="/images/chris-chandler.jpg" title="Chris Chandler" alt="Chris Chandler" />
-  </div>
+      <footer>
+        <div class="author">
+  <h3>About the Author</h3>
+  <div class="vcard row">
+    
+      <div class="span2 center">
+        <img class="photo" src="/images/chris-chandler.jpg" title="Chris Chandler" alt="Chris Chandler" width="80" height="80" />
+      </div>
+    
 
-  <div class="author-info span10">
-    <div class="author-name">Chris Chandler</div>
-    <div class="author-bio">
-      Chris has dabbled in cross-layer wireless network routing algorithms as a PhD student at ASU
-      and co-authored several papers during his time there. His development experience includes
-      several widely-integrated and PCI-compliant e-commerce platforms, a handful of data
-      protection/encryption suites, and a significant amount of work for one of the world’s
-      largest public-facing Certificate Authorities in addition to several other projects.
-    </div>
-    <div class="author-sm">
-      <ul>
-        <li><a class="github"   href="http://github.com/cchandler">GitHub</a></li>
-        <li><a class="twitter"  href="http://twitter.com/squanderingtime">Twitter</a></li>
-        <li><a class="linkedin" href="http://www.linkedin.com/in/cchandler480">LinkedIn</a></li>
-      </ul>
-    </div>
+    <div class="note span9"><p>The former co-founder of Flatterline, Chris has extensive experience in security, algorithms, e-commerce and infrastructure engineering. He's currently employed as an infrastructural engineer at Square in San Francisco.</p></div>
   </div>
 </div>
+
+        <div id="related-posts">
+  <h3>You might also be interested in:</h3>
+
+  <ul>
+    
+      <li>
+        <a href="/blog/2009/04/09/what-you-dont-know-is-affecting-your-performance">What you don't know is affecting your performance</a>
+      </li>
+    
+      <li>
+        <a href="/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing">Disposable proxy for secure coffee shop browsing</a>
+      </li>
+    
+      <li>
+        <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a>
+      </li>
+    
+  </ul>
 </div>
 
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      
-        <li><span>23 Apr 2009</span> &raquo; <a href="/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing">Disposable proxy for secure coffee shop browsing</a></li>
-      
-        <li><span>27 Apr 2009</span> &raquo; <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a></li>
-      
-        <li><span>06 Mar 2009</span> &raquo; <a href="/blog/2009/03/06/in-the-beginning">In the beginning...</a></li>
-      
-    </ul>
+      </footer>
+    </article>
   </div>
 
-  <div class="bottom-call-to-action alert-message block-message info">
-  Looking for <a href="/" class="shh">web development services</a>?&nbsp;  <a href="/contact/">Contact our developers</a> to get started.
-</div>
-</div>
-
-<aside id="sidebar" class="span4">
+  <aside id="sidebar" class="span4">
   
 
   <h3>Services</h3>
@@ -159,6 +165,7 @@ $ swapon /dev/sda2
     <li>Search Engine Optimization</li>
   </ul>
 </aside>
+</div>
 
     <footer id="page_footer" class="span16">
   <a href="/contact/">Contact us</a>.

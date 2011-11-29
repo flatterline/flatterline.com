@@ -1,5 +1,5 @@
 --- 
-author: curtis
+author: Curtis Miller
 description: Chris Chandler explains the basics of cryptography with 20 slides in 5 minutes. No, really, he does.
 layout: post
 title: "Developer Ignite Phoenix: Real World Cryptography"

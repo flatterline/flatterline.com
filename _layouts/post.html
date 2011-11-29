@@ -2,27 +2,33 @@
 layout: default
 ---
 
-<div class="span12">
-  <div id="post">
-    <h1><a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a></h1>
-    <small class="post-data">
-      {{ page.date | date:"%Y-%m-%d" }} | {{ page.author | capitalize }}
-    </small>
-    <div id="content">{{ content }}</div>
+<div class="row">
+  <div class="span11">
+    <article id="post">
+      <header>
+        <div class="posted-on" >
+          <time datetime="{{ page.date | date:'%Y-%m-%d' }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time>
+          
+        </div>
+
+        <h1 class="title">
+          <a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a>
+        </h1>
+
+        <h2 class="byline">
+          by
+          <a href="">{{ page.author }}</a>
+        </h2>
+      </header>
+
+      <div id="content">{{ content }}</div>
+
+      <footer>
+        {% authors %}
+        {% include related.html %}
+      </footer>
+    </article>
   </div>
 
-  {% include author.html %}
-
-  <div id="related">
-    <h2>Related Posts</h2>
-    <ul class="posts">
-      {% for post in site.related_posts limit:3 %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-
-  {% include bottom_call_to_action.html %}
+  {% include sidebar.html %}
 </div>
-
-{% include sidebar.html %}
