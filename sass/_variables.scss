@@ -51,7 +51,8 @@ $tetra2:            spin($baseColor, -90) !default;
 $analog1:           spin($baseColor, 22) !default;   // Analogs colors
 $analog2:           spin($baseColor, -22) !default;
 
-
+$headerFont:        "Lato", Verdana, sans-serif;
+$postTitleFont:     "Linden Hill", Georgia, serif;
 
 // More variables coming soon:
 // - $basefont to $baseFontSize

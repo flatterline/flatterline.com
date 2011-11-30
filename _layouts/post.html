@@ -2,33 +2,31 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="span11">
-    <article id="post">
-      <header>
-        <div class="posted-on" >
-          <time datetime="{{ page.date | date:'%Y-%m-%d' }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time>
-          
-        </div>
+<div class="span11">
+  <article id="post">
+    <header class="row">
+      <div class="posted-on" >
+        <time datetime="{{ page.date | date:'%Y-%m-%d' }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time>
+        
+      </div>
 
-        <h1 class="title">
-          <a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a>
-        </h1>
+      <h1 class="title">
+        <a href="{{ page.permalink }}" title="Permalink for {{ page.title }}">{{ page.title }}</a>
+      </h1>
 
-        <h2 class="byline">
-          by
-          <a href="">{{ page.author }}</a>
-        </h2>
-      </header>
+      <h2 class="byline">
+        by
+        <a href="">{{ page.author }}</a>
+      </h2>
+    </header>
 
-      <div id="content">{{ content }}</div>
+    <div id="post-body">{{ content }}</div>
 
-      <footer>
-        {% authors %}
-        {% include related.html %}
-      </footer>
-    </article>
-  </div>
-
-  {% include sidebar.html %}
+    <footer>
+      {% authors %}
+      {% include related.html %}
+    </footer>
+  </article>
 </div>
+
+{% include sidebar.html %}

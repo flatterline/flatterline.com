@@ -5,7 +5,7 @@
     <title>What you don't know is affecting your performance | Flatterline</title>
     <meta name="description" content="">
 
-    <!-- <link href="/stylesheets/jquery.jtweetsanywhere-1.2.1.css" media="screen, projection" rel="stylesheet" type="text/css" /> -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400|Linden+Hill' rel='stylesheet' type='text/css'>
     <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
     <!--[if IE]>
@@ -14,7 +14,7 @@
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -27,17 +27,13 @@
   </head>
 
   <body>
-    <div id="wrap_all">
-  <div id="wrap_all_2" class="row">
-    <header id="page_header" class="span16">
-  <div id="page_header_inner_wrap" class="row">
-    <div id="page_logo_wrap" class="span12"><a href="/" title="home" class="shh">Flatterline</a></div>
-    <div class="page-head-contact" class="span4">
-      <a href="/contact/" class="success orange btn">Contact</a>
-    </div>
-  </div>
-</header>
-    <nav>
+    <div class="container">
+      <header class="row">
+        <div id="title" class="span7">
+          <a href="/" title="Flatterline Homepage">Flatterline</a>
+        </div>
+
+        <div class="span7"><nav>
   <ul class="tabs">
     <li class="dropdown" data-dropdown="dropdown">
       <a href="#" class="dropdown-toggle">Services</a>
@@ -53,27 +49,33 @@
     <li><a href="/blog/">Blog</a></li>
   </ul>
 </nav>
+</div>
 
-    <div class="row">
-  <div class="span11">
-    <article id="post">
-      <header>
-        <div class="posted-on" >
-          <time datetime="2009-04-09" pubdate="pubdate">April 09, 2009</time>
-          
+        <div class="contact span2">
+          <a href="/contact" class="success orange btn">Contact Us</a>
         </div>
-
-        <h1 class="title">
-          <a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a>
-        </h1>
-
-        <h2 class="byline">
-          by
-          <a href="">Chris Chandler</a>
-        </h2>
       </header>
 
-      <div id="content"><p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
+      <div id="content" class="row">
+        <div class="span11">
+  <article id="post">
+    <header class="row">
+      <div class="posted-on" >
+        <time datetime="2009-04-09" pubdate="pubdate">April 09, 2009</time>
+        
+      </div>
+
+      <h1 class="title">
+        <a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a>
+      </h1>
+
+      <h2 class="byline">
+        by
+        <a href="">Chris Chandler</a>
+      </h2>
+    </header>
+
+    <div id="post-body"><p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
 
 <h3>Swappiness</h3>
 
@@ -117,8 +119,8 @@ $ swapon /dev/sda2
 <p><strong>Let us know if this helps you out!</strong></p>
 </div>
 
-      <footer>
-        <div class="author">
+    <footer>
+      <div class="author">
   <h3>About the Author</h3>
   <div class="vcard row">
     
@@ -127,11 +129,11 @@ $ swapon /dev/sda2
       </div>
     
 
-    <div class="note span9"><p>The former co-founder of Flatterline, Chris has extensive experience in security, algorithms, e-commerce and infrastructure engineering. He's currently employed as an infrastructural engineer at Square in San Francisco.</p></div>
+    <div class="note span9"><p><a href="/team/chris-chandler">Chris</a> co-founded Flatterline, a <a href="http://flatterline.com/">Ruby on Rails development company</a> in 2009. He has extensive experience in security, algorithms, e-commerce and infrastructure engineering. He's currently employed as an infrastructural engineer at Square in San Francisco.</p></div>
   </div>
 </div>
 
-        <div id="related-posts">
+      <div id="related-posts">
   <h3>You might also be interested in:</h3>
 
   <ul>
@@ -151,11 +153,11 @@ $ swapon /dev/sda2
   </ul>
 </div>
 
-      </footer>
-    </article>
-  </div>
+    </footer>
+  </article>
+</div>
 
-  <aside id="sidebar" class="span4">
+<aside id="sidebar" class="span4">
   
 
   <h3>Services</h3>
@@ -165,40 +167,41 @@ $ swapon /dev/sda2
     <li>Search Engine Optimization</li>
   </ul>
 </aside>
-</div>
 
-    <footer id="page_footer" class="span16">
-  <a href="/contact/">Contact us</a>.
+      </div>
 
-  <div class="vcard">
-    <div class="adr">
-      <a class="fn org url" href="http://flatterline.com/">Flatterline</a>
-      <div class="tag-line">Purveyors of Kick Ass Web Development</div>
+      <footer>
+        <div id="company-info" class="row">
+          <div class="vcard span10">
+            <div class="adr">
+              <a class="fn org url" href="http://flatterline.com/">Flatterline</a>
+              <div class="tag-line">Purveyors of Kick Ass Web Development</div>
+            </div>
+          </div>
 
-      <span class="locality">Phoenix</span>,
-      <abbr title="Arizona" class="region">AZ</abbr>
-      <div class="tel"><a class="value" href="tel:+14804209081">480.420.9081</a></div>
+          <div class="span6 get-started">
+            Ready to get started?
+            <a href="/contact/">Contact us.</a> •
+            <a class="value" href="tel:+14804209081">480.420.9081</a>
+          </div>
+        </div>
+
+        <div id="copyright" class="row">
+          <div class="span2 center">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+              <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" />
+            </a>
+          </div>
+
+          <div class="span10">
+            <a xmlns:cc="http://creativecommons.org/ns#" href="http://flatterline.com/" property="cc:attributionName" rel="cc:attributionURL">Flatterline.com</a>
+            is licensed under a
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+              Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+            </a>.
+          </div>
+        </div>
+      </footer>
     </div>
-  </div>
-
-  <div id="copyright" class="row">
-    <div class="span2 center">
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" />
-      </a>
-    </div>
-
-    <div class="span10">
-      <a xmlns:cc="http://creativecommons.org/ns#" href="http://flatterline.com/" property="cc:attributionName" rel="cc:attributionURL">Flatterline.com</a>
-      is licensed under a
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-      </a>.
-    </div>
-  </div>
-</footer>
-
-  </div>
-</div>
   </body>
 </html>
