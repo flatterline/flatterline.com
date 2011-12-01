@@ -36,9 +36,6 @@ Working with creative minds isn't always easy. But there's one reason you want t
     4.User feedback = success
     5.Mistakes rookies make and professionals never do
     6.Why good code is worth the money
-    7.Test first, ask quesitons....
-
-
-
+    7.Test first, ask questions....
   </div>
 </div>
