@@ -1,9 +1,9 @@
 <% if @sent %>
-  <p class="alert-message success">Thank you for contacting us. We'll be in touch shortly.</p>
-  <div class="center">
-    <a href="?" class="btn">Contact Us Again?</a>
-    <a href="/" class="btn primary" target="_parent">Flatterline Home</a>
-  </div>
+  <p class="alert-message success">Thank you for contacting us! We'll be in touch shortly.</p>
+  <p>
+    If you'd like, you can also
+    <a href="http://twitter.com/flatterline">follow Flatterline on Twitter</a>.
+  </p>
 <% else %>
 
   <% unless @errors.nil? or @errors.empty? %>
@@ -22,10 +22,8 @@
         %>
         <div class="field clearfix <%= ' error' unless @errors[a].nil? %>">
           <label for="<%= a %>"><%= a.capitalize %></label>
-          <div class="input"><% #for twitter bootstrap %>
-            <input type="<%= type %>" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>"
-             <%= @errors[a].nil? ? '' : 'class="error"' %>
-             />
+          <div class="input">
+            <input type="<%= type %>" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>" class="xlarge <%= @errors[a].nil? ? '' : ' error' %>" />
             <% unless @errors[a].nil? %>
               <span class="help-inline"><%= @errors[a] %></span>
             <% end %>
@@ -35,9 +33,9 @@
 
       <div class="field clearfix <%= ' error' unless @errors[:message].nil? %>">
         <label for="message">Briefly describe your project</label>
-        <div class="input"><% #for twitter bootstrap %>
+        <div class="input">
 
-          <textarea name="message" id="message" rows=6><%= @params[:message] %></textarea>
+          <textarea name="message" id="message" rows="6" class="xxlarge"><%= @params[:message] %></textarea>
           <% unless @errors[:message].nil? %>
             <span class="help-inline"><%= @errors[:message] %></span>
           <% end %>
