@@ -2,7 +2,6 @@
 layout: page
 title: Ruby on Rails Development Services | Custom Web Application Development | Rails Consulting
 ---
-
 # Ruby on Rails Development Services
 
 ## Ruby on Rails Development
