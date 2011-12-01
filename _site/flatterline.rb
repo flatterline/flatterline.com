@@ -45,6 +45,7 @@
   # Dynamic contact form
   get '/contact-form/?' do
     @errors = {}
+    @title = "Ready to start developing? Contact us today."
     erb :contact_form
   end
 
@@ -55,10 +56,13 @@
 ## POST requests ##
   # Dynamic contact form
   post '/contact-form/?' do
+    @title = "Ready to start developing? Contact us today."
+
     if (@errors = validate(params)).empty?
       begin
         send_email params
         @sent = true
+        @title = "Thanks!"
 
       rescue => e
         puts e
@@ -131,6 +135,8 @@ __END__
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
   </head>
 
   <body>

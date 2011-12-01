@@ -1,3 +1,5 @@
+<h1><%= @title %></h1>
+
 <% if @sent %>
   <p class="alert-message success">Thank you for contacting us! We'll be in touch shortly.</p>
 
@@ -17,45 +19,83 @@
     Fill out the form below, including as much information as possible. We'll be in touch shortly.
   </p>
 
+  <p>
+    <small>Fields marked with an * are required.</small>
+  </p>
+
   <% unless @errors.nil? or @errors.empty? %>
     <div class="alert-message error">
       Please correct the error<%= @errors.count == 1 ? '' : 's' %> in the form below and resubmit.
     </div>
   <% end %>
 
-  <form action="/contact-form" method="POST">
-    <fieldset>
-      <% [:name, :email, :company, :phone].each do |a| %>
-        <%
-          type = 'text'
-          type = 'email' if a == :email
-          type = 'tel'   if a == :phone
-        %>
-        <div class="field clearfix <%= ' error' unless @errors[a].nil? %>">
-          <label for="<%= a %>"><%= a.capitalize %></label>
+  <form action="/contact-form" method="POST" class="form-stacked">
+    <fieldset class="row">
+      <div class="span5">
+        <% [:name, :email].each do |a| %>
+          <%
+            type = 'text'
+            type = 'email' if a == :email
+          %>
+          <div class="field clearfix <%= ' error' unless @errors[a].nil? %>">
+            <label for="<%= a %>"><%= a.capitalize %></label>
+            <div class="input">
+              <input type="<%= type %>" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>" class="<%= @errors[a].nil? ? '' : ' error' %>" tabindex="1" required />
+              <% unless @errors[a].nil? %>
+                <span class="help-block"><%= @errors[a] %></span>
+              <% end %>
+            </div>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="span3">
+        <% [:company, :phone].each do |a| %>
+          <%
+            type = 'text'
+            type = 'tel'   if a == :phone
+          %>
+          <div class="field clearfix <%= ' error' unless @errors[a].nil? %>">
+            <label for="<%= a %>"><%= a.capitalize %></label>
+            <div class="input">
+              <input type="<%= type %>" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>" class="<%= @errors[a].nil? ? '' : ' error' %>" tabindex="3" />
+              <% unless @errors[a].nil? %>
+                <span class="help-block"><%= @errors[a] %></span>
+              <% end %>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </fieldset>
+
+    <fieldset class="row">
+      <div class="span8">
+        <div class="field clearfix <%= ' error' unless @errors[:message].nil? %>">
+          <label for="message">Briefly describe your project</label>
           <div class="input">
-            <input type="<%= type %>" name="<%= a %>" id="<%= a %>" value="<%= @params[a] %>" class="xlarge <%= @errors[a].nil? ? '' : ' error' %>" />
-            <% unless @errors[a].nil? %>
-              <span class="help-inline"><%= @errors[a] %></span>
+
+            <textarea name="message" id="message" rows="6" class="xxlarge" tabindex="2" required><%= @params[:message] %></textarea>
+            <% unless @errors[:message].nil? %>
+              <span class="help-block"><%= @errors[:message] %></span>
             <% end %>
           </div>
         </div>
-      <% end %>
-
-      <div class="field clearfix <%= ' error' unless @errors[:message].nil? %>">
-        <label for="message">Briefly describe your project</label>
-        <div class="input">
-
-          <textarea name="message" id="message" rows="6" class="xxlarge"><%= @params[:message] %></textarea>
-          <% unless @errors[:message].nil? %>
-            <span class="help-inline"><%= @errors[:message] %></span>
-          <% end %>
-        </div>
-      </div>
-
-      <div class="actions shh">
-        <input type="submit" name="" value="Contact Us!" class="btn primary large" />
       </div>
     </fieldset>
+
+    <div class="actions shh">
+      <input type="submit" name="" value="Contact Us!" class="btn primary large" />
+    </div>
   </form>
+
+  <script type="text/javascript" charset="utf-8">
+    $(function() {
+      $('[required]').each(function() {
+        var label = $(this).closest('.field').find('label');
+        console.log(label);
+        $(label).html($(label).html() + " *")
+      });
+    });
+  </script>
+
 <% end %>
