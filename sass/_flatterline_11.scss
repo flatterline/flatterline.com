@@ -1,3 +1,8 @@
+abbr {
+  border-bottom: 1px dotted #999;
+  cursor: help;
+}
+
 p {
   font: 1em/1.8em Verdana, sans-serif;
   margin-bottom: 1em;
@@ -10,10 +15,21 @@ ul {
 /* Blockquotes */
 blockquote {
   margin: 0 3em 1em;
+  max-width: 560px;
   p {
     color: #666;
     font-style: italic;
+    margin-bottom: 1em;
     @include font-shorthand(300, 1em, 1.8em);
+  }
+  li {
+    color: #666;
+    font-style: italic;
+    @include font-shorthand(300, 1em, 1.8em);
+  }
+  small {
+    color: #333;
+    text-align: right;
   }
 }
 
@@ -125,10 +141,42 @@ footer {
 
 
 
+/* Pages */
+#page {
+  margin: 30px 0 50px;
+}
+
+#page h1 {
+  font-size: 1.8em;
+}
+
+#page h2 {
+  font: 1.6em $postTitleFont;
+}
+
+#page h3 {
+  color: black;
+  font: 1.4em $postTitleFont;
+  letter-spacing: 1px;
+  margin: 1.5em 0 0.75em;
+}
+
+#page .logo img {
+  border: 1px solid #eee;
+  padding: 2px;
+}
+
+#endorsements blockquote {
+  margin-bottom: 3em;
+}
+
+
+
 /* Projects */
 #projects {
   list-style-type: none;
-  margin: 0;
+  margin: 30px 0 0;
+  overflow: hidden;
   padding: 0;
 }
 

@@ -1,10 +1,26 @@
-description: 
+description:
+  Dev Fu is an agile Ruby development company that strives to continuously deliver
+  valuable features by releasing each week from day one of your project.
+
+
+  They solve problems through software, implement ideas quickly with the best tools
+  available and provide a transparent process that involves clients every step of
+  the way. They are focused, motivated individuals that will ensure your project
+  stays on track.
 image:
   url: /images/dev-fu.jpg
   title: Dev Fu
   alt: Dev Fu
 layout:    project
+project_description:
+  Flatterline supplemented the Dev Fu team in the creation of a Ruby on Rails
+  web application, backed by MongoDB, for one of their clients.
+
+
+  We worked closely with both Dev Fu and the primary stakeholder to gather
+  requirements and develop a dynamic web application that took their paper-driven
+  process online.
 published: true
-short:     A software consulting company.
+short:     An agile Ruby development company.
 title:     Dev Fu
 website:   http://devfu.com/

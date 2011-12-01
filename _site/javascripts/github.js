@@ -1,15 +1,22 @@
 var github = (function(){
   function render(target, repos){
-    var i = 0, fragment = '', t = $(target)[0];
+    var i        = 0,
+        fragment = '',
+        t        = $(target)[0];
 
-    for(i = 0; i < repos.length; i++) {
-      fragment += '<li><a href="'+repos[i].html_url+'">'+repos[i].name+'</a><p>'+repos[i].description+'</p></li>';
+    if(repos.length > 0) {
+      for(i = 0; i < repos.length; i++) {
+        fragment += '<li><a href="'+repos[i].html_url+'">'+repos[i].name+'</a><p>'+repos[i].description+'</p></li>';
+      }
+    } else {
+      fragment = '<p>No public repositories to display.</p>'
     }
+
     t.innerHTML = fragment;
   }
+
   return {
     showRepos: function(options) {
-      console.log(options.user);
       $.getJSON(
         "https://api.github.com/users/" + options.user + "/repos?type=public",
         function(data) {

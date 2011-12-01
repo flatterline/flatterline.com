@@ -1,10 +1,25 @@
-description: 
+description:
+  B12 is a branding and design agency specializing in web interface design and usability, email newsletters, print advertising, corporate identity and trade shows.
+endorsements:
+-
+  body:
+    Flatterline has gone out of their way to keep our project moving forward
+    in a straight line and their attention to detail is superior. Additionally,
+    Curtis and Chris are great to work with. I cannot recommend them enough!
+  from: Dave Prescott
+  role: Creative Director
 image:
   url: /images/b12.jpg
   title: B12
   alt: B12
 layout:    project
+project_description:
+  Flatterline worked with B12 to implement a new company website that focused on their
+  philosophy of design and showcased their portfolio. We took over the project from
+  another developer and fixed the existing bugs, implemented key new features and launched
+  the site.
 published: true
-short:     B12 is a branding and design agency specializing in web interface design and usability, email newsletters, print advertising, corporate identity and trade shows.
+short:
+  B12 is a branding and design agency specializing in web interface design and usability, email newsletters, print advertising, corporate identity and trade shows.
 title:     B12
 website:   http://btwelve.com/

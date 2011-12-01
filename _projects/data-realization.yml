@@ -1,10 +1,25 @@
-description: 
+description:
+  Data Realization specializes in bringing data to life through visualization by developing
+  custom software.
+
+
+  All companies have data. Today, most companies have more data than they know what to do with.
+  A basic level of understanding can result from using standard analytics packages, but to get the
+  full value out of your data, you need to dig deeper.
 image:
   url: /images/data-realization.jpg
   title: Data Realization
   alt: Data Realization
 layout:    project
+project_description:
+  Flatterline worked with Data Realization and several other developers and designers to create
+  an interactive data visualization installation for a major automotive brand.
+
+
+  Flatterline was responsible for creating a backend data-polling system to gather data from
+  3rd party APIs. That data was warehoused and used within the visualization applications.
 published: true
-short:     Data Realization specializes in bringing data to life through visualization by developing custom software.
+short:
+  Data Realization specializes in bringing data to life through visualization by developing custom software.
 title:     Data Realization
 website:   http://datarealization.com/

@@ -1,9 +1,22 @@
-description: 
+description:
+  An online auction service that allows you to host your own event, virtually.
+endorsements:
+-
+  body:
+    Flatterline successfully moved our app into the Cloud. Their extensive
+    knowledge of configuring and deploying to Amazon S3 made it happen for us,
+    including follow-up support and training. I'd hire them again for any
+    mission critical or cutting edge software development.
+  from: Brennan Washburn
+  role: Founder
 image:
   url: /images/auctionsalacarte.jpg
   title: Auctions à la Carte
   alt: Auctions à la Carte
 layout:    project
+project_description:
+  Flatterline helped Auctions à la Carte re-architect their backend infrastructure,
+  creating a flexible and scalable solution that fit their needs.
 published: true
 short:     An online auction service that allows you to host your own event, virtually.
 title:     Auctions à la Carte

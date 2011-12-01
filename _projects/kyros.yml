@@ -1,10 +1,16 @@
-description: 
+description:
+  Kyros is a web-based social learning platform for college students and professors.
 image:
   url: /images/kyros.jpg
   title: Kyros
   alt: Kyros
 layout:    project
+project_description:
+  Flatterline worked with Kyros to develop a prototype of their idea to help them
+  pursue additional investment. We were responsible for implementing core features
+  of the platform in Ruby on Rails.
 published: true
-short:     A web-based social learning platform for college students & professors.
+short:
+  A web-based social learning platform for college students & professors.
 title:     Kyros
 website:   http://mykyros.com/

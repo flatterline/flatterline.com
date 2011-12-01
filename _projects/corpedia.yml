@@ -1,10 +1,20 @@
-description: 
+description:
+  Corpedia is the leader in governance, risk and compliance (GRC) education, communication, and advice.
+  They not only help drive a culture of ethics throughout an organization, but also provide a defensible
+  plan in the event of malfeasance. As the leader in GRC solutions, they recognize the weight of the
+  potential liabilities associated with not having an effective compliance and ethics program and work
+  to empower clients to proactively mitigate compliance risks.
 image:
   url: /images/corpedia.jpg
   title: Corpedia
   alt: Corpedia
 layout:    project
+project_description:
+  Flatterline supplemented Corpedia's existing development team and worked to create a new
+  product line for their customers. We worked closely with them to gather requirements,
+  design, develop and launch their product in 10 weeks.
 published: true
-short:     A provider of ethics and compliance e-learning and consultative services.
+short:
+  A provider of ethics and compliance e-learning and consultative services.
 title:     Corpedia
 website:   http://corpedia.com/

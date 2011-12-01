@@ -1,0 +1,24 @@
+active: true
+bio:
+  Not much is known about this elusive developer. What we do know is that he
+  develops both Ruby and iOS applications, is practiced in the art of
+  <abbr title="Search Engine Optimization">SEO</abbr> and has a fondness for
+  dual-wielding hammers.
+
+
+  When not working for clients, he's busy developing and marketing his own
+  applications, like this cool way to
+  <a href="http://appsondisplay.com/">market your apps online and on facebook</a>.
+email: jason@theworldneedsheroes.com
+github: RageBarrage
+image:
+  url: /images/jason-casillas.jpg
+  title: Jason Casillas
+  alt: Jason Casillas
+layout: profile
+linkedin:
+name: Jason Casillas
+role: iOS Developer
+short:
+twitter:
+type: contractor

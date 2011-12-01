@@ -1,10 +1,20 @@
-description: 
+description:
+  "Launched in November 2008, Groupon features a daily deal on the best stuff to do,
+  see, eat, and buy in 45 countries, and soon beyond (read: Space). They have about
+  10,000 employees working across their Chicago headquarters, a growing office in
+  Palo Alto, CA, local markets throughout North America and regional offices in
+  Europe, Latin America, Asia and around the world."
 image:
   url: /images/groupon.jpg
   title: Groupon
   alt: Groupon
 layout:    project
+project_description:
+  Flatterline worked closely with Obtiva (now Groupon) and the Groupon team to create
+  and implement a strategy for scaling their architecture for an ever growing user
+  base.
 published: true
-short:     A daily deal site for the best stuff to do, see, eat, and buy in 45 countries.
+short:
+  A daily deal site for the best stuff to do, see, eat, and buy in 45 countries.
 title:     Groupon
 website:   http://groupon.com/

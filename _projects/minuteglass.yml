@@ -1,10 +1,18 @@
-description: 
+description:
+  Minuteglass is a web based time tracking application. Designed for people
+  who want to track time using either a stopwatch or with manual entry.
 image:
   url: /images/minuteglass.jpg
   title: Minuteglass
   alt: Minuteglass
 layout:    project
+project_description:
+  Flatterline helped Minutelgass progress beyond their initial prototype and design mockups
+  by creating a custom Ruby on Rails application to allow people or organizations to track
+  their time. We also developed a robust API to allow desktop widgets, mobile applications
+  and other 3rd party application to access an account, so time could be tracked from anywhere.
 published: true
-short:     A time tracking application that allows you to easily track your time through the day and quickly shift between tasks.
+short:
+  A time tracking application that allows you to easily track your time through the day and quickly shift between tasks.
 title:     Minuteglass
 website:   http://minuteglass.com/

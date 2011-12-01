@@ -1,0 +1,19 @@
+active: true
+bio:
+  We are an Interactive Design Agency.
+
+
+  Building your business by design is our passion.
+  We specialize in Branding, Interactive Websites, and Custom Application Development.
+github: codyl
+image:
+  url: /images/codyl.jpg
+  title: codyL
+  alt: codyL
+layout: profile
+linkedin:
+name: codyL
+role: Interactive Design Agency
+short:
+twitter: codyL
+type: contractor

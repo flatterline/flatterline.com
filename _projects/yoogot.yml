@@ -1,10 +1,16 @@
-description: 
+description:
+  Yoogot is an online marketplace to help people sell, buy, trade, or donate items to those in need.
 image:
   url: /images/yoogot.jpg
   title: Yoogot
   alt: Yoogot
 layout:    project
+project_description:
+  Flatterline was responsible for gathering the requirements and developing the beta site for
+  Yoogot. We worked closely with the company founders and went from concept to launch in about
+  2 months.
 published: true
-short:     An online marketplace to help people sell, buy, trade, or donate items to those in need.
+short:
+  An online marketplace to help people sell, buy, trade, or donate items to those in need.
 title:     Yoogot
 website:   http://yoogot.com/

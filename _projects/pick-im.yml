@@ -1,9 +1,25 @@
-description: 
+description:
+  Pick.im is a freelance marketplace. It provides an easy, searchable, geo-located
+  way for clients to find and contact freelancers in their area.
+endorsements:
+-
+  body:
+    Flatterline is the best development studio I have ever used, hands down.
+    The code is clean, scales well, is delivered on time and with style.
+
+
+    Highly recommend them!
+  from: Andrew Hyde
+  role: Founder
 image:
   url: /images/pick-im.jpg
   title: Pick.im
   alt: Pick.im
 layout:    project
+project_description:
+  Flatterline developed the Pick.im application in Ruby on Rails on a shoestring budget.
+  We implemented the core features, a robust geo-located search and enhanced administration
+  features and launched the site to beta testers in a short timeframe.
 published: true
 short:     A search engine for freelance copywriters, designers, developers, managers, marketers and photographers.
 title:     Pick.im

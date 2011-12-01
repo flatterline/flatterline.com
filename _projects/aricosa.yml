@@ -1,0 +1,30 @@
+description:
+  Aricosa is a consultancy specializing in the right technical solutions.
+  Our goal is to implement systems that people actually want to use and
+  enjoy interacting with. Although the main focus is technology, our
+  commitment to quality starts with customer service.
+endorsements:
+-
+  body:
+    Flatterline was extremely easy to work with and professional in all our interactions.
+
+    <ol>
+      <li>Great communication at all stages of the project</li>
+      <li>Strong technical knowledge but the ability to communicate to all levels of the organization</li>
+      <li>Fast - our work was delivered on time</li>
+    </ul>
+  from: Erica Lucci
+  role: Project Manager
+image:
+  url: /images/aricosa.jpg
+  title: Aricosa
+  alt: Aricosa
+layout:    project
+project_description:
+  Flatterline developed an API around an existing application for one of Aricosa's clients.
+  The API was then used by a variety of 3rd party applications, including mobile applications and embeddable web widgets.
+  Additionally, we developed a Twilio telephony application that used the API to provide an interface via an 800 number.
+published: true
+short:     A consultancy offering web application development, technical due diligence, location-based search, telephony and content management systems.
+title:     Aricosa
+website:   http://aricosa.com/

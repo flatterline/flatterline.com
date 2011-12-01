@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Auctions à la Carte | Flatterline</title>
-    <meta name="description" content="An online auction service that allows you to host your own event, virtually.">
+    <title>Jason Casillas | iOS Developer | Flatterline</title>
+    <meta name="description" content="">
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400|Linden+Hill' rel='stylesheet' type='text/css'>
     <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
@@ -58,38 +58,80 @@
 
       <div id="content" class="row">
         <div id="page" class="span16">
-  
-  <div class="span5 logo">
-    <img src="/images/auctionsalacarte.jpg" title="Auctions à la Carte" alt="Auctions à la Carte" />
+  <div id="profile" class="row">
+  <div class="span4">
+    
+      <div id="profile-photo">
+        <img src="/images/jason-casillas.jpg" title="Jason Casillas" alt="Jason Casillas" width="200" height="200" />
+      </div>
+    
+
+    
+
+    
+
+  </div>
+
+  <div class="span11">
+    <h1>
+      Jason Casillas
+      <small>iOS Developer</small>
+    </h1>
+
+    <p>Not much is known about this elusive developer. What we do know is that he develops both Ruby and iOS applications, is practiced in the art of <abbr title="Search Engine Optimization">SEO</abbr> and has a fondness for dual-wielding hammers.</p>
+
+<p>When not working for clients, he's busy developing and marketing his own applications, like this cool way to <a href="http://appsondisplay.com/">market your apps online and on facebook</a>.</p>
+
+    <hr />
+
+    
+  <div id="github">
+    <div id="github-header">
+      <a href="https://github.com/users/follow?target=RageBarrage"
+         title="Follow RageBarrage on Github" id="followGithub" class="noBg">
+         <img src="https://github.com/favicon.ico" />Follow me on Github
+      </a>
+
+      <h3>Open Source Contributions</h3>
+    </div>
+
+    <ul id="gh_repos">
+      <div class="loading">Retrieving open source projects...</div>
+    </ul>
+
+    <script type="text/javascript">
+      $(function() {
+          github.showRepos({
+            user: 'RageBarrage',
+            count: 0,
+            skip_forks: false,
+            target: '#gh_repos'
+          });
+      });
+    </script>
+    <script src="/javascripts/github.js" type="text/javascript"> </script>
   </div>
 
 
-<div class="span10">
-  <h1>Auctions à la Carte</h1>
-  <p><p>An online auction service that allows you to host your own event, virtually.</p></p>
-
-  
-    <div class="website"><a href="http://auctionsalacarte.com/">http://auctionsalacarte.com/</a></div>
-  
-</div>
-
-<div id="project-description" class="span16">
-  <h3>What we did for Auctions à la Carte:</h3>
-  <p>Flatterline helped Auctions à la Carte re-architect their backend infrastructure, creating a flexible and scalable solution that fit their needs.</p>
-</div>
-
-
-  <div id="endorsements" class="span16">
-    <h3>What Auctions à la Carte had to say about Flatterline:</h3>
-
-    
-      <blockquote>
-        <p>Flatterline successfully moved our app into the Cloud. Their extensive knowledge of configuring and deploying to Amazon S3 made it happen for us, including follow-up support and training. I'd hire them again for any mission critical or cutting edge software development.</p>
-        <small>Brennan Washburn, Founder</small>
-      </blockquote>
-    
   </div>
+</div>
 
+<script type="text/javascript">
+  $(function() {
+    $('#tweets').jTweetsAnywhere({
+      username: '',
+      count: 3,
+      showFollowButton: true,
+      showTweetFeed: {
+        autorefresh: {
+          mode: 'trigger-insert'
+        }
+      }
+    });
+  });
+</script>
+<script src="http://platform.twitter.com/anywhere.js?id=cmtioPj3WOCceOUWWYj1g&amp;v=1" type="text/javascript"></script>
+<script src="/javascripts/jquery.jtweetsanywhere-1.2.1.min.js" type="text/javascript"> </script>
 
 </div>
 

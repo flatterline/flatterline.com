@@ -1,10 +1,20 @@
-description: 
+description:
+  Give the OK! Is the simplest online and feedback tool specifically designed for
+  freelance designers and small agencies. With features like versioning, white
+  label branding and more Give the OK! makes the online feedback and approval
+  process a breeze.
 image:
   url: /images/givetheok.jpg
-  title: Give The OK!
-  alt: Give The OK!
+  title: Give the OK!
+  alt: Give the OK!
 layout:    project
+project_description:
+  Flatterline was responsible for gathering requirements, developing the Ruby on Rails
+  application and launching Give the OK! to a beta testing group. We worked closely with
+  the key stakeholders to develop the application and provided technical advice and
+  expertise when the company applied for several incubators for funding.
 published: true
-short:     Reduces the client approval process to its simplest form. Centralize work, bill more, stay sane.
-title:     Give The OK!
+short:
+  Reduces the client approval process to its simplest form. Centralize work, bill more, stay sane.
+title:     Give the OK!
 website:   http://givetheok.com/
