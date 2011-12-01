@@ -1,10 +1,21 @@
 <% if @sent %>
   <p class="alert-message success">Thank you for contacting us! We'll be in touch shortly.</p>
+
+  <p>
+    In the meantime, check out our
+    <a href="/portfolio">list of clients</a>
+    to find out more about how we can help you.
+  </p>
+
   <p>
     If you'd like, you can also
     <a href="http://twitter.com/flatterline">follow Flatterline on Twitter</a>.
   </p>
 <% else %>
+
+  <p>
+    Fill out the form below, including as much information as possible. We'll be in touch shortly.
+  </p>
 
   <% unless @errors.nil? or @errors.empty? %>
     <div class="alert-message error">
@@ -18,7 +29,7 @@
         <%
           type = 'text'
           type = 'email' if a == :email
-          type = 'tel' if a == :phone
+          type = 'tel'   if a == :phone
         %>
         <div class="field clearfix <%= ' error' unless @errors[a].nil? %>">
           <label for="<%= a %>"><%= a.capitalize %></label>
@@ -43,7 +54,7 @@
       </div>
 
       <div class="actions shh">
-        <input type="submit" name="" value="Send" class="btn primary" />
+        <input type="submit" name="" value="Contact Us!" class="btn primary large" />
       </div>
     </fieldset>
   </form>

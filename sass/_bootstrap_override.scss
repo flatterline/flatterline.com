@@ -1,3 +1,10 @@
+.actions {
+  background: none;
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
 .btn {
   @include border-radius(0px);
 }
