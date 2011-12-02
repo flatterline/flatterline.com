@@ -4,8 +4,8 @@ abbr {
 }
 
 p {
-  font: 1em/1.8em Verdana, sans-serif;
-  margin-bottom: 1em;
+  font: 1.1em/1.8em Verdana, sans-serif;
+  margin-bottom: 1.5em;
 }
 
 ul {
@@ -120,7 +120,7 @@ footer {
 
 /* Contact Page */
 .contact-form {
-  height: 500px;
+  height: 700px;
   width: 700px;
 }
 
@@ -184,7 +184,7 @@ footer {
 #projects .project {
   background-color: #EEE;
   margin-bottom: 20px;
-  min-height: 300px;
+  min-height: 305px;
   text-align: center;
 
   @include box-shadow(1px 1px 1px rgba(0,0,0,.2));
