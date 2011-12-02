@@ -8,34 +8,30 @@ description: Flatterline is Ruby on Rails development company specializing in cu
   <div class="content">
     <div class="page-header">
       <h2>Flatterline</h2>
-      <h1>Developing kick ass custom web applications using Ruby on Rails and an agile process</h1>
+      <h1>Developing Kick Ass Custom Web Applications Using Ruby on Rails and Agile Methodology</h1>
     </div>
-Everyone who hires us has something in common. They want to:
-Create something new
-Make a difference
-Move forward with an idea
+    
+<h2>Start-ups, entrepreneurs, and small businesses use us to develop their custom web applications</h2>
+We work with start-ups, entrepreneurs, and web design firms to develop prototypes, launch an idea into Beta, scale existing applications, and even supplement existing Ruby on Rails teams. <a href="/contact/">Let us know what you need</a>. 
+
+Here's what our clients say:
+
+“Flatterline successfully moved our app into the Cloud. Their extensive knowledge of configuring and deploying to Amazon S3 made it happen for us, including follow-up support and training. I'd hire them again for any mission critical or cutting edge software development.”
+Brennan Washburn, Founder of Auctions a la Carte
+
+"I can attest to the value of Flatterline for Rails Development. Emerging, early stage companies need developers that combine vision, innovative thinking, creativity, velocity and a strong work ethic. If your company is in need of development support, Flatterline is a no-brainer.”
+Anil Jain, Shareholder, Advisor at HyLo, Inc.
 
 Here's some recent development we've done:
-      <div class="">
+      	<div class="">
         <img alt="Happy Client" src="/images/groupon.jpg">
         <img alt="Another Client" scr="/images/corpedia.jpg" />
         <img alt="Yet Another Client" src="/images/snapped4u.jpg" >
-        <a href="/portfolio/">View more happy clients</a>
-      </div>
+        <a href="/portfolio/">More of our happy clients</a>
+ 	
+ 	</div>
+<a href="/contact/">Contact us about your project</a>, or read more about <a href="/ruby-on-rails-development/">Ruby on Rails Development</a>.
 
 
-
-<h2>Start-ups, entrepreneurs, and small businesses use us to develop their custom web applications</h2>
-Working with creative minds isn't always easy. But there's one reason you want to come to us and nto another development company. We're not here to piece together out of the box solutions to create some half-breed web app. What you want to do hasn't been done before, and you care enough about it to create it the right way. 
-    
-<h2>Seven business principles we use and think you should too</h2>
-    1.Simplicity
-    2.More isn't better
-    3.False assumptions = Failure
-    4.User feedback = success
-    5.Mistakes rookies make and professionals never do
-    6.Why good code is worth the money
- 	7.Test first, ask questions....
-	8. test
-  </div>
+ </div>
 </div>
