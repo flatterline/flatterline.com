@@ -45,6 +45,14 @@ a.read-more {
   white-space: nowrap;
 }
 
+.pagination a {
+  color: #444;
+}
+
+.pagination a:hover {
+  color: #000;
+  text-decoration: none;
+}
 
 
 
@@ -214,13 +222,7 @@ footer {
   border: none;
 }
 
-#post-index ul li a {
-  color: #444;
-}
 
-#post-index ul li a:hover {
-  color: #000;
-}
 
 
 
@@ -300,9 +302,14 @@ footer {
 }
 
 #post .byline a {
+  color: #666;
   font: bold 0.85em Verdana, sans-serif;
   text-transform: uppercase;
   margin-left: 0.25em;
+}
+
+#post .byline a {
+  
 }
 
 #post .post-image {
