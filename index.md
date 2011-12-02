@@ -8,20 +8,19 @@ description: Flatterline is Ruby on Rails development company specializing in cu
   <div class="content">
     <div class="page-header">
       <h2>Flatterline</h2>
-      <img src="/images/horizontal_rule-trans.png" height="20" alt="">
       <h1>Developing kick ass custom web applications using Ruby on Rails and an agile process</h1>
     </div>
 Everyone who hires us has something in common. They want to:
 Create something new
 Make a difference
 Move forward with an idea
- This is test
-As seen in:
+
+Here's some recent development we've done:
       <div class="">
-        <img src="/images/phoenix-business-journal.jpg alt="Phoenix Business Journal">
-        <img src="/images/ASU.jpg alt="Entrepreneurship at ASU">
-        <img src="/images/phoenix-downtown-journal.jpg alt="Phoenix Downtown Journal">
-        <img src="/images/semmy.jpg alt="Semmy Awards">
+        <img alt="Happy Client" src="/images/groupon.jpg">
+        <img alt="Another Client" scr="/images/corpedia.jpg" />
+        <img alt="Yet Another Client" src="/images/snapped4u.jpg" >
+        <a href="/portfolio/">View more happy clients</a>
       </div>
 
 
