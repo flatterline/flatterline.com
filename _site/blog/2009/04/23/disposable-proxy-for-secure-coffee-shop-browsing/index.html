@@ -75,7 +75,10 @@
       </h2>
     </header>
 
-    <div id="post-body"><p>If you are a highly mobile laptop user, chances are you work out of a lot of varying public locations such as coffee shops, libraries, and just about anywhere that has public wifi. Are you concerned about the privacy of your data?If you're like me, and our clients, you're very concerned. Applications like <a href="http://www.circlemud.org/~jelson/software/tcpflow/">tcpflow</a> and <a href="http://www.wireshark.org/">Wireshark</a> are not only particularly effective at grabbing content from the network, they also happen to be readily available.</p>
+    <div id="post-body">
+      
+
+      <p>If you are a highly mobile laptop user, chances are you work out of a lot of varying public locations such as coffee shops, libraries, and just about anywhere that has public wifi. Are you concerned about the privacy of your data?If you're like me, and our clients, you're very concerned. Applications like <a href="http://www.circlemud.org/~jelson/software/tcpflow/">tcpflow</a> and <a href="http://www.wireshark.org/">Wireshark</a> are not only particularly effective at grabbing content from the network, they also happen to be readily available.</p>
 
 <p><strong>Here's a very simple scheme to leverage the inexpensive power of Amazon's EC2 to create a disposable, secure proxy.</strong></p>
 
@@ -116,7 +119,8 @@ aptitude install squid
 <p>When your done at the coffee shop feel free to decommission the AMI instance and you're done. The machine will go away with all records of the proxy's cache.</p>
 
 <p><em>If you're looking for a solution to more than just your HTTP traffic you have options such as OpenVPN. Look for an article from us soon.</em></p>
-</div>
+
+    </div>
 
     <footer>
       <div class="author">
@@ -156,15 +160,33 @@ aptitude install squid
   </article>
 </div>
 
-<aside id="sidebar" class="span4">
-  
-
-  <h3>Services</h3>
-  <ul>
-    <li>Web Development</li>
-    <li>Ruby on Rails Project Management</li>
-    <li>Search Engine Optimization</li>
-  </ul>
+<aside id="sidebar" class="span4 offset1">
+  <div id="recent-posts">
+    <h3>Recent Posts</h3>
+    <ul>
+      
+        <li>
+          <a href="/blog/2009/11/11/developer-ignite-phoenix-real-world-cryptography">Developer Ignite Phoenix: Real World Cryptography</a>
+        </li>
+      
+        <li>
+          <a href="/blog/2009/06/20/desert-code-camp-followup">Desert Code Camp Followup</a>
+        </li>
+      
+        <li>
+          <a href="/blog/2009/06/09/desert-code-camp">Desert Code Camp</a>
+        </li>
+      
+        <li>
+          <a href="/blog/2009/05/03/2009-04-30-recap-of-phoenix-opencoffee-club">2009-04-30: Recap of Phoenix OpenCoffee Club</a>
+        </li>
+      
+        <li>
+          <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a>
+        </li>
+      
+    </ul>
+  </div>
 </aside>
 
       </div>

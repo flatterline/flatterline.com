@@ -12,7 +12,11 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), type + '.html')
       self.data['collated_posts'] = self.collate(site)
 
-      year, month, day = dir.split('/')
+      # Account for the path prefix of "/blog"
+      split_path = dir.split('/')
+      split_path.shift
+
+      year, month, day = split_path
       self.data['year'] = year.to_i
       month and self.data['month'] = month.to_i
       day and self.data['day'] = day.to_i
@@ -54,7 +58,7 @@ module Jekyll
     end
 
     def write_archive_index(site, dir, type)
-      archive = ArchiveIndex.new(site, site.source, dir, type)
+      archive = ArchiveIndex.new(site, site.source, "blog/#{dir}", type)
       archive.render(site.layouts, site.site_payload)
       archive.write(site.dest)
       site.static_files << archive

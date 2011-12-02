@@ -1,5 +1,9 @@
 --- 
 author: Chris Chandler
+excerpt:
+  Have you ever used an unsecured wireless connection at a coffeeshop? Find
+  out how you're putting your data at risk and the steps you can take to
+  protect yourself.
 layout: post
 title: Disposable proxy for secure coffee shop browsing
 tags: 

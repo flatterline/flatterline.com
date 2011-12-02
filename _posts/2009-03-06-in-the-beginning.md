@@ -1,6 +1,9 @@
 --- 
 author: Chris Chandler
-excerpt: Flatterline
+excerpt:
+  "Whew... what a week! Flatterline has been extremely busy and productive
+  doing what we love: working with awesome clients to build kick-ass web
+  applications. What's up next for us?"
 layout: post
 tags: 
 - business

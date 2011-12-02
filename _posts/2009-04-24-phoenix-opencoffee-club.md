@@ -1,5 +1,10 @@
 --- 
 author: Curtis Miller
+excerpt:
+  OpenCoffee Club is an event hosted around the world to provide a place for
+  startup founders and investor to gather and discuss their progress, 
+  successes and failures. Find out about our plan to bring this great event
+  to Phoenix!
 layout: post
 title: Phoenix OpenCoffee Club
 tags: 

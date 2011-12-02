@@ -1,12 +1,12 @@
-<aside id="sidebar" class="span4">
-  {% if page.image %}
-    <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
-  {% endif %}
-
-  <h3>Services</h3>
-  <ul>
-    <li>Web Development</li>
-    <li>Ruby on Rails Project Management</li>
-    <li>Search Engine Optimization</li>
-  </ul>
+<aside id="sidebar" class="span4 offset1">
+  <div id="recent-posts">
+    <h3>Recent Posts</h3>
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </aside>

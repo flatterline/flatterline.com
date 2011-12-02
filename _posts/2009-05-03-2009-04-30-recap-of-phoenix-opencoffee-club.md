@@ -1,5 +1,9 @@
 --- 
 author: Curtis Miller
+excerpt:
+  A recap of the first Phoenix OpenCoffee Club held at Fair Trade in
+  downtown Phoenix. Find out what was discussed, pitched and what the
+  next plans are for OpenCoffee.
 image:
   url: http://farm1.static.flickr.com/13/17189040_a78ea36a0d_m_d.jpg
   title: Latte Art. Photo by tonx.

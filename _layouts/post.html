@@ -20,7 +20,15 @@ layout: default
       </h2>
     </header>
 
-    <div id="post-body">{{ content }}</div>
+    <div id="post-body">
+      {% if page.image %}
+        <div class="post-image span3">
+          <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+        </div>
+      {% endif %}
+
+      {{ content }}
+    </div>
 
     <footer>
       {% authors %}

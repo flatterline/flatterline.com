@@ -1,5 +1,9 @@
 --- 
 author: Curtis Miller
+excerpt:
+  Desert Code Camp is a locally organized event for developers to present on
+  topics they're interested in. This year, Flatterline is giving two
+  presentations.
 layout: post
 title: Desert Code Camp
 tags: 

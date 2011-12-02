@@ -1,0 +1,24 @@
+---
+layout: page
+title: Web Development Blog | SEO Blog
+---
+<div id="post-index" class="span15">
+  <div class="title">The Flatterline Blog</div>
+  <h1 class="byline">A Web Development and SEO blog</h1>
+
+  {% if paginator.posts %}
+    <ul class="span12">
+      {% for post in paginator.posts %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {% if post.excerpt %}
+            {{ post.excerpt | read_more: post.url | simple_format }}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    {% include pagination.html %}
+
+  {% endif %}
+</div>

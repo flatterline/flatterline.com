@@ -1,5 +1,7 @@
 --- 
 author: Curtis Miller
+excerpt:
+  We presented in two separate tracks at Desert Code Camp in Phoenix to a great turnout. You can checkout the slides here.
 layout: post
 title: Desert Code Camp Followup
 tags: 

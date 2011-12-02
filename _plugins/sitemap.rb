@@ -79,7 +79,7 @@ module Jekyll
       # First, try to find any stand-alone pages.
       site.pages.each { |page|
         path     = page.subfolder + '/' + page.name
-        mod_date = File.mtime(site.source + path)
+        mod_date = (File.exists?(site.source + path) ? File.mtime(site.source + path) : Time.now)
 
         # Use the user-specified permalink if one is given.
         if page.permalink

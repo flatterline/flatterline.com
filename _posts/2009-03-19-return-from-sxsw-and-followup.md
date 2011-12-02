@@ -1,5 +1,8 @@
 --- 
 author: Chris Chandler
+excerpt:
+  We had a great time at SXSW and met some awesome people in Austin, but now
+  we're back and ready to go!
 layout: post
 title: Return from SXSW and followup
 tags: 

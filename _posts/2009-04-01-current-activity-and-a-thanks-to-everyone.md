@@ -1,5 +1,8 @@
 --- 
 author: Chris Chandler
+excerpt:
+  A quick thank you to all of the people that have helped Flatterline over
+  the past month. We couldn't do it without you!
 layout: post
 title: Current activity and a thanks to everyone!
 tags: 

@@ -1,12 +1,15 @@
 --- 
 author: Chris Chandler
+excerpt:
+  Want to eek a little performance out of your current hosting setup? Follow
+  these easy steps to decrease swapping.
 layout: post
 title: What you don't know is affecting your performance
 tags: 
 - technology
 ---
 
-Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup.This is especially useful if you have a significant ratio of physical RAM to in-memory programs.
+Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup. This is especially useful if you have a significant ratio of physical RAM to in-memory programs.
 
 ### Swappiness
 

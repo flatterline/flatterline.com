@@ -1,5 +1,9 @@
 --- 
 author: Chris Chandler
+excerpt:
+  Wondering what hardware you should provision for your application hosted
+  in the cloud with Amazon EC2? We've got you covered with this handy optimal
+  cost calculator.
 image:
   url: http://farm1.static.flickr.com/67/170500174_d15d6c5541_m_d.jpg
   title: A happy application in the cloud. Photo by Timothy K. Hamilton.
