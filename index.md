@@ -14,7 +14,7 @@ description: Flatterline is Ruby on Rails development company specializing in cu
 <h2>Start-ups, entrepreneurs, and small businesses use us to develop their custom web applications</h2>
 We work with start-ups, entrepreneurs, and web design firms to develop prototypes, launch an idea into Beta, scale existing applications, and even supplement existing Ruby on Rails teams. <a href="/contact/">Let us know what you need</a>. 
 
-Here's what our clients say:
+<h2>What our clients say:</h2>
 
 “Flatterline successfully moved our app into the Cloud. Their extensive knowledge of configuring and deploying to Amazon S3 made it happen for us, including follow-up support and training. I'd hire them again for any mission critical or cutting edge software development.”
 Brennan Washburn, Founder of Auctions a la Carte
@@ -28,9 +28,9 @@ Here's some recent development we've done:
         <img alt="Another Client" scr="/images/corpedia.jpg" />
         <img alt="Yet Another Client" src="/images/snapped4u.jpg" >
         <a href="/portfolio/">More of our happy clients</a>
- 	
- 	</div>
-<a href="/contact/">Contact us about your project</a>, or read more about <a href="/ruby-on-rails-development/">Ruby on Rails Development</a>.
+       	</div>
+
+<a href="/contact/">Contact us about your project</a>, or read more about how we do <a href="/ruby-on-rails-development/">Ruby on Rails Development</a> at Flatterline.
 
 
  </div>
