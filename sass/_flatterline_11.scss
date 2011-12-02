@@ -39,8 +39,10 @@ blockquote {
 }
 
 a.read-more {
+  display: inline;
   font-size: 0.9em;
   margin-left: 6px;
+  white-space: nowrap;
 }
 
 
