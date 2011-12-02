@@ -12,18 +12,6 @@ description: Flatterline is Ruby on Rails development company specializing in cu
     </div>
 We want to bring your idea to life. We design, develop and deploy custom web appications using Ruby on Rails and agile methodolgies to satisfy your business requirements while maintaining flexibility and scalability. Our projects are on time and within budget.
     
-<<<<<<< HEAD
-<h2>Seven business principles we use and think you should too</h2>
-    1.Simplicity
-    2.More isn't better
-    3.False assumptions = Failure
-    4.User feedback = success
-    5.Mistakes rookies make and professionals never do
-    6.Why good code is worth the money
- 	7.Test first, ask questions....
-	8. test123
-  </div>
-=======
 <h2>Start-ups, entrepreneurs, and small businesses use Flatterline to develop their custom web applications</h2>
 We work with start-ups, entrepreneurs, and web design firms to develop prototypes, launch an idea into Beta, scale existing applications, and even supplement existing Ruby on Rails teams. <a href="/contact/">Let us know what you need</a>. 
 
@@ -47,5 +35,5 @@ Here's some recent development we've done:
 
 
  </div>
->>>>>>> d3aa83355a702335ca0bbcf19d6a9c5d3edd854d
+
 </div>
