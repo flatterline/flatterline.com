@@ -33,7 +33,9 @@ It’s been our experience that you’ll discover things about your business tha
 
 We know it’s easy to get caught up in the excitement, only to find months later that what was built was not what was actually needed. We’ve seen projects do this. Hell, we’ve worked on projects in the past that have done this.
 
-Let our experience guide you and keep you focused on the real goals. <a href="/contact/">Let's Get Started</a>.
+Let our experience guide you and keep you focused on the real goals. 
+
+<h2><a href="/contact/">Let's Get Started</a></h2>
 
 Cause we love the thrill of creating new apps...the speed at which we can bring your idea to market...and the reach your custom web application gives you. 
 
