@@ -348,6 +348,16 @@ footer {
 
 
 /* Team */
+#team-page {
+  text-align: center;
+}
+
+#team-page ul {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
 .team li {
   padding: 10px;
 }
