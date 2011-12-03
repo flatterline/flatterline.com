@@ -10,6 +10,11 @@
   set :email_service,  ENV['SENDGRID_ADDRESS']
   set :email_domain,   ENV['SENDGRID_DOMAIN']
 
+## Configuration ##
+  configure :production do
+    require 'newrelic_rpm'
+  end
+
 ## Before callback ##
   # Added headers for Varnish
   before do

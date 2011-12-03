@@ -1,6 +1,6 @@
 blog_dir: blog
 domain: http://flatterline.com
-exclude: *.sass, *.scss, Gemfile, Gemfile.lock, Procfile, README.md
+exclude: *.sass, *.scss, Gemfile, Gemfile.lock, Procfile, README.md, *.rb, *.yml
 lsi: true
 markdown: rdiscount
 paginate: 10

@@ -46,6 +46,7 @@ GEM
       syntax (>= 1.0.0)
     mime-types (1.17.2)
     narray (0.6.0.1)
+    newrelic_rpm (3.3.0)
     polyglot (0.3.3)
     pony (1.3)
       mail (> 2.0)
@@ -84,6 +85,7 @@ DEPENDENCIES
   gsl
   heroku
   jekyll
+  newrelic_rpm
   pony
   rb-fsevent
   rdiscount

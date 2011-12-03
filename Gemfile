@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'heroku'
+gem 'newrelic_rpm'
 gem 'pony'
 gem 'rb-fsevent'
 gem 'rdiscount'
