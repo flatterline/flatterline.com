@@ -42,48 +42,47 @@ module Jekyll
     end
   end
 
-  class Site
+  class GenerateTeam < Generator
+    safe true
+    priority :normal
+
+    def generate(site)
+      write_team(site)
+    end
+
     # Loops through the list of team pages and processes each one.
-    def write_team
+    def write_team(site)
       if Dir.exists?('_team')
         Dir.chdir('_team')
         Dir["*.yml"].each do |path|
           name = File.basename(path, '.yml')
-          self.write_person_index("_team/#{path}", name)
+          self.write_person_index(site, "_team/#{path}", name)
         end
 
-        Dir.chdir(self.source)
-        self.write_team_index
+        Dir.chdir(site.source)
+        self.write_team_index(site)
       end
     end
 
-    def write_team_index
-      team = TeamIndex.new(self, self.source, "team")
-      team.render(self.layouts, site_payload)
-      team.write(self.dest)
-      self.static_files << team
+    def write_team_index(site)
+      team = TeamIndex.new(site, site.source, "/team")
+      team.render(site.layouts, site.site_payload)
+      team.write(site.dest)
+
+      site.pages << team
+      site.static_files << team
     end
 
-    def write_person_index(path, name)
-      person = PersonIndex.new(self, self.source, "team/#{name}", path)
+    def write_person_index(site, path, name)
+      person = PersonIndex.new(site, site.source, "/team/#{name}", path)
 
       if person.data['active']
-        person.render(self.layouts, site_payload)
-        person.write(self.dest)
-        self.static_files << person
+        person.render(site.layouts, site.site_payload)
+        person.write(site.dest)
+
+        site.pages << person
+        site.static_files << person
       end
-    end
-  end
-
-  class GenerateTeam < Generator
-    safe true
-    priority :low
-
-    def generate(site)
-      site.write_team
-    rescue => e
-      puts e.message
-      pp e.backtrace
     end
   end
 
@@ -112,10 +111,6 @@ module Jekyll
           end
         end
       end
-    rescue => e
-      puts page
-      puts e.message
-      pp e.backtrace
     end
   end
 end

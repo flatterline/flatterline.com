@@ -52,18 +52,20 @@ module Jekyll
     end
 
     def write_portfolio_index
-      portfolio = PortfolioIndex.new(self, self.source, "portfolio")
+      portfolio = PortfolioIndex.new(self, self.source, "/portfolio")
       portfolio.render(self.layouts, site_payload)
       portfolio.write(self.dest)
+      self.pages << portfolio
       self.static_files << portfolio
     end
 
     def write_project_index(path, name)
-      project = ProjectIndex.new(self, self.source, "portfolio/#{name}", path)
+      project = ProjectIndex.new(self, self.source, "/portfolio/#{name}", path)
 
       if project.data['published']
         project.render(self.layouts, site_payload)
         project.write(self.dest)
+        self.pages << project
         self.static_files << project
       end
     end
@@ -71,7 +73,7 @@ module Jekyll
 
   class GeneratePortfolio < Generator
     safe true
-    priority :low
+    priority :normal
 
     def generate(site)
       site.write_portfolio

@@ -38,12 +38,13 @@ module Jekyll
   # Generates a sitemap.xml file containing URLs of all pages and posts.
   class SitemapGenerator < Generator
     safe true
-    priority :low
+    priority :lowest
 
     # Generates the sitemap.xml file.
     #
     #  +site+ is the global Site object.
     def generate(site)
+      puts "generate sitemap"
       # Create the destination folder if necessary.
       site_folder = site.config['destination']
       unless File.directory?(site_folder)
@@ -77,6 +78,7 @@ module Jekyll
       result = ''
 
       # First, try to find any stand-alone pages.
+      # puts site.pages.collect {|p| "#{p.dir}/#{p.name}"}
       site.pages.each { |page|
         path     = page.subfolder + '/' + page.name
         mod_date = (File.exists?(site.source + path) ? File.mtime(site.source + path) : Time.now)

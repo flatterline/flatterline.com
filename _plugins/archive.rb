@@ -58,9 +58,11 @@ module Jekyll
     end
 
     def write_archive_index(site, dir, type)
-      archive = ArchiveIndex.new(site, site.source, "blog/#{dir}", type)
+      archive = ArchiveIndex.new(site, site.source, "/blog/#{dir}", type)
       archive.render(site.layouts, site.site_payload)
       archive.write(site.dest)
+
+      site.pages << archive
       site.static_files << archive
     end
 
