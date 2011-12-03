@@ -64,14 +64,15 @@ a.read-more {
 
   /* Pull out to the right, modular scale based margins. */
   float: right;
-  width: 40%;
-  margin: 1em 0 1em 1.5em;
+  width: 30%;
+  margin: 0em 0 1em 1.5em;
 
   /* Baseline correction */
   position: relative;
   top: 6px;
   font-size: 1.4em;
   line-height: 1.45em;
+  text-align: center;
 }
 
 .pullquote-left:before {
@@ -84,14 +85,15 @@ a.read-more {
 
   /* Pull out to the right, modular scale based margins. */
   float: left;
-  width: 35%;
-  margin: 1em 1.5em 1em 0;
+  width: 30%;
+  margin: 0em 1.5em 1em 0;
 
   /* Baseline correction */
   position: relative;
   top: 6px;
   font-size: 1.4em;
   line-height: 1.45em;
+  text-align: center;
 }
 
 
@@ -263,10 +265,6 @@ footer {
   .service {
     margin-top: 20px;
 
-    h1 {
-      font: 400 3em/1em $headerFont;
-    }
-
     h2 {
       margin: 3em 0 0.5em;
     }
@@ -303,14 +301,14 @@ footer {
 #page {
   margin-bottom: 50px;
   margin-top: 30px;
-}
 
-#page h1 {
-  font-size: 1.8em;
-}
+  h1 {
+    font: 400 3em/1em $headerFont;
+  }
 
-#page h2 {
-  font: 1.6em $postTitleFont;
+  h2 {
+    font: 1.6em $postTitleFont;
+  }
 }
 
 #page h3 {

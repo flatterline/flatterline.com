@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-      <loc>http://flatterline.com/blog/</loc>
+      <loc>http://flatterline.com/blog</loc>
       <lastmod>2011-12-01</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/contact/</loc>
-      <lastmod>2011-11-30</lastmod>
+      <loc>http://flatterline.com/contact</loc>
+      <lastmod>2011-12-03</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/</loc>
+      <loc>http://flatterline.com</loc>
+      <lastmod>2011-12-03</lastmod>
+  </url>
+  <url>
+      <loc>http://flatterline.com/services/code-audits</loc>
       <lastmod>2011-12-02</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/services/code-audits/</loc>
+      <loc>http://flatterline.com/services/ruby-on-rails-development</loc>
       <lastmod>2011-12-02</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/services/</loc>
-      <lastmod>2011-11-30</lastmod>
-  </url>
-  <url>
-      <loc>http://flatterline.com/services/ruby-on-rails-consulting/</loc>
+      <loc>http://flatterline.com/services/search-engine-marketing</loc>
       <lastmod>2011-12-02</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/services/ruby-on-rails-development/</loc>
-      <lastmod>2011-12-02</lastmod>
-  </url>
-  <url>
-      <loc>http://flatterline.com/services/ruby-on-rails-updates/</loc>
-      <lastmod>2011-12-02</lastmod>
-  </url>
-  <url>
-      <loc>http://flatterline.com/services/search-engine-marketing/</loc>
-      <lastmod>2011-12-02</lastmod>
-  </url>
-  <url>
-      <loc>http://flatterline.com/blog/page/2/</loc>
-      <lastmod>2011-12-02</lastmod>
-  </url>
-  <url>
-      <loc>http://flatterline.com/page/2/</loc>
-      <lastmod>2011-12-02</lastmod>
+      <loc>http://flatterline.com/blog/page/2</loc>
+      <lastmod>2011-12-03</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/blog/2009/11/11/developer-ignite-phoenix-real-world-cryptography</loc>

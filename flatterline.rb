@@ -6,7 +6,7 @@
   set :public_folder,  Proc.new { File.join(root, "_site") }
   set :email_username, ENV['SENDGRID_USERNAME']
   set :email_password, ENV['SENDGRID_PASSWORD']
-  set :email_address,  'Flatterline Contact Form <notices@flatterline.com>'
+  set :email_address,  'Flatterline Contact Form <contact@flatterline.com>'
   set :email_service,  ENV['SENDGRID_ADDRESS']
   set :email_domain,   ENV['SENDGRID_DOMAIN']
 

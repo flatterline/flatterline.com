@@ -1,6 +1,10 @@
 ---
 layout: service
 title: Ruby on Rails Development
+meta:
+  description:
+    Flatterline is an experienced, agile Ruby on Rails development company.
+  keywords:
 ---
 
 # Ruby on Rails Development
@@ -12,7 +16,7 @@ We’ve been developing custom Ruby on Rails applications since 2006. We immedia
 ## Flatterline is all about agility
 
 {% pullquote %}
-We know you don’t have time to mess around; you need something rapidly. Whether your goal is to have something to pitch to investors or sell to potential customers, {" we’ll work with you to get the right set of features to meet your goals, in your timeframe "}.
+We know you don’t have time to mess around; you need something rapidly. Whether your goal is to have something to pitch to investors or sell to potential customers, {" we’ll work with you to get the right set of features to meet your goals, in your timeframe. "}
 {% endpullquote %}
 
 Read more about our <a href="/agile-development/">agile development process</a>.

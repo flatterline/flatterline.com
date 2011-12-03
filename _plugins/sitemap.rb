@@ -96,7 +96,7 @@ module Jekyll
 
         # Remove the trailing 'index.html' if there is one, and just output the folder name.
         if path=~/\/index.html$/
-            path = path[0..-11]
+            path = path[0..-12]
         end
 
         if page.data.has_key?('changefreq')

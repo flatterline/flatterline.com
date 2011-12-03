@@ -1,8 +1,6 @@
 ---
 layout: page
-meta:
-  description:
-  robots: noindex, noarchive, noodp, noydir
+title: Contact
 ---
 
 <iframe class="contact-form" frameBorder="0" src="/contact-form/" scrolling="no"></iframe>

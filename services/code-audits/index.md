@@ -3,20 +3,23 @@ layout: service
 title: Code Audits
 meta:
   description:
-    Hire Flatterline to perform a professional code audit to help you
-    analyze the quality of your source code and determine the viability
-    of your web application code.
+    Flatterline offers professional code audits to help you analyze the
+    quality of your source code.
   keywords: code audit, source code audit, ruby on rails code audit
 ---
 
 # Source Code Audit
 
-A source code audit is a great way to understand the investment you've made in your web application.
+Does your current application have many bugs? Does it take your developers a long time to add new features and, even when complete, they break other portions of the site? Is the performance of your site poor?
 
-This helps you determine the quality of your code, expecially if you're not technical, and it's a great place to start when you're switching developers in the middle of a project.
+{% pullquote %}
+These are key indicators that there may be something fundamentally wrong with your current code base or the architecture of your system. {" An audit is a great way to understand the investment you have made in your web application "} and helps you to make more informed business decisions.
+{% endpullquote %}
 
-In your source code audit, we check to see if your developers are using a testing suite. If they are, we'll run those tests against your code. We also manually inspect each file to verify Ruby on Rails best practices.  
+## Does Your Code Adhere to Best Practices?
 
-During the code audit, we don't make any changes to the code. But we provide you with recommendations for changes. Those can be done with us, or with another developer, as a separate project. 
+Many developers have their own tried-and-true way of doing things. Although they may be consistent in how they write your application, these are not necessarily best practices. The Ruby on Rails community, and the software community at large, have established guidelines for best practices in software development. Our code audit will identify best practices in use within your web application as well as those that have been neglected.
+
+Our detailed report will reveal the level of code debt that you've accumulated over time and will advise you on the steps required to improve the maintainability of your web application.
 
 {% include get-started.html %}
