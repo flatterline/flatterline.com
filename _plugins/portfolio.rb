@@ -36,50 +36,47 @@ module Jekyll
     end
   end
 
-  class Site
-    # Loops through the list of project pages and processes each one.
-    def write_portfolio
-      if Dir.exists?('_projects')
-        Dir.chdir('_projects')
-        Dir["*.yml"].each do |path|
-          name = File.basename(path, '.yml')
-          self.write_project_index("_projects/#{path}", name)
-        end
-
-        Dir.chdir(self.source)
-        self.write_portfolio_index
-      end
-    end
-
-    def write_portfolio_index
-      portfolio = PortfolioIndex.new(self, self.source, "/portfolio")
-      portfolio.render(self.layouts, site_payload)
-      portfolio.write(self.dest)
-      self.pages << portfolio
-      self.static_files << portfolio
-    end
-
-    def write_project_index(path, name)
-      project = ProjectIndex.new(self, self.source, "/portfolio/#{name}", path)
-
-      if project.data['published']
-        project.render(self.layouts, site_payload)
-        project.write(self.dest)
-        self.pages << project
-        self.static_files << project
-      end
-    end
-  end
-
   class GeneratePortfolio < Generator
     safe true
     priority :normal
 
     def generate(site)
-      site.write_portfolio
-    rescue => e
-      puts e.message
-      pp e.backtrace
+      self.write_portfolio(site)
+    end
+
+    # Loops through the list of project pages and processes each one.
+    def write_portfolio(site)
+      if Dir.exists?('_projects')
+        Dir.chdir('_projects')
+        Dir["*.yml"].each do |path|
+          name = File.basename(path, '.yml')
+          self.write_project_index(site, "_projects/#{path}", name)
+        end
+
+        Dir.chdir(site.source)
+        self.write_portfolio_index(site)
+      end
+    end
+
+    def write_portfolio_index(site)
+      portfolio = PortfolioIndex.new(site, site.source, "/portfolio")
+      portfolio.render(site.layouts, site.site_payload)
+      portfolio.write(site.dest)
+
+      site.pages << portfolio
+      site.static_files << portfolio
+    end
+
+    def write_project_index(site, path, name)
+      project = ProjectIndex.new(site, site.source, "/portfolio/#{name}", path)
+
+      if project.data['published']
+        project.render(site.layouts, site.site_payload)
+        project.write(site.dest)
+
+        site.pages << project
+        site.static_files << project
+      end
     end
   end
 end

@@ -6,15 +6,14 @@ excerpt:
   cost calculator.
 image:
   url: http://farm1.static.flickr.com/67/170500174_d15d6c5541_m_d.jpg
-  title: A happy application in the cloud. Photo by Timothy K. Hamilton.
+  title: A happy application in the cloud.
   alt: A happy application in the cloud.
+  attribution: Photo by Timothy K. Hamilton.
 layout: post
 title: Optimizing hardware costs for Amazon EC2
 tags: 
 - technology
 ---
-
-A happy application in the cloud. Photo by Timothy K. Hamilton.
 
 Flatterline believes heavily in the power of [cloud computing](http://en.wikipedia.org/wiki/Cloud_computing). Dynamically allocated hardware on a pay-for-what-you-need basis has tremendous advantages when it comes to helping clients manage and provision their clusters. The main advantage of cloud computing is dynamically growing, or shrinking, hardware as the needs of the application change.
 

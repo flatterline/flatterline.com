@@ -6,8 +6,9 @@ excerpt:
   next plans are for OpenCoffee.
 image:
   url: http://farm1.static.flickr.com/13/17189040_a78ea36a0d_m_d.jpg
-  title: Latte Art. Photo by tonx.
+  title: Latte Art
   alt: Latte Art
+  attribution: Photo by tonx.
 layout: post
 title: "2009-04-30: Recap of Phoenix OpenCoffee Club"
 tags: 

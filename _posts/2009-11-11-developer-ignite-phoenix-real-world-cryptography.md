@@ -2,8 +2,9 @@
 author: Curtis Miller
 description: Chris Chandler explains the basics of cryptography with 20 slides in 5 minutes. No, really, he does.
 excerpt:
-  Hear our (video) take on cryptography in the real world as voiced by Chandler
-  at the first Developer Ignite in Phoenix. You might be surprised at what you learn.
+  Hear our (video) take on cryptography in the real world as voiced by
+  Chandler at the first Developer Ignite in Phoenix. You might be surprised
+  at what you learn.
 layout: post
 title: "Developer Ignite Phoenix: Real World Cryptography"
 tags: 

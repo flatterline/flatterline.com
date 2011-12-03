@@ -45,6 +45,12 @@ a.read-more {
   white-space: nowrap;
 }
 
+.attribution {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+}
+
 .pagination a {
   color: #444;
 }
@@ -95,6 +101,7 @@ a.read-more {
   line-height: 1.45em;
   text-align: center;
 }
+
 
 
 
@@ -411,68 +418,69 @@ footer {
 /* Posts */
 #post {
   margin: 30px 0 50px;
+
+  header {
+    border-bottom: none;
+  }
+
+  .posted-on {
+    border-bottom: 1px dashed #D2D2D2;
+    font: 0.9em Verdana, sans-serif;
+    letter-spacing: 0.33em;
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .title {
+    font: 1.8em $postTitleFont;
+    letter-spacing: 1px;
+    margin-bottom: 0.25em;
+    text-align: center;
+  }
+
+  .byline {
+    font: italic 1.1em Times, serif;
+    letter-spacing: 1px;
+    text-align: center;
+
+    a {
+      color: #666;
+      font: bold 0.85em Verdana, sans-serif;
+      text-transform: uppercase;
+      margin-left: 0.25em;
+    }
+  }
+
+  .post-image {
+    margin: 0 20px 20px 0;
+
+    img {
+      border: 1px solid #eee;
+      max-width: 148px;
+      padding: 5px;
+    }
+  }
+
+  h3 {
+    color: black;
+    font: 1.4em $postTitleFont;
+    letter-spacing: 1px;
+    margin: 0.5em 0;
+  }
+
+  #post-body {
+    padding: 10px;
+  }
+
+  footer {
+    border-top: 1px dashed #D2D2D2;
+    margin-top: 1.75em;
+    padding-top: 1em;
+  }
 }
 
-#post header {
-  border-bottom: none;
-}
-
-#post .posted-on {
-  border-bottom: 1px dashed #D2D2D2;
-  font: 0.9em Verdana, sans-serif;
-  letter-spacing: 0.33em;
-  margin-bottom: 1.5em;
-  padding-bottom: 1em;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-#post .title {
-  font: 1.8em $postTitleFont;
-  letter-spacing: 1px;
-  margin-bottom: 0.25em;
-  text-align: center;
-}
-
-#post .byline {
-  font: italic 1.1em Times, serif;
-  letter-spacing: 1px;
-  text-align: center;
-}
-
-#post .byline a {
-  color: #666;
-  font: bold 0.85em Verdana, sans-serif;
-  text-transform: uppercase;
-  margin-left: 0.25em;
-}
-
-#post .byline a {
-  
-}
-
-#post .post-image {
-  margin: 0 20px 20px 0;
-}
-
-#post .post-image img {
-  border: 1px solid #eee;
-  max-width: 200px;
-  padding: 5px;
-}
-
-#post h3 {
-  color: black;
-  font: 1.4em $postTitleFont;
-  letter-spacing: 1px;
-  margin: 0.5em 0;
-}
-
-#post #post-body {
-  padding: 10px;
-}
-
-#post footer,
 #related-posts {
   border-top: 1px dashed #D2D2D2;
   margin-top: 1.75em;
