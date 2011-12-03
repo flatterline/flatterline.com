@@ -1,5 +1,3 @@
-require 'pp'
-
 module Jekyll
   class TeamIndex < Page
     def initialize(site, base, dir)
