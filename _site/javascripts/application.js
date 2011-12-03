@@ -1,11 +1,11 @@
 $(function() {
   // Landing page client list hover effect
-  $('#small-client-list ul li > a:not(.more)').hover(
+  $('#small-client-list ul li > a:not(.more), #endorsements ul li blockquote').hover(
     function() {
       $(this).animate({opacity: 1}, 400, 'swing');
     },
     function() {
-      $(this).animate({opacity: 0.25}, 400, 'swing');
+      $(this).animate({opacity: 0.5}, 400, 'swing');
     }
   );
 

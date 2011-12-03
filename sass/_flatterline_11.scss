@@ -223,7 +223,7 @@ footer {
 
         li {
           a {
-            opacity: 0.25;
+            opacity: 0.5;
 
             &.more {
               margin-left: 3em;
@@ -245,14 +245,13 @@ footer {
 
       blockquote {
         border: medium none;
-        color: #999999;
         font: italic 1.1em/1.5em Verdana,sans-serif;
         margin: 0;
         max-width: none;
+        opacity: 0.5;
         padding: 0;
 
         small {
-          color: #999999;
           margin-top: 0.5em;
         }
       }
