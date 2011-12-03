@@ -263,8 +263,6 @@ footer {
 /* Services pages */
 #page {
   .service {
-    margin-top: 20px;
-
     h2 {
       margin: 3em 0 0.5em;
     }
@@ -300,7 +298,8 @@ footer {
 /* Pages */
 #page {
   margin-bottom: 50px;
-  margin-top: 30px;
+  margin-top: 50px;
+  overflow: hidden;
 
   h1 {
     font: 400 3em/1em $headerFont;
