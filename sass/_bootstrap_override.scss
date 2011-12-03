@@ -11,11 +11,18 @@
 
 .btn {
   @include border-radius(0px);
-}
 
-.btn.orange {
-  font: 400 1em/1em $headerFont;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+  &.orange {
+    font: 300 1em/1em $headerFont;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+
+    &.xlarge {
+      font-size: 1.5em;
+      line-height: normal;
+      padding: 0.75em 2em;
+      @include border-radius(6px);
+    }
+  }
 }
 
 .tabs .menu-dropdown, .tabs .dropdown-menu {
