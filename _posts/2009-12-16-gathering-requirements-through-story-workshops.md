@@ -2,7 +2,8 @@
 author: Curtis Miller
 excerpt:
   Flatterline uses a technique called a story workshop to gather project
-  requirements.
+  requirements. Find out more about how we use this technique to provide
+  value to our clients.
 image:
   url: /images/agile-story-workshop.jpg
   title: Agile Story Workshop
