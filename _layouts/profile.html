@@ -33,6 +33,10 @@ layout: page
 
     {{ page.bio | simple_format }}
 
+    {% if page.website %}
+      <p><a href="http://{{ page.website }}">{{ page.website }}</a></p>
+    {% endif %}
+
     <hr />
 
     {% include github.html %}

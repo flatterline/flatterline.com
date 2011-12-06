@@ -1,6 +1,6 @@
 active: true
 bio:
-  Not much is known about this elusive developer. What we do know is that he
+  Not much is known about this elusive developer (<b>hence the black square avatar</b>). What we do know is that he
   develops both Ruby and iOS applications, is practiced in the art of
   <abbr title="Search Engine Optimization">SEO</abbr> and has a fondness for
   dual-wielding hammers.
@@ -17,8 +17,9 @@ image:
   alt: Jason Casillas
 layout: profile
 linkedin:
-name: Jason Casillas
+name: Jason at TWNH
 role: iOS Developer
 short:
 twitter:
 type: contractor
+website: theworldneedsheroes.com
