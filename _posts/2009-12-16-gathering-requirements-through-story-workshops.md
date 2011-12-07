@@ -11,7 +11,6 @@ image:
   attribution: Photo by jakuza.
   attribution-url: http://www.flickr.com/photos/jakuza/3578548023/
 layout: post
-published: false
 tags:
 - process
 title: Gathering Requirements Through Story Workshops
