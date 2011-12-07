@@ -89,8 +89,8 @@ module Jekyll
           path.gsub!(/.md$/, ".html")
         end
 
-        # Ignore SASS, SCSS, and CSS files
-        if path=~/.(sass|scss|css)$/
+        # Ignore SASS, SCSS, CSS and YML files
+        if path=~/.(sass|scss|css|yml)$/
           next
         end
 
