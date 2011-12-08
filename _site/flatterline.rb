@@ -78,6 +78,11 @@
     erb :contact_form
   end
 
+## Blitz.io route ##
+get '/mu-3dd0acec-2383268f-097a0ad7-4e11727c' do
+  '42'
+end
+
 ## Helper Methods ##
   def send_email(params)
     if settings.email_service.nil?
