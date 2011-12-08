@@ -59,6 +59,10 @@
     '42'
   end
 
+  get '/mu-1b15f325-41eb9c2d-c6972725-c56f1bfb' do
+    '42'
+  end
+
   # Catch All
   get "/*/?" do |title|
     File.read("_site/#{title}/index.html")
