@@ -54,6 +54,12 @@
     erb :contact_form
   end
 
+  # Blitz.io route
+  get '/mu-3dd0acec-2383268f-097a0ad7-4e11727c' do
+    '42'
+  end
+
+  # Catch All
   get "/*/?" do |title|
     File.read("_site/#{title}/index.html")
   end
@@ -77,11 +83,6 @@
 
     erb :contact_form
   end
-
-## Blitz.io route ##
-get '/mu-3dd0acec-2383268f-097a0ad7-4e11727c' do
-  '42'
-end
 
 ## Helper Methods ##
   def send_email(params)
