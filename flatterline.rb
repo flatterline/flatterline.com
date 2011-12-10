@@ -18,7 +18,7 @@
 ## Before callback ##
   # Added headers for Varnish
   before do
-    response.headers['Cache-Control'] = 'public, max-age=31557600' if ENV['RACK_ENV'] == 'production'
+    response.headers['Cache-Control'] = 'public, max-age=2592000' if ENV['RACK_ENV'] == 'production'
   end
 
 ## GET requests ##
