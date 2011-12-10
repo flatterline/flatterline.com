@@ -67,7 +67,7 @@
     erb :contact_form
   end
 
-  # Blitz.io route
+  # Blitz.io routes
   get '/mu-3dd0acec-2383268f-097a0ad7-4e11727c' do
     '42'
   end
