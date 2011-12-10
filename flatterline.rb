@@ -40,8 +40,21 @@
   get "/index.php/*/?" do |title|
     redirect "blog/#{title}", 301
   end
-  ############################################################
 
+  ############################################################
+  # Redirects for Ad links
+  ############################################################
+  get %r{^\/(ruby|rails|ruby-on-rails|ruby-on-rails-development|ruby-development|rails-development)} do
+    redirect "/services/ruby-on-rails-development"
+  end
+
+  get %r{^\/code-audits?} do
+    redirect "/services/code-audits"
+  end
+
+  ############################################################
+  # GET routes
+  ############################################################
   # Index page
   get '/' do
     File.read("_site/index.html")
@@ -64,7 +77,9 @@
     File.read("_site/#{title}/index.html")
   end
 
-## POST requests ##
+  ############################################################
+  # POST routes
+  ############################################################
   # Dynamic contact form
   post '/contact-form/?' do
     @title = "Ready to start developing? Contact us today."
