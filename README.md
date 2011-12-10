@@ -15,10 +15,10 @@ and run the Sinatra app.
 Created by [Curtis Miller](http://millarian.com) of Flatterline, a
 [Ruby on Rails development company](http://flatterline.com).
 
-## Copyright
+## Copyright & License
 
-Content in posts and pages are Copyright (c) Flatterline LLC. You may not reuse that
-content without our express permission.
+Content in posts and pages are licensed under a [Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 Everything else is MIT Licensed unless specifically noted. Feel free to use the HTML and
 CSS as you please. If you do use them, a [link back](https://github.com/flatterline/flatterline.com)
