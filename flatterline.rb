@@ -23,8 +23,10 @@
 
 ## GET requests ##
   ############################################################
-  # Handle old site URLs with a permanent redirect
+  # Redirects
   ############################################################
+
+  # Handle old site URLs with a permanent redirect
   get '/index.php/blog/?' do
     redirect '/blog', 301
   end
@@ -41,15 +43,18 @@
     redirect "blog/#{title}", 301
   end
 
-  ############################################################
+  # Redirect trailing slash URLs
+  get %r{\/(.*)\/$} do |url|
+    redirect url, 301
+  end
+
   # Redirects for Ad links
-  ############################################################
   get %r{^\/(ruby|rails|ruby-on-rails|ruby-on-rails-development|ruby-development|rails-development)} do
-    redirect "/services/ruby-on-rails-development"
+    redirect "/services/ruby-on-rails-development", 301
   end
 
   get %r{^\/code-audits?} do
-    redirect "/services/code-audits"
+    redirect "/services/code-audits", 301
   end
 
   ############################################################
@@ -61,7 +66,7 @@
   end
 
   # Dynamic contact form
-  get '/contact-form/?' do
+  get '/contact-form' do
     @errors = {}
     @title = "Ready to start developing? Contact us today."
     erb :contact_form
@@ -77,7 +82,7 @@
   end
 
   # Catch All
-  get "/*/?" do |title|
+  get "/*" do |title|
     File.read("_site/#{title}/index.html")
   end
 

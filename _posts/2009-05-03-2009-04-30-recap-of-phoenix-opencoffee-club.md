@@ -15,7 +15,7 @@ tags:
 - community
 ---
 
-We had a great turnout for the first [Phoenix OpenCoffee Club](http://flatterline.com/blog/2009/04/24/phoenix-opencoffee-club/), which took place April 30th at [Fair Trade Cafe](http://www.azfairtrade.com/cafe/). About a dozen people, both entrepreneurs and investors, attended and spent several hours getting to know each other over some great coffee.
+We had a great turnout for the first [Phoenix OpenCoffee Club](/blog/2009/04/24/phoenix-opencoffee-club/), which took place April 30th at [Fair Trade Cafe](http://www.azfairtrade.com/cafe/). About a dozen people, both entrepreneurs and investors, attended and spent several hours getting to know each other over some great coffee.
 
 We heard at least 6 ideas pitched and discussed during the 2 hours we were there. The assembled group wasn't shy about asking questions and raising concerns of the entrepreneurs pitching their ideas either. I know everyone appreciated hearing the perspectives of entrepreneurs and investors alike. We hope everyone who attended found the meetup engaging and useful. We sure did!
 
