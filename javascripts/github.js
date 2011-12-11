@@ -17,9 +17,17 @@ var github = (function(){
 
   return {
     showRepos: function(options) {
-      $.getJSON(
-        "https://api.github.com/users/" + options.user + "/repos?type=public",
-        function(data) {
+      $.ajax({
+        data: {
+          type: 'public'
+        },
+        dataType: 'json',
+        headers: {
+          'Origin': 'http://flatterline.com',
+          'Access-Control-Request-Method': 'GET'
+        },
+        url: "https://api.github.com/users/" + options.user + "/repos",
+        success: function(data) {
           var repos = [];
 
           for(var i = 0; i < data.length; i++) {
@@ -38,7 +46,7 @@ var github = (function(){
           if (options.count) { repos.splice(options.count); }
           render(options.target, repos);
         }
-      );
+      });
     }
   };
 })();
