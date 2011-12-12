@@ -22,10 +22,6 @@ var github = (function(){
           type: 'public'
         },
         dataType: 'json',
-        headers: {
-          'Origin': 'http://flatterline.com',
-          'Access-Control-Request-Method': 'GET'
-        },
         url: "https://api.github.com/users/" + options.user + "/repos",
         success: function(data) {
           var repos = [];
