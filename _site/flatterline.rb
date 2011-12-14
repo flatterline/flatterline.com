@@ -23,7 +23,10 @@
 
 ## Error Handling
   not_found do
-    send_email params, 'views/error_email_template.txt.erb', "Missing Page"
+    if @not_found.nil?
+      @not_found = true
+      send_email params, 'views/error_email_template.txt.erb', "Missing Page"
+    end
     File.read("_site/404.html")
   end
 
