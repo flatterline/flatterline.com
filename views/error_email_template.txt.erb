@@ -1,0 +1,7 @@
+Sent:       <%= Time.now.strftime("%b %e, %Y %H:%M:%S %Z") %>
+
+IP address: <%= request.ip %>
+HTTP User Agent: <%= request.user_agent %>
+
+Referring URL: <%= request.referrer || 'Direct' %>
+Requested URL [<%= request.request_method %>]: <%= request.url %>

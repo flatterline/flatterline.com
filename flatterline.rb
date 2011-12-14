@@ -6,7 +6,7 @@
   set :public_folder,  Proc.new { File.join(root, "_site") }
   set :email_username, ENV['SENDGRID_USERNAME']
   set :email_password, ENV['SENDGRID_PASSWORD']
-  set :email_address,  'Flatterline Contact Form <contact@flatterline.com>'
+  set :email_address,  'Flatterline <contact@flatterline.com>'
   set :email_service,  ENV['SENDGRID_ADDRESS']
   set :email_domain,   ENV['SENDGRID_DOMAIN']
 
@@ -19,6 +19,17 @@
   # Added headers for Varnish
   before do
     response.headers['Cache-Control'] = 'public, max-age=2592000' if ENV['RACK_ENV'] == 'production'
+  end
+
+## Error Handling
+  not_found do
+    send_email params, 'views/error_email_template.txt.erb', "Missing Page"
+    File.read("_site/404.html")
+  end
+
+  error 500..510 do
+    send_email params, 'views/error_email_template.txt.erb', "Internal Error"
+    File.read("_site/500.html")
   end
 
 ## GET requests ##
@@ -90,7 +101,7 @@
 
   # Catch All
   get "/*" do |title|
-    File.read("_site/#{title}/index.html")
+    File.read("_site/#{title}/index.html") rescue raise Sinatra::NotFound
   end
 
   ############################################################
@@ -102,7 +113,7 @@
 
     if (@errors = validate(params)).empty?
       begin
-        send_email params
+        send_email params, 'views/contact_email_template.txt.erb', "Contact form received from #{params[:name]}"
         @sent = true
         @title = "Thanks!"
 
@@ -116,17 +127,22 @@
   end
 
 ## Helper Methods ##
-  def send_email(params)
+  def send_email(params, template, subject)
+    from = "Flatterline <morecowbell@flatterline.com>"
+    if params[:name] && params[:email]
+      from = params[:name] + " <" + params[:email] + ">"
+    end
+
     if settings.email_service.nil?
-      puts "Sending email from #{params[:name]} <#{params[:email]}>:"
-      puts ERB.new(File.read('views/contact_email_template.txt.erb')).result(binding)
+      puts "Sending email from #{from}>:"
+      puts ERB.new(File.read(template)).result(binding)
     else
       require 'pony'
       Pony.mail(
-        :from    => params[:name] + "<" + params[:email] + ">",
+        :from    => from,
         :to      => settings.email_address,
-        :subject => "[Flatterline] Contact form received from #{params[:name]}",
-        :body    => ERB.new(File.read('views/contact_email_template.txt.erb')).result(binding),
+        :subject => "[Flatterline] #{subject}",
+        :body    => ERB.new(File.read(template)).result(binding),
         :port    => '587',
         :via     => :smtp,
         :via_options => { 
@@ -140,7 +156,7 @@
         }
       )
 
-      puts "Sending email from #{params[:name]} <#{params[:email]}>:"
+      puts "Sent email from #{from}>"
     end
   end
 

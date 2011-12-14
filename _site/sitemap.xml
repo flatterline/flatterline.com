@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+      <loc>http://flatterline.com/404.html</loc>
+      <lastmod>2011-12-13</lastmod>
+  </url>
+  <url>
+      <loc>http://flatterline.com/500.html</loc>
+      <lastmod>2011-12-13</lastmod>
+  </url>
+  <url>
       <loc>http://flatterline.com/agile-development</loc>
       <lastmod>2011-12-06</lastmod>
   </url>
@@ -14,7 +22,7 @@
   </url>
   <url>
       <loc>http://flatterline.com</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-13</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/code-audits</loc>

@@ -650,3 +650,20 @@ footer {
 #linkedin {
   margin-top: 30px;
 }
+
+
+
+
+/* Errors */
+#error {
+  margin: 5em 0;
+
+  h1 {
+    font: 400 4em/1em $postTitleFont;
+    text-align: center;
+  }
+
+  p {
+    padding: 0 10em;
+  }
+}
