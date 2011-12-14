@@ -62,7 +62,14 @@
   ############################################################
   # Index page
   get '/' do
-    File.read("_site/index.html")
+    page_num = (params[:p] || params[:page_id]).to_i
+    if page_num == 1
+      redirect "blog", 301
+    elsif page_num > 1
+      redirect "blog/page/#{page_num}", 301
+    else
+      File.read("_site/index.html")
+    end
   end
 
   # Dynamic contact form
