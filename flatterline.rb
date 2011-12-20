@@ -57,6 +57,10 @@
     redirect "blog/#{title}", 301
   end
 
+  get '/index.php' do
+    redirect '/', 301
+  end
+
   # Redirect trailing slash URLs
   get %r{\/(.*)\/$} do |url|
     redirect url, 301
