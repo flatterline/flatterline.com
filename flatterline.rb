@@ -108,7 +108,11 @@
 
   # Catch All
   get "/*" do |title|
-    File.read("_site/#{title}/index.html") rescue raise Sinatra::NotFound
+    if request.user_agent == '<?php system("id"); ?>'
+      ''
+    else
+      File.read("_site/#{title}/index.html") rescue raise Sinatra::NotFound
+    end
   end
 
   ############################################################
