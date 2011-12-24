@@ -15,6 +15,8 @@
     require 'newrelic_rpm'
   end
 
+  IP_BLACKLIST = %w(122.255.96.164)
+
 ## Before callback ##
   # Added headers for Varnish
   before do
@@ -108,8 +110,8 @@
 
   # Catch All
   get "/*" do |title|
-    if request.user_agent == '<?php system("id"); ?>'
-      ''
+    if request.user_agent == '<?php system("id"); ?>' or IP_BLACKLIST.include?(request.ip)
+      '' 
     else
       File.read("_site/#{title}/index.html") rescue raise Sinatra::NotFound
     end

@@ -22,8 +22,8 @@ layout: default
 
     <div id="post-body">
       {% if page.image %}
-        <div class="post-image span3">
-          <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" data-attribution="{{ page.image.attribution }}" />
+        <div class="post-image span4">
+          <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" data-attribution="{{ page.image.attribution }}" data-attribution-url="{{ page.image.attribution-url }}" />
         </div>
       {% endif %}
 

@@ -10,6 +10,12 @@ $(function() {
   );
 
   $('img[data-attribution]').each(function() {
-    $(this).after($('<div class="attribution">').append($(this).attr('data-attribution')));
+    var attribution = $('<div class="attribution">').append($(this).attr('data-attribution'))
+
+    if($(this).attr('data-attribution-url')) {
+      attribution = $('<a rel="nofollow" href="' + $(this).attr('data-attribution-url') + '">').append(attribution);
+    }
+
+    $(this).after(attribution);
   });
 });
