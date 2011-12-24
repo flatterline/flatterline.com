@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
       <loc>http://flatterline.com/404.html</loc>
-      <lastmod>2011-12-13</lastmod>
+      <lastmod>2011-12-21</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/500.html</loc>
-      <lastmod>2011-12-13</lastmod>
+      <lastmod>2011-12-21</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/agile-development</loc>
-      <lastmod>2011-12-06</lastmod>
+      <lastmod>2011-12-07</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/blog</loc>
-      <lastmod>2011-12-01</lastmod>
+      <lastmod>2011-12-02</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/contact</loc>
-      <lastmod>2011-12-03</lastmod>
+      <lastmod>2011-12-05</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com</loc>
-      <lastmod>2011-12-13</lastmod>
+      <lastmod>2011-12-05</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/code-audits</loc>
-      <lastmod>2011-12-02</lastmod>
+      <lastmod>2011-12-05</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/ruby-on-rails-development</loc>
-      <lastmod>2011-12-02</lastmod>
+      <lastmod>2011-12-05</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/search-engine-marketing</loc>
-      <lastmod>2011-12-02</lastmod>
+      <lastmod>2011-12-05</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/blog/page/2</loc>
@@ -167,6 +167,11 @@
   <url>
       <loc>http://flatterline.com/portfolio</loc>
       <lastmod>2011-12-23</lastmod>
+  </url>
+  <url>
+      <loc>http://flatterline.com/blog/2011/12/26/agile-goal-setting</loc>
+      <lastmod>2011-12-26</lastmod>
+      <changefreq>never</changefreq>
   </url>
   <url>
       <loc>http://flatterline.com/blog/2011/12/20/presentation-jekyll-static-site-generator</loc>
