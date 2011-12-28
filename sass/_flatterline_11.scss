@@ -12,6 +12,11 @@ ul {
   list-style-type: square;
 }
 
+li {
+  font: 1em/1.8em Verdana,sans-serif;
+  line-height: 1.8em;
+}
+
 /* Blockquotes */
 blockquote {
   margin: 0 3em 1em;
@@ -491,6 +496,10 @@ footer {
     border-top: 1px dashed #D2D2D2;
     margin-top: 1.75em;
     padding-top: 1em;
+  }
+
+  ul, ol {
+    margin: 0 0 1.5em 3em;
   }
 }
 
