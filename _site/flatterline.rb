@@ -20,7 +20,9 @@
 ## Before callback ##
   # Added headers for Varnish
   before do
-    response.headers['Cache-Control'] = 'public, max-age=2592000' if ENV['RACK_ENV'] == 'production'
+    if ENV['RACK_ENV'] == 'production' and request.path != '/blog'
+      response.headers['Cache-Control'] = 'public, max-age=2592000'
+    end
   end
 
 ## Error Handling
