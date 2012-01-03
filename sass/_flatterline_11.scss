@@ -433,6 +433,11 @@ footer {
 #post {
   margin: 30px 0 50px;
 
+  a[rel="external"] {
+    background: url("/images/external-link.png") no-repeat scroll 0 60% transparent;
+    padding-left: 12px;
+  }
+
   header {
     border-bottom: none;
   }
