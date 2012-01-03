@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>What you don't know is affecting your performance | Flatterline</title>
+    <title>Coworking in Phoenix | Flatterline</title>
     <meta name="description" content="">
     <meta name="keywords"    content="">
 
@@ -75,65 +75,38 @@
   <article id="post">
     <header class="row">
       <div class="posted-on" >
-        <time datetime="2009-04-09" pubdate="pubdate">April 09, 2009</time>
+        <time datetime="2012-01-04" pubdate="pubdate">January 04, 2012</time>
         
       </div>
 
       <h1 class="title">
-        <a href="" title="Permalink for What you don't know is affecting your performance">What you don't know is affecting your performance</a>
+        <a href="" title="Permalink for Coworking in Phoenix">Coworking in Phoenix</a>
       </h1>
 
       <h2 class="byline">
         by
-        <a href="">Chris Chandler</a>
+        <a href="">Curtis Miller</a>
       </h2>
     </header>
 
     <div id="post-body">
       
+        <div class="post-image span4">
+          <img src="/images/phoenix-coworking-cohoots.jpg" title="Coworking in Phoenix at CO+HOOTS" alt="Coworking in Phoenix at CO+HOOTS" data-attribution="" data-attribution-url="" />
+        </div>
+      
 
-      <p>Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup. This is especially useful if you have a significant ratio of physical RAM to in-memory programs.</p>
+      <p>When we started Flatterline in 2009, we knew that we wouldn't need a permanent office space for a while. We worked out of our homes, various coffee shops, grabbed an extra desk at businesses and dropped-in at free coworking spaces. Those were fine for a while, but eventually we craved being around other professional, creative people with which to interact.</p>
 
-<h3>Swappiness</h3>
+<p>From the first day I dropped-in to work at CO+HOOTS <a href="http://cohoots.com/">creative coworking in Phoenix</a>, I was impressed by the friendliness and professionalism of the companies at the space, and that kept me coming back almost every week since they opened. I was there so much I earned a special drop-in badge!</p>
 
-<p>The Linux 2.6 kernel has a parameter called vm.swappiness that regulates the kernel's likelihood to swap memory to disk (e.g., to free up memory for disk/content caching, load other programs, etc). Valid values are between 0 and 100. On the current release of Ubuntu (Intrepid) this value has a default value of 60 that you can investigate with the following command:</p>
+<p>At the time, there were a broad range of companies including a <a href="http://tonyfelicepr.com/">public relations company</a>, an <a href="http://eekostudio.com/">eco-friendly design company</a>, a <a href="http://www.artifex10.com/">landscape architecture design firm</a> and several others. The rigorous application process for permanent desks seems to help gather companies that are dedicated to creating sustainable businesses and contributing to a growing community in the downtown Phoenix area.</p>
 
-<pre><code>$ cat /proc/sys/vm/swappiness
-60
-</code></pre>
+<p>Did I mention they were recently selected by Phoenix Magazine's <em>"Best of the Valley 2011"</em> as <a href="http://www.phoenixmag.com/best-of-the-valley/lifestyle-and-entertainment/">Best Shared Work Space in Phoenix</a>? If you haven't checked it out you should.</p>
 
-<p>This value is generally fine, but if your physical memory is significantly higher than what you need it's worth investigating other choices.I personally find a pretty significant performance increase in Rails behavior with a value of 0; essentially telling the kernel to not swap anything out until it becomes absolutely necessary.</p>
+<p>In fact, you can try it for free! Flatterline has 5 passes good for 3 free drop-in days and we're giving them to the first 5 people to request them. Simply email us, tweet us or find us around town and they're yours (one per person, while supplies last, of course :).</p>
 
-<p>The value can be changed either with:</p>
-
-<pre><code>$ sysctl vm.swappiness=0
-</code></pre>
-
-<p><strong>or</strong></p>
-
-<pre><code>$ echo 0 &amp;gt; /proc/sys/vm/swappiness
-</code></pre>
-
-<h3>A persistent lack of swappiness</h3>
-
-<p>If you restart the server, then your change will be lost. If you want the change to remain persistent across restarts you'll either need to create a script that calls one of these commands or edit /etc/sysctl.conf to specify the swappiness. As always, exercise caution playing with kernel parameters :-).</p>
-
-<h3>Swapping it back in</h3>
-
-<p>If you change vm.swappiness and want to force the kernel to swap everything back in you can temporarily disable the swap partition and then immediately re-enable it.</p>
-
-<pre><code>$ swapon -s
-
-Filename         Type      Size  Used  Priority
-/dev/sda2         partition    524280 33948  -2
-
-$ swapoff /dev/sda2
-$ swapon /dev/sda2
-</code></pre>
-
-<p>If the machine doesn't have enough memory to accommodate the swap-in the command will fail with an error.</p>
-
-<p><strong>Let us know if this helps you out!</strong></p>
+<p><strong>Make 2012 your year to get out of the house and be productive!</strong></p>
 
     </div>
 
@@ -143,11 +116,11 @@ $ swapon /dev/sda2
   <div class="vcard row">
     
       <div class="span2 center">
-        <img class="photo" src="/images/chris-chandler.jpg" title="Chris Chandler" alt="Chris Chandler" width="80" height="80" />
+        <img class="photo" src="/images/curtis-miller.jpg" title="Curtis Miller" alt="Curtis Miller" width="80" height="80" />
       </div>
     
 
-    <div class="note span9"><p><a href="/team/chris-chandler">Chris</a> co-founded Flatterline, a <a href="/">Ruby on Rails development company</a> in 2009. He has extensive experience in security, algorithms, e-commerce and infrastructure engineering. He's currently employed as an infrastructural engineer at Square in San Francisco.</p></div>
+    <div class="note span9"><p><a href="/team/curtis-miller">Curtis</a> is the founder and lead developer at Flatterline, a <a href="/">Ruby on Rails development company</a>, and has over 10 years of software development experience. He found the Ruby language in 2007 and hasn't looked back since.</p></div>
   </div>
 </div>
 
@@ -157,15 +130,15 @@ $ swapon /dev/sda2
   <ul>
     
       <li>
+        <a href="/blog/2011/12/26/agile-goal-setting">3 Methods for Goal Setting</a>
+      </li>
+    
+      <li>
+        <a href="/blog/2012/01/02/AZ-disruptors-funding-for-startups">AZ Disruptors Provides Funding For Startups</a>
+      </li>
+    
+      <li>
         <a href="/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing">Disposable proxy for secure coffee shop browsing</a>
-      </li>
-    
-      <li>
-        <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a>
-      </li>
-    
-      <li>
-        <a href="/blog/2009/12/16/gathering-requirements-through-story-workshops">Gathering Requirements Through Story Workshops</a>
       </li>
     
   </ul>
