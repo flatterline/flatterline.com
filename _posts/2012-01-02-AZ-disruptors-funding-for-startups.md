@@ -4,8 +4,15 @@ excerpt:
   If you're a tech startup company, don't miss this opportunity for funding.
   In exchange for 10% of your startup, AZ Disruptors will give you cash, a
   place to work, and mentors to help guide you.
+image:
+  url: /images/az-disruptors.png
+  title: "AZ Disruptors: Phoenix Startup Incubator"
+  alt: AZ Disruptors
+  attribution:
 layout: post
-tags: startup funding, AZ Disruptros, incubator
+tags:
+- startups
+- funding
 title: AZ Disruptors Provides Funding For Startups
 ---
 
