@@ -1,29 +1,31 @@
 ---
 author: Ralph Miller
-excerpt: In the first of our Entrepreneurship Series blog posts, I interview Paul Kenjora, an entrepreneur who raised $1.5 million in Arizona for his tech startup. In this interview, he talks lessons learned from running a funded startup.
+excerpt:
+  In the first of our Entrepreneurship Series blog posts, we interview
+  Paul Kenjora, an entrepreneur who raised $1.5 million in Arizona for
+  his tech startup. In this interview, he talks lessons learned from running
+  a funded startup.
 image:
   url: /images/paul-kenjora.jpg
   title: Entrepreneur Paul Kenjora
   alt: Paul Kenjora
 layout: post
 tags:
-- Entrepreneurship
-- Startups
-- Entrepreneur Interview
-title: Interview with Entrepreneur Paul Kenjora
+- entrepreneurship series
+- startups
+- interview
+title: "Entrepreneurship Series: Interview with Paul Kenjora"
 published: false
 ---
 
-#ENTREPRENEURSHIP SERIES: Interview with Paul Kenjora
+You may not have heard of Paul Kenjora, but anyone who's able to raise $1.5 million for a startup is worth listening to. In this article, Paul shares some of his thoughts about entrepreneurship, startups, funding, what worked for him and what didn't.
 
-You may never have heard of Paul Kenjora, but anyone who's able to raise $1.5 million for a startup is worth listening to. In this article, Paul shares some of his thoughts about entrepreneurship, startups, funding, what works and what doesn't work.
-
-##What Projects Are You Working On Now
+## What Projects Are You Working On Now
 
 Launch it to your customers, not your friends. I'm more interested in marketing than getting feedback about how cool my project is.
 
 
-This goes way back to ASU, I hung out with a crowd of starup people. Every one of my friends is involved in a starup today. They were exactly the wrong way to do a startup each time...
+This goes way back to ASU, I hung out with a crowd of startup people. Every one of my friends is involved in a startup today. They were exactly the wrong way to do a startup each time...
 
 I have three startups 
 
@@ -68,9 +70,9 @@ And it went okay for a while. But the decision in the end was to sacrifice my ow
 
 So I look back on that decision to walk away from it...but the cool thing about it is, someone else is in my place, the technology is out there, somebody's doing it.
 
-##How Was the Experience of Raising Money
+## How Was the Experience of Raising Money
 
-I spent a year, just working on raising money. Going to investor pitches, writing business plans, putting together one pagers, rehearsing my elevator pitch, walking into every writing workshop on how to write a pitch and pitch investores. I was raising money in Arizona, so this wasn't Silicon Valley.
+I spent a year, just working on raising money. Going to investor pitches, writing business plans, putting together one pagers, rehearsing my elevator pitch, walking into every writing workshop on how to write a pitch and pitch investors. I was raising money in Arizona, so this wasn't Silicon Valley.
 
 There are a lot of investor events, but they're more like get togethers for people who have money to invest. So if you just find one or two, people will invite you to the rest. You may go to some events that aren't investor events, but when you look around at all the people, you think, this is just like an investor event.
 
