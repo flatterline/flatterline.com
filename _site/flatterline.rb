@@ -10,7 +10,7 @@
   set :email_service,  ENV['SENDGRID_ADDRESS']
   set :email_domain,   ENV['SENDGRID_DOMAIN']
 
-  set :protection, :except => [:frame_options]
+  set :protection, :except => :frame_options
 
 ## Configuration ##
   configure :production do
