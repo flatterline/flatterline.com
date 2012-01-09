@@ -27,7 +27,7 @@ Launch it to your customers, not your friends. I'm more interested in marketing 
 
 This goes way back to ASU, I hung out with a crowd of startup people. Every one of my friends is involved in a startup today. They were exactly the wrong way to do a startup each time...
 
-I have three startups 
+I have three startups
 
 My first startup was Cork Office. It was suppose to be an online office. Ironically, it was a lot like Facebook. So I came close...but not quite the same.
 
