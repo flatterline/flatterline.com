@@ -5,7 +5,7 @@ excerpt:
   opportunities and access to capital to startups to help America's
   top young companies grow and create jobs.
 image:
-  url: /images/startup-america-partnership.jpg
+  url: /images/startup-america.jpg
   title: Startup America Partnership
   alt: Startup America Partnership
 layout: post
@@ -13,7 +13,6 @@ tags:
 - entrepreneurship
 - startups
 title: Startup America Partnership
-published: false
 
 ---
 
