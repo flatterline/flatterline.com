@@ -1,7 +1,6 @@
 active: true
 bio:
-  Curtis holds a MS in Computer Science, with an emphasis on Software
-  Engineering. This intense study of the process by which software is
+  Curtis is a ruby developer who holds a MS in Computer Science, with an emphasis on Software Engineering. This intense study of the process by which software is
   created led him to the Agile Methodology, which is the basis of
   Flatterline's approach to software development.
 
@@ -17,12 +16,12 @@ email: curtis@flatterline.com
 github: curtis
 image:
   url: /images/curtis-miller.jpg
-  title: Curtis Miller
+  title: Ruby Developer
   alt: Curtis Miller
 layout: profile
 linkedin: curtm95
 name: Curtis Miller
-role: Founder & Rubyist
+role: Ruby Developer & Founder
 short:
   <a href="/team/curtis-miller">Curtis</a> is the founder and lead developer at Flatterline, a
   <a href="/">Ruby on Rails development company</a>, and has over 10 years

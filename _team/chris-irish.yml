@@ -1,14 +1,13 @@
 active: true
 bio:
   Chris has a BS in Computer Science from Arizona State University and has been
-  developing software for the web since 2003. He is an accomplished Ruby and
-  Javascript developer with a broad range of experience in e-commerce, social
+  developing software for the web since 2003. He is an accomplished Ruby developer  and Javascript developer with a broad range of experience in e-commerce, social
   networks and faceted search for clients ranging from large national brands
   to local startups.
 github: supairish
 image:
   url: /images/chris-irish.jpg
-  title: Chris Irish
+  title: Javascript and Ruby Developer
   alt: Chris Irish
 layout: profile
 linkedin: chrisirish
