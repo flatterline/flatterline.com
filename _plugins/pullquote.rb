@@ -37,7 +37,7 @@ module Jekyll
         quote_words = quote.split(/\s/)
         quote_words.first.capitalize!
         
-        "<span class='pullquote-#{@align}' data-pullquote='#{quote_words.join(' ')}'>#{output.gsub(/\{"\s*|\s*"\}/, '')}</span>"
+        "<span class=\"pullquote-#{@align}\" data-pullquote=\"#{quote_words.join(' ')}\">#{output.gsub(/\{"\s*|\s*"\}/, '')}</span>"
       else
         return "Surround your pullquote like this {\" text to be quoted \"}"
       end

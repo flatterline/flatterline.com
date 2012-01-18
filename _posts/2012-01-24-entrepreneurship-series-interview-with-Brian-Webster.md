@@ -12,7 +12,7 @@ tags:
 - entrepreneurship series
 - startups
 - entrepreneur interview
-title: "Entrepreneurship Series: Interview with Fat Cat Software Developer Brian Webster"
+title: "Entrepreneurship Series: Interview with Brian Webster"
 published: false
 ---
 
