@@ -66,12 +66,12 @@ We met for lunch. We had Greek or Italian or something. {" When you meet your fi
 So you date your first investor for a while, then he decides to introduce you to his friends. It's just like a girlfriend, you date her and then she decides that you're good enough to meet her friends. So you end up meeting his or her friends, and at some point you don't actually do the money raising. It's the first investor that you bring in that sees the potential, then they reach out to their friends and convince them. That surprised me cause I always thought you were looking for lots of investors, and what you're really looking for is an investor rep. I've talked with a lot of other entrepreneurs, and they've corroborated that.
 
 {% pullquote left %}
-After a while it's autopilot. {" The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen. "} So you just keep going through the motions, and at some point you get that one investor that starts introducing you to other investors. and you wake up one day and you get a phone call that says, ok, I'm going to write the first check, he's going to write the second check, and you set up the office and start hiring a team.
+After a while it's autopilot. {" The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen. "} So you just keep going through the motions, and at some point you get that one investor that starts introducing you to other investors. And you wake up one day and you get a phone call that says, *"ok, I'm going to write the first check, he's going to write the second check"*, and you set up the office and start hiring a team.
 {% endpullquote %}
 
 **What was the negotiation process like?**
 
-It's painful&hellip; I don't know if I can talk about the specific details about our contract, but it comes down to getting a good lawyer. Get a good lawyer if it's your first funding. 'Cause if it's your first time taking funding, chance are the investor is going to recommend a lawyer and chances are they're going to be friends with that lawyer, so you need to be careful about what you sign.
+It's painful&hellip; I don't know if I can talk about the specific details about our contract, but it comes down to getting a good lawyer. Get a good lawyer if it's your first funding. 'Cause if it's your first time taking funding, chances are the investor is going to recommend a lawyer and chances are they're going to be friends with that lawyer, so you need to be careful about what you sign.
 
 So it's unavoidable you're going to need a lawyer. Because just as you're afraid, the investor and his friends are just as wary. It's not that they don't trust you, they just don't want any loopholes.
 
