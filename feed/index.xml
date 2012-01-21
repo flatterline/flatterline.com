@@ -1,0 +1,33 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <email>contact@flatterline.com</email>
+    <name>The Flatterline Team</name>
+    <uri>{{ site.domain }}/team/</uri>
+  </author>
+  <id>{{ site.domain }}</id>
+  <link href="{{ site.domain }}/feed/" rel="self" />
+  <link href="{{ site.domain }}"/>
+  <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
+  <subtitle>A Web Development and SEO blog</subtitle>
+  <title>The Flatterline Blog</title>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+
+  {% for post in site.posts limit: 20 %}
+    <entry>
+      <author>
+        <name>{{ post.author }}</name>
+        <uri>{{ site.domain }}/team/{{ post.author | team_path }}</uri>
+      </author>
+      <content type="html">{{ post.content | xml_escape }}</content>
+      <id>{{ site.domain }}{{ post.id }}</id>
+      <link href="{{ site.domain }}{{ post.url }}"/>
+      <summary>{{ post.excerpt }}</summary>
+      <title>{{ post.title }}</title>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+    </entry>
+  {% endfor %}
+</feed>

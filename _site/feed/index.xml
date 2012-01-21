@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <email>contact@flatterline.com</email>
+    <name>The Flatterline Team</name>
+    <uri>http://flatterline.com/team/</uri>
+  </author>
+  <id>http://flatterline.com</id>
+  <link href="http://flatterline.com/feed/" rel="self" />
+  <link href="http://flatterline.com"/>
+  <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
+  <subtitle>A Web Development and SEO blog</subtitle>
+  <title>The Flatterline Blog</title>
+  <updated>2012-01-21T16:29:06-07:00</updated>
+
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;LaunchSpot is a tech incubator in Tempe, AZ. Although they got rolling about a year ago, they've spent a lot of time and money developing their space, located at Broadway and 52nd Street in Tempe, Arizona. In fact, here's a video tour of the coworking space before it was built out:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/FjUTyUsubk4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h3&gt;What is the LaunchSpot Rapid Pitch Event?&lt;/h3&gt;
+
+&lt;p&gt;As a part of the &lt;a href=&quot;http://www.tempe.gov/business/scitechfest/&quot;&gt;Tempe Geeks Night Out&lt;/a&gt;, LaunchSpot will be offering 6 early stage startups the opportunity to pitch entrepreneurs and investors on their idea. They will be given four minutes to pitch and six minutes for Q&amp;amp;A.&lt;/p&gt;
+
+&lt;p&gt;They'll compete to receive a chance to get venture funding and other prizes including free office space at LaunchSpot, legal consultation with lawyers from Wong, Fuji &amp;amp; Carter, PC on business law, legal consultation with Wright Law Group, PLLC on intellectual property law, and more.&lt;/p&gt;
+
+&lt;h3&gt;So, how do I apply?&lt;/h3&gt;
+
+&lt;p&gt;You need to do just two things to be considered for the LaunchSpot incubator.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Create a two-minute video about your idea. No getting out of it, this is required&amp;hellip; make sure you address what your idea is, how it helps people, who it helps and why you're so passionate about it.&lt;/li&gt;
+&lt;li&gt;Fill out the online application form by the February 3rd deadline.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;You need to do the video first, because once you've made your video, you must upload it to YouTube and include a link to the video in your online application.&lt;/p&gt;
+
+&lt;p&gt;LaunchSpot will feature video submissions on their site and allow users to vote on the ones they like most. The video with the most likes will be offered an automatic place in the Rapid Pitch event.&lt;/p&gt;
+
+&lt;p&gt;When you're ready, &lt;a href=&quot;http://rapidpitch.launchspot.com/entry-form/&quot;&gt;apply for the LaunchSpot Rapid Pitch Event&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Wait, who are the judges?&lt;/h3&gt;
+
+&lt;p&gt;And the &lt;a href=&quot;http://rapidpitch.launchspot.com/judges/&quot;&gt;judges&lt;/a&gt; are...&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dr, Matt Kim, Founder and President QuanTera&lt;/li&gt;
+&lt;li&gt;Steven G Mihaylo, CEO Crexendo&lt;/li&gt;
+&lt;li&gt;Jeffrey Pruitt, Partner &amp;amp; CEO Tallwave&lt;/li&gt;
+&lt;li&gt;Allan Kaplan, Managing Partner KG Investments, LLC&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.facebook.com/LaunchSpot&quot;&gt;Connect with LaunchSpot on Facebook&lt;/a&gt;.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/19/rapid-pitch-event-at-launchspot</id>
+      <link href="http://flatterline.com/blog/2012/01/19/rapid-pitch-event-at-launchspot"/>
+      <summary>Launchspot is an incubator in Tempe offering coworking space and funding to startups. Read more about how the program works and how to apply.</summary>
+      <title>Rapid Pitch Event at LaunchSpot</title>
+      <updated>2012-01-19T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Sitting casually across from me, he could be anyone, anywhere. Just looking at him, or even speaking with him, you'd never know that this is a man who went from using his media center as a server for his startup to raising $1.5 million for that very same tech startup&amp;hellip; and in Arizona!&lt;/p&gt;
+
+&lt;p&gt;Although Paul takes a relaxed attitude, he's not afraid to speak his mind and stand by his beliefs. In this article, he shares his intimate thoughts on entrepreneurship, startups, funding and, most of all, what worked and what didn't.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What startups have you been involved with in the past?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My first startup was Cork Office. It was suppose to be an online office. Ironically, it was a lot like Facebook; right product, wrong market. So I came close&amp;hellip; but it's not quite the same.&lt;/p&gt;
+
+&lt;p&gt;The next one was an IT service. We were able to remotely analyze what kind of software you were running and tell when you needed an update.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;I realized the industry is more about connections.&quot;&gt;
+After that one, I got tired of doing B2B projects, just going in and competing against companies like Microsoft, and I realized the industry is more about connections. At that time I was only 23, and someone who's 23 doesn't have a lot of connections. So at some point I realized this project was DNR and just let it go.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a learning experience, and after that I said no more B2B. That's when I did something called One-a-Month, which I think every developer should do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tell me more about One-a-Month.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I basically developed a project each month. And the rules were simple, one weekend, and it couldn't interfere with anything social. So if a friend called me and said, let's go to coffee, I'd go. I had to start it on Friday night and finish it by Sunday night. And finish it meant push it out to the web.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I did really quick projects, but they started getting more elaborate.&lt;/p&gt;
+
+&lt;p&gt;That was fun, but it was a learning experience. That's when I was learning &lt;a href=&quot;http://python.org/&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt;. And a couple months into it, that's when I created this last start up that I just came out of. I put it up and it was a terrible website; just download this plugin and run it on WordPress. But then the Denver Post started using it.&lt;/p&gt;
+
+&lt;p&gt;I logged in one day and the server was down. The server was a machine inside my house that was also my media center. So while I'm watching Netflix, it's serving this startup. That's called bootstrapping, right?&lt;/p&gt;
+
+&lt;p&gt;You do what you have to do, right? Because it worked. So when my server went down, I moved everything to Amazon EC2. Of all the One-a-Months I was doing, this is the one that got traction. And I thought, why not go with it?&lt;/p&gt;
+
+&lt;p&gt;So I started pursuing it. Raised a lot of money, put together a team, and made all the mistakes that a funded startup can make.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was your experience raising money for a tech startup?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent a year, just working on raising money. Going to investor pitches, writing business plans, putting together one pagers, rehearsing my elevator pitch, walking into every writing workshop on how to write a pitch and pitch investors. I was raising money in Arizona, this wasn't Silicon Valley&amp;hellip; so it's not like I could walk over to a different investor event ever week.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of investor events in Arizona, but they're more like get togethers for people who have money to invest. So if you just find one or two, people will invite you to the rest. You may go to some events that aren't investor events, but when you look around at all the people, you think, this is just like an investor event.&lt;/p&gt;
+
+&lt;p&gt;The reason for that is Phoenix was historically a real estate town. So the predominant story among investors is: &lt;em&gt;&quot;I made a lot of money in real estate, I can't make money in real estate now, my friend told me I can make money in startups.&quot;&lt;/em&gt; And that's pretty much the way it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what would you say was the key factor for you to raise money?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of it is luck, and a lot of persistence. I applied at ASU, through something called Angelsoft, now called &lt;a href=&quot;http://www.gust.com/&quot;&gt;Gust&lt;/a&gt;. I submitted my information and someone found it. Then I got a call from someone at ASU saying, &lt;em&gt;&quot;We'd like to set up an interview.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;When you meet your first investor, it's a lot like dating.&quot;&gt;
+We met for lunch. We had Greek or Italian or something. When you meet your first investor, it's a lot like dating. You go out, you see if you like them. You have to be nice, they're trying to be nice, then you go through a period where you're both not so nice, then you realize what their true colors are.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;So you date your first investor for a while, then he decides to introduce you to his friends. It's just like a girlfriend, you date her and then she decides that you're good enough to meet her friends. So you end up meeting his or her friends, and at some point you don't actually do the money raising. It's the first investor that you bring in that sees the potential, then they reach out to their friends and convince them. That surprised me cause I always thought you were looking for lots of investors, and what you're really looking for is an investor rep. I've talked with a lot of other entrepreneurs, and they've corroborated that.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen.&quot;&gt;
+After a while it's autopilot. The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen. So you just keep going through the motions, and at some point you get that one investor that starts introducing you to other investors. Then you wake up one day and you get a phone call from your investor/girlfriend who says, &lt;em&gt;&quot;ok, I'm going to write the first check, he's going to write the second check&quot;&lt;/em&gt;, and you set up the office and start hiring a team.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was the negotiation process like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It's painful&amp;hellip; I don't know if I can talk about the specific details about our contract, but it comes down to getting a good lawyer. Get a good lawyer if it's your first funding. 'Cause if it's your first time taking funding, chances are the investor is going to recommend a lawyer and chances are they're going to be friends with that lawyer, so you need to be careful about what you sign.&lt;/p&gt;
+
+&lt;p&gt;So it's unavoidable you're going to need a lawyer. Because just as you're afraid, the investor and his friends are just as wary. It's not that they don't trust you, they just don't want any loopholes.&lt;/p&gt;
+
+&lt;p&gt;You may want to do convertible debt notes, that's the big thing right now.&lt;/p&gt;
+
+&lt;p&gt;Now, having said all that, I would say, don't raise money. The reason I say don't raise money is, we had a startup that went for three years with funding. And we started running out of money, so we had a decision: do we raise more money or pivot?&lt;/p&gt;
+
+&lt;p&gt;Looking back, what surprised me is that we made more progress in the last 2 two months then we did in the previous three years. So that set off red flags in my head. I said, &lt;em&gt;&quot;if we can do as much with two employees in a few months what I did in three years with eight employees, why would I raise money?&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;Having a lot of money gives you permission to mess up. Not having money, and having to bootstrap it forces you to think really, really hard.&quot;&gt;
+That's stuck with me. It's about having the right team and making the right choices. Having a lot of money gives you permission to mess up. Not having money, and having to bootstrap it forces you to think really, really hard.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, I feel fortunate that I had a multi-million dollar education about how &lt;strong&gt;not&lt;/strong&gt; to do a startup. So it's kind of a catch-22. If its your first start up, raise money, but go into it knowing that you're going to make a lot of mistakes, and make sure you take notes along the way.&lt;/p&gt;
+
+&lt;p&gt;When we were raising the money it was euphoria, and it's exciting. And if you have the ability to consistently turnaround startups, then yeah, raise money. But don't raise money thinking the money's going to solve your problems. Raise money because you know exactly how you're gong to apply it and exactly what you're going to use it. And the answer isn't: development&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Take marketing&amp;hellip; even the word marketing is too general. Instead, say, here's our travel budget, these are the seven companies were going to meet with, here's how much we're going to spend on dinners. It's gotta be ironclad. The reason you do that is because if something doesn't work, you stop doing it.&lt;/p&gt;
+
+&lt;p&gt;Of course, crazy ideas work. Look at Groupon. They spent a ridiculous amount of money throwing parties and throwing crazy ad campaigns. I still contend they haven't really made money because they've made less than they spent, but by their standards, they're a success.&lt;/p&gt;
+
+&lt;p&gt;So there will always be the argument that if you raise enough money, you can pay your way to success. But that's not how businesses really work. Those are outliers. You can say, this company succeeded doing this&amp;hellip; well, yes, but the number of companies that didn't succeed doing that is much greater, and chances are, you're going to fall into that last group.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your thoughts on bootstrapping?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;To me, bootstrapping is about finding a business model that you can execute, within your means. Period.&quot;&gt;
+A lot of people think bootstrapping is about not raising money. To me, bootstrapping is about finding a business model that you can execute, within your means. Period.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;What that means is, well, for developers, it's like, I can code that. But just because you can code it doesn't mean you can sell it. It doesn't mean you know the right people. I could probably develop software for the Boeing 747. But I'm not going to knock on Boeing's door and some guy's going to buy it from me. So I could spend a lot of energy on it, but odds are, I'm not going to be able to sell it. But some guy who used to work for Boeing, who's their ex-chief engineer, could probably sell it in 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;So find something that fits your ability to create it, sell it, maintain it, promote it. That's where funding can come in. Sometimes blind luck works, but you have to find the right team and make sure your product is the right fit.&lt;/p&gt;
+
+&lt;p&gt;In a bootstrap, the most important part is, you have to make some money on it. So make sure you have a viable product, and it's selling. Then, raise money to scale it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have for other entrepreneurs and startups?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Launch your product to your customers, not your friends. Friends are great, but you should be more interested in marketing to actual customers than getting feedback about how cool your project is.&lt;/p&gt;
+
+&lt;p&gt;And make a profit from your first customer. A lot of people think, we're going to make money eventually. If you spend a dollar, and you make two, your odds are much better than if its the other way around. Make it a clear, simple monetization model.&lt;/p&gt;
+
+&lt;p&gt;Look at apps, they do one thing. And they'll charge you 99 cents to get it. Mobile devices are just connections to the Internet and apps are just a clean way of selling little snippets of functionality.&lt;/p&gt;
+
+&lt;p&gt;I think websites are going to go down that route too. They're going to learn something from the mobile space. Instead of building a website that does a million things under the sun, build a website that does one thing and charge people 99 cents for it. There are so many websites, that you really can't count on people repeatedly coming back to your website in order for you to make money from advertising.&lt;/p&gt;
+
+&lt;p&gt;So when you're picking a model, pick something that you can charge for right away and set the expectation that you're going to charge for it. The great thing about that is, you're going to be able to tell right away if people are interested in your product. If someone's not willing to pay $10, charge $5. If not $5, charge $1. If you can't sell it for 10 cents, stop selling it.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora</id>
+      <link href="http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora"/>
+      <summary>In the first of our Entrepreneurship Series blog posts, we interview Paul Kenjora, an entrepreneur who raised $1.5 million in Arizona for his tech startup. In this interview, he talks about lessons learned from running a funded startup.</summary>
+      <title>Entrepreneurship Series: Interview with Paul Kenjora</title>
+      <updated>2012-01-12T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;The Startup America Partnership’s mission is to help tens of thousands of America’s top young companies grow and create jobs. They've assembled hundreds of partners and leaders across the United States focused on delivering knowledge, services, talent, customer relationships and access to capital to Startup America Firms.&lt;/p&gt;
+
+&lt;p&gt;It's free to become a Startup America Firm, which provides you with the opportunity to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Access Tools&lt;/strong&gt; - With their free Growth Kit, startups can access over
+50 Partner Offers worth over $1.2 billion from companies like American
+Express, Dell, Intuit and Microsoft, with more being added weekly.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Join the Community&lt;/strong&gt; - Startups will get connected with other
+entrepreneurs to share notes, compare war stories, collaborate and
+learn from each other. They currently have, both online and offline,
+an actively engaged community of potential high-growth startups across
+the country.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gain Exposure&lt;/strong&gt; - Startup America provides startups an opportunity to
+highlight their company across the Startup America website, promoted
+guest blog posts and official Startup America seals for their website
+and social media.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://ar.gy/masterrm1&quot;&gt;Sign up for free and become a Startup America Partner&lt;/a&gt; to access the resources and participate in the community.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/09/startup-america-partnership</id>
+      <link href="http://flatterline.com/blog/2012/01/09/startup-america-partnership"/>
+      <summary>The Startup America Partnership offers resources, tools, marketing opportunities and access to capital to startups to help America's top young companies grow and create jobs.</summary>
+      <title>Startup America Partnership</title>
+      <updated>2012-01-09T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Not long ago, my wife and I were looking at midwifery services here in Phoenix. Now, you may be thinking, &quot;what does that have to do with &lt;a href=&quot;/services/search-engine-marketing&quot;&gt;search engine marketing&lt;/a&gt;?&quot; A lot actually, and let me explain why.&lt;/p&gt;
+
+&lt;p&gt;The midwife we liked doesn't rank for the keyword &quot;Phoenix Midwife.&quot; Which is a shame because it gets a decent number of searches each month and it's what she is. When I saw this, I wondered how I could get her to rank for that phrase. Let's take a look at the search results and then I'll share a few of my ideas with you. Just keep in mind that ultimately, this is how you should be thinking about your own search results for your small business or startup.&lt;/p&gt;
+
+&lt;p&gt;Take a quick look at the &lt;a href=&quot;http://www.google.com/search?as_q=phoenix&amp;amp;as_q=midwife&quot;&gt;Google search results for Phoenix midwife&lt;/a&gt;. Think about the strategy you'd use to rank for this keyword.&lt;/p&gt;
+
+&lt;p&gt;You don't have to scroll far to see this search has &quot;local intent&quot;. Local intent means that Google shows you results for midwives in the area. That's one opportunity to rank for this keyword.&lt;/p&gt;
+
+&lt;p&gt;If you take a look a little further down in the results, into page 2, you'll see some other interesting things like a couple videos, a Yelp page, an Angie's list listing, a city search listing and an Amazon book Listmania list. An additional 5 opportunities to rank for this keyword and it probably wouldn't take much to pop those onto the first page.&lt;/p&gt;
+
+&lt;p&gt;So, if I were trying to get my midwife to rank for these terms, here's the approach I'd take:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I'd have her list herself in Yelp, Angie's list, and City Search.&lt;/li&gt;
+&lt;li&gt;I'd work on a few other citations to help her rank for Google's local search results.&lt;/li&gt;
+&lt;li&gt;I'd have her create some content on Amazon around midwives and home-birthing, maybe a book list or two.&lt;/li&gt;
+&lt;li&gt;And I'd definitely be pulling out my Flip at our next appointment to shoot a video about Phoenix midwives.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Then, I'd work on promoting a few of those pages, especially getting some ratings/reviews from past clients on the local listings. And if 7 opportunities to rank for a keyword aren't enough, I'd also have her run some Google ads.&lt;/p&gt;
+
+&lt;p&gt;If you're going to take this approach, be sure to brand each of the pages created on other sites with the same exact name and logo, to provide consistent branding across multiple sites. The reason for this is simple&amp;hellip; each time a potential client sees you in another search ranking, it's going to heighten his or her opinion of you. In a sense, it's pre-selling you based on sheer number of mentions.&lt;/p&gt;
+
+&lt;p&gt;Of course, in theory this sounds simple, but it's definitely easier said that done. If you need some help with your local SEO campaign, &lt;a href=&quot;/contact&quot;&gt;please drop us a line&lt;/a&gt;, we'd be happy to help.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/05/what-my-midwife-taught-me-about-local-seo</id>
+      <link href="http://flatterline.com/blog/2012/01/05/what-my-midwife-taught-me-about-local-seo"/>
+      <summary>Google says 90% of search is local, but many local businesses have no idea what they're doing. Which leaves things wide open for you if you just follow the strategy I lay out in this article. Kudos to my midwife for the inspiration!</summary>
+      <title>What My Midwife Taught Me About Local SEO</title>
+      <updated>2012-01-05T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;When we started Flatterline in 2009, we knew that we wouldn't need a permanent office space for a while. We worked out of our homes, various coffee shops, grabbed an extra desk at businesses and dropped-in at free coworking spaces. Those were fine for a while, but eventually we craved being around other professional, creative people with which to interact.&lt;/p&gt;
+
+&lt;p&gt;From the first day I dropped-in to work at CO+HOOTS &lt;a href=&quot;http://cohoots.com/&quot;&gt;creative coworking in Phoenix&lt;/a&gt;, I was impressed by the friendliness and professionalism of the companies at the space, and that kept me coming back almost every week since they opened. I was there so much I earned a special drop-in badge!&lt;/p&gt;
+
+&lt;p&gt;At the time, there were a broad range of companies including a &lt;a href=&quot;http://tonyfelicepr.com/&quot;&gt;public relations company&lt;/a&gt;, an &lt;a href=&quot;http://eekostudio.com/&quot;&gt;eco-friendly design company&lt;/a&gt;, a &lt;a href=&quot;http://www.artifex10.com/&quot;&gt;landscape architecture design firm&lt;/a&gt; and several others. The rigorous application process for permanent desks seems to help gather companies that are dedicated to creating sustainable businesses and contributing to a growing community in the downtown Phoenix area.&lt;/p&gt;
+
+&lt;p&gt;Did I mention they were recently selected by Phoenix Magazine's &lt;em&gt;&quot;Best of the Valley 2011&quot;&lt;/em&gt; as &lt;a href=&quot;http://www.phoenixmag.com/best-of-the-valley/lifestyle-and-entertainment/&quot;&gt;Best Shared Work Space in Phoenix&lt;/a&gt;? If you haven't checked it out you should.&lt;/p&gt;
+
+&lt;p&gt;In fact, you can try it for free! Flatterline has 5 passes good for 3 free drop-in days and we're giving them to the first 5 people to request them. Simply email us, tweet us or find us around town and they're yours (one per person, while supplies last, of course :).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make 2012 your year to get out of the house and be productive!&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/04/coworking-in-phoenix</id>
+      <link href="http://flatterline.com/blog/2012/01/04/coworking-in-phoenix"/>
+      <summary>We're a small company, but we love connecting and contributing to our community. That's why we're regular drop-in members at CO+HOOTS coworking in central Phoenix.</summary>
+      <title>Coworking in Phoenix</title>
+      <updated>2012-01-04T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Let's face it, many people have great ideas&amp;hellip; but how many people have the funds required to turn that idea into reality? For those startups and entrepreneurs looking for a little assistance to get going, AZ Disruptors might be just the opportunity you're looking for.&lt;/p&gt;
+
+&lt;p&gt;If you have a product, prototype, or idea for licensed software, a web-based application or a smart phone app, AZ Disruptors would like to help you develop it. Or, if you want to be employed by a startup, partner with a startup, invest in a startup, or participate as a mentor or advisor, they'd like to hear from you as well.&lt;/p&gt;
+
+&lt;h3&gt;The Details&lt;/h3&gt;
+
+&lt;p&gt;In addition to funding &lt;a href=&quot;http://www.blogic.com/&quot;&gt;Blogic&lt;/a&gt;, and &lt;a href=&quot;http://www.memberdesk.com/&quot;&gt;Member Desk&lt;/a&gt; last year, AZ Disruptors is looking to fund up to 5 more startups this year.&lt;/p&gt;
+
+&lt;p&gt;If you apply, be prepared to move to Phoenix (if you're not already here) to complete the program.&lt;/p&gt;
+
+&lt;h4&gt;You Give:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Four months of your life&lt;/li&gt;
+&lt;li&gt;10% of your company&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;You Get:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Access to mentors&lt;/li&gt;
+&lt;li&gt;$20,000 cash&lt;/li&gt;
+&lt;li&gt;Office space and furniture&lt;/li&gt;
+&lt;li&gt;Internet access&lt;/li&gt;
+&lt;li&gt;Association with smart people, including other startups who've been where you are&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;The Deadline&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;January 13, 2012 is the next deadline to apply for the program&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Application Tips&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide wireframes and/or mockups if you have them&lt;/li&gt;
+&lt;li&gt;Create a prototype that shows the main functionality of your idea&lt;/li&gt;
+&lt;li&gt;Have at least 1 co-founder &amp;mdash; 2-3 person teams are ideal&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Are You Ready to Get Disruptive?&lt;/h3&gt;
+
+&lt;p&gt;We think Phoenix is fortunate to have a group like the AZ Disruptors working to fund startup ideas. If you're ready, apply for their January 13, 2012 deadline by filling out the &lt;a href=&quot;http://www.azdisruptors.com/disruptive-company/&quot;&gt;AZ Disruptor incubator application&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you want more information, here's a video presentation by AZ Disruptors, outlining their incubator program. It runs about 6½ minutes and covers all the main points.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/zlJ8FtsYAtM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</content>
+      <id>http://flatterline.com/blog/2012/01/02/AZ-disruptors-funding-for-startups</id>
+      <link href="http://flatterline.com/blog/2012/01/02/AZ-disruptors-funding-for-startups"/>
+      <summary>If you're a tech startup company, don't miss this opportunity for funding. In exchange for 10% of your startup, AZ Disruptors will give you cash, a place to work, and mentors to help guide you.</summary>
+      <title>AZ Disruptors Provides Funding For Startups</title>
+      <updated>2012-01-02T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;As an entrepreneur and leader, people look to you for the development of your company, it's vision and plan for moving forward. Of course, goal setting is a popular topic this time of year, so I thought I'd share a few approaches to goal setting, including a method for &lt;strong&gt;goal setting with agile&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;With so many approaches to goal setting, it's important to consider the best approach for you and your business. If you fail to reach your goals, it may be due to which approach you choose.  Here are just a few goal setting methods to consider.&lt;/p&gt;
+
+&lt;h3&gt;Zig Ziglar Goal Setting Formula&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ziglar.com/&quot;&gt;Zig Ziglar&lt;/a&gt; is a known authority on personal motivation, management and sales training, and of course, goal setting. Here's his formula for goal setting:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;State your goal and the benefits for achieving it&lt;/li&gt;
+&lt;li&gt;Set a deadline for achieving it&lt;/li&gt;
+&lt;li&gt;Identify the obstacles&lt;/li&gt;
+&lt;li&gt;Identify resources that can assist you&lt;/li&gt;
+&lt;li&gt;Identify the skills you need to achieve the goal&lt;/li&gt;
+&lt;li&gt;Develop a plan&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h4&gt;Zig Ziglar Goal Setting Videos&lt;/h4&gt;
+
+&lt;p&gt;These are great videos to watch if you have some time. Each video is about 4-5 minutes long.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://youtu.be/Ae-VJ_lauCw&quot;&gt;Goal Setting Video: Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://youtu.be/kiQV0oTyd98&quot;&gt;Goal Setting Video: Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://youtu.be/su2UuP3aqZg&quot;&gt;Goal Setting Video: Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;One Minute Manager Approach to Goal Setting&lt;/h3&gt;
+
+&lt;p&gt;The purpose of the One Minute Manager approach to goal setting is to establish clearly defined goals and expectations between a leader of an organization and the members of that organization. As a manager, establishing the objectives of your employees assures accountability in your organization.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Define and agree upon your goals&lt;/li&gt;
+&lt;li&gt;Define what positive behavior looks like&lt;/li&gt;
+&lt;li&gt;Create a list of your goals&lt;/li&gt;
+&lt;li&gt;Read and re-read your goals&lt;/li&gt;
+&lt;li&gt;Take time to read your goals each day&lt;/li&gt;
+&lt;li&gt;Determine if your behavior is in alignment with your goals&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;The Agile Approach to Goal Setting&lt;/h3&gt;
+
+&lt;p&gt;We use an &lt;a href=&quot;/agile-development&quot;&gt;agile software development process&lt;/a&gt;, but it can also be applied to business and personal matters. To use an agile method for goal setting, you might take this approach.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List all your goals. Yes, ALL of them.&lt;/li&gt;
+&lt;li&gt;Estimate the effort for each goal. Use the fibonacci sequence for rating: 1,2,3,5,8,13. If a goal has an effort higher than 8, break it down into smaller goals that require less effort&lt;/li&gt;
+&lt;li&gt;Prioritize each goal&lt;/li&gt;
+&lt;li&gt;Check in with your goals daily and work on the priorities first&lt;/li&gt;
+&lt;li&gt;Reassess and re-prioritize whenever you add new goals, gain new information or as needed&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;This agile method is a great way for prioritizing multiple goals and assuring that you're working on the goals that have the highest value.&lt;/p&gt;
+
+&lt;p&gt;Of course, all three goal setting methods have a couple things in common; clearly establishing your goals, and constantly evaluating whether or not your actions are contributing to their achievement. That way you know you're on track to success this New Year.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2011/12/26/agile-goal-setting</id>
+      <link href="http://flatterline.com/blog/2011/12/26/agile-goal-setting"/>
+      <summary>Although many people consider agile to be an approach to software development, agile methodologies can be applied to many different business processes, as well as personal goal setting.</summary>
+      <title>3 Methods for Goal Setting</title>
+      <updated>2011-12-26T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Flatterline founder and lead &lt;a href=&quot;/team/curtis-miller&quot;&gt;Ruby developer&lt;/a&gt;, Curtis Miller,
+had the opportunity to present at the monthly &lt;a href=&quot;http://rubyaz.org/&quot;&gt;Phoenix Ruby meetup&lt;/a&gt;.
+Having recently switched the Flatterline site from Wordpress to the
+&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll static site generator&lt;/a&gt;, he presented his
+thoughts and experience using Jekyll.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about Jekyll or how Flatterline is using it to create our site,
+please contact us and we'll be happy to help out. You can also peruse the source of the
+&lt;a href=&quot;https://github.com/flatterline/flatterline.com&quot;&gt;Flatterline site on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, check out the presentation:&lt;/p&gt;
+
+&lt;div style=&quot;width:510px&quot; id=&quot;__ss_10653919&quot;&gt;
+  &lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;
+    &lt;a href=&quot;http://www.slideshare.net/Flatterline/jekyll-presentation-slides&quot; title=&quot;Jekyll Presentation Slides&quot; target=&quot;_blank&quot;&gt;Jekyll Presentation Slides&lt;/a&gt;
+  &lt;/strong&gt;
+
+  &lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/10653919&quot; width=&quot;510&quot; height=&quot;426&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+  &lt;div style=&quot;padding:5px 0 12px&quot;&gt;
+    View more &lt;a href=&quot;http://www.slideshare.net/Flatterline&quot; target=&quot;_blank&quot;&gt;presentations from Flatterline&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;And the video:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/7mXeJlFdZ2c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</content>
+      <id>http://flatterline.com/blog/2011/12/20/presentation-jekyll-static-site-generator</id>
+      <link href="http://flatterline.com/blog/2011/12/20/presentation-jekyll-static-site-generator"/>
+      <summary>Curtis gave a short presentation on the Jekyll static site generator for Ruby at the Dec 2011 Ruby AZ meetup. He discussed the benefits, usage and even a few gotchas found along the way.</summary>
+      <title>Presentation: The Jekyll Static Site Generator</title>
+      <updated>2011-12-20T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Traditional requirements gathering can take an enormous amount of time, keeping developers occupied for long periods documenting the requirements instead of writing code. Sometimes this produces hundreds of written pages of documentation that can become obsolete once the first line of code is written.&lt;/p&gt;
+
+&lt;p&gt;At Flatterline, we believe that working software is more important that a mountain of documentation. We understand that requirements change and we're flexible enough to handle those changes, whenever they may come. We're big proponents of the &lt;em&gt;Agile Methodology&lt;/em&gt; and one of the principles of agile software development states:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h3&gt;The Story Workshop&lt;/h3&gt;
+
+&lt;p&gt;In order to not spend time and money unnecessarily on a heavy requirements gathering process, we use a technique called a &lt;em&gt;Story Workshop&lt;/em&gt;. It is a technique for eliciting &lt;strong&gt;roles&lt;/strong&gt;, &lt;strong&gt;functionality&lt;/strong&gt; and &lt;strong&gt;values&lt;/strong&gt; of the system from key stakeholders.&lt;/p&gt;
+
+&lt;p&gt;We try to limit the initial story workshop to no more than two hours and we gather every idea for functionality in the system, even if we know that it's not something we'll be doing any time soon. At this point, the stories are at a pretty high level; more details of the story will come later.&lt;/p&gt;
+
+&lt;h3&gt;Anatomy of a Story&lt;/h3&gt;
+
+&lt;p&gt;A story is kept simple and follows a pretty standard formula.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;As a ROLE IN THE SYSTEM
+I should be able to ACCOMPLISH SOMETHING
+So that I GET SOME VALUE
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Roles&lt;/h4&gt;
+
+&lt;p&gt;Roles are all of the different types of actors in the system. These could be users, managers, administrators, system administrators or even the system itself.&lt;/p&gt;
+
+&lt;h4&gt;Functionality&lt;/h4&gt;
+
+&lt;p&gt;Simply put, this is what the system allows an actor to do. Examples of functionality might include authenticating, sending an email, inviting another user, uploading files or creating data in the system.&lt;/p&gt;
+
+&lt;h4&gt;Values&lt;/h4&gt;
+
+&lt;p&gt;This is where things get really interesting. By attempting to record the value that a certain piece of functionality brings to the system, we begin to understand the motivation of our clients and their intended users. What problems are they solving and how does it fit in with the rest of the functionality? This key piece of information is extremely useful when it comes to prioritizing the stories.&lt;/p&gt;
+
+&lt;h3&gt;Estimating&lt;/h3&gt;
+
+&lt;p&gt;After about two hours we usually have a long list of desired functionality, a list of roles in the system and a better understanding of the problem this product will be attempting to solve.&lt;/p&gt;
+
+&lt;p&gt;We take these stories, estimate the effort we believe it would take to implement the functionality and arrive at an estimated time and cost for the product. We use the term &lt;em&gt;estimate&lt;/em&gt; continuously here because we know that the requirements will inevitably change, and as the requirements change so do the time and cost of completion.&lt;/p&gt;
+
+&lt;h3&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;We find that the story workshop process can often be a cathartic experience for our clients. Not only have they captured all of their ideas regarding the functionality and roles in the system, but they have also had to think critically about why those things are important, or if they even are.&lt;/p&gt;
+
+&lt;p&gt;It's a challenging two hours for our development team and our clients, but in the end, it is an essential part of how we build great software.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/12/16/gathering-requirements-through-story-workshops</id>
+      <link href="http://flatterline.com/blog/2009/12/16/gathering-requirements-through-story-workshops"/>
+      <summary>Flatterline uses a technique called a story workshop to gather project requirements. Find out more about how we use this technique to provide value to our clients.</summary>
+      <title>Gathering Requirements Through Story Workshops</title>
+      <updated>2009-12-16T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Our lead developer and resident technical genius, &lt;a href=&quot;http://chrischandler.name&quot;&gt;Chris Chandler&lt;/a&gt; gave a presentation called &lt;em&gt;Real World Cryptography&lt;/em&gt; at Developer Ignite #1 in Phoenix back in July. We recently found out &lt;a href=&quot;http://software.intel.com/en-us/videos/developer-ignite-july-2009/&quot;&gt;Intel has made the videos available&lt;/a&gt;, so please enjoy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(Real World Cryptography starts 7 minutes in)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;object id='v_5399_1132' name='v_5399_1132' width='640' height='360' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0'&gt;
+  &lt;param name='flashvars' value='file=http://software.intel.com/media/videos/5/7/1/e/0/f/7/571e0f7e2d992e738adff8b1bd43a521.flv&amp;amp;image=http://software.intel.com/media/videos/5/7/1/e/0/f/7/571e0f7e2d992e738adff8b1bd43a521_player.jpg&amp;amp;autostart=false&amp;amp;bufferlength=5&amp;amp;allowfullscreen=true&amp;amp;plugins=http://software.intel.com/common/swf/listen&amp;amp;title=Developer+Ignite+July+2009+Part+4' /&gt;
+  &lt;param name='movie' value='http://software.intel.com/common/swf/mediaplayer.swf' /&gt;
+  &lt;param name='allowfullscreen' value='true' /&gt;
+  &lt;embed src='http://software.intel.com/common/swf/mediaplayer.swf' width='426' height='240' bgcolor='#FFFFFF' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='file=http://software.intel.com/media/videos/5/7/1/e/0/f/7/571e0f7e2d992e738adff8b1bd43a521.flv&amp;amp;image=http://software.intel.com/media/videos/5/7/1/e/0/f/7/571e0f7e2d992e738adff8b1bd43a521_player.jpg&amp;amp;autostart=false&amp;amp;bufferlength=5&amp;amp;allowfullscreen=true' allowfullscreen='true'/&gt;
+&lt;/object&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Let us know your thoughts on this talk in the comments below.&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/11/11/developer-ignite-phoenix-real-world-cryptography</id>
+      <link href="http://flatterline.com/blog/2009/11/11/developer-ignite-phoenix-real-world-cryptography"/>
+      <summary>Hear our (video) take on cryptography in the real world as voiced by Chandler at the first Developer Ignite in Phoenix. You might be surprised at what you learn.</summary>
+      <title>Developer Ignite Phoenix: Real World Cryptography</title>
+      <updated>2009-11-11T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Thanks to everyone who attended the two sessions taught by Chris at &lt;a href=&quot;http://desertcodecamp.com&quot;&gt;Desert Code Camp&lt;/a&gt;! We hope that you had a great time and learned a lot. I know we did!&lt;/p&gt;
+
+&lt;p&gt;As promised, here are the slides from the Understanding Functional Programming session:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/cchandler/understanding-functional-programming?type=presentation&quot;&gt;Understanding Functional Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;object style=&quot;margin:0px&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;
+  &lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=functionalprogramming-090616003711-phpapp01&amp;amp;stripped_title=understanding-functional-programming&quot; /&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;
+  &lt;embed src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=functionalprogramming-090616003711-phpapp01&amp;amp;stripped_title=understanding-functional-programming&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;
+&lt;/object&gt;
+
+
+&lt;p&gt;View more documents from &lt;a href=&quot;http://www.slideshare.net/cchandler&quot;&gt;Chris Chandler&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What topic(s) would you like to see next time?&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/06/20/desert-code-camp-followup</id>
+      <link href="http://flatterline.com/blog/2009/06/20/desert-code-camp-followup"/>
+      <summary>We presented in two separate tracks at Desert Code Camp in Phoenix to a great turnout. You can checkout the slides here.</summary>
+      <title>Desert Code Camp Followup</title>
+      <updated>2009-06-20T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Looks like it's almost time for &lt;a href=&quot;http://desertcodecamp.com/&quot;&gt;Desert Code Camp&lt;/a&gt; again! What is this event, you ask? From their site:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Code Camps have been taking place all over the country.  This is a free, one-day event put on by the local Phoenix community to help promote software development in general.  There is no right or wrong language, platform, or technology.  If a topic relates in any way to the code that causes a machine to produce a desired result, it's welcome here.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This year it will be held at the &lt;a href=&quot;http://www.devry.edu/locations/campuses/loc_phoenixcampus.jsp&quot;&gt;DeVry University Phoenix Campus&lt;/a&gt; and is once again being organized by &lt;a href=&quot;http://geekswithblogs.net/lorint/Default.aspx&quot;&gt;Lorin Thwaits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Flatterline will be teaching two sessions this year in the 21st Century Software Development track: &lt;a href=&quot;http://desertcodecamp.com/signUp.aspx?session=495&quot;&gt;Developing with CouchDB&lt;/a&gt; and &lt;a href=&quot;http://desertcodecamp.com/signUp.aspx?session=477&quot;&gt;Understanding functional programming&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The schedule became available today, so if you haven't registered do so now and build your schedule for Saturday. It looks like there are a lot of great sessions this year and we can't wait to learn from all of our colleagues. See you there!&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/06/09/desert-code-camp</id>
+      <link href="http://flatterline.com/blog/2009/06/09/desert-code-camp"/>
+      <summary>Desert Code Camp is a locally organized event for developers to present on topics they're interested in. This year, Flatterline is giving two presentations.</summary>
+      <title>Desert Code Camp</title>
+      <updated>2009-06-09T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;We had a great turnout for the first &lt;a href=&quot;/blog/2009/04/24/phoenix-opencoffee-club/&quot;&gt;Phoenix OpenCoffee Club&lt;/a&gt;, which took place April 30th at &lt;a href=&quot;http://www.azfairtrade.com/cafe/&quot;&gt;Fair Trade Cafe&lt;/a&gt;. About a dozen people, both entrepreneurs and investors, attended and spent several hours getting to know each other over some great coffee.&lt;/p&gt;
+
+&lt;p&gt;We heard at least 6 ideas pitched and discussed during the 2 hours we were there. The assembled group wasn't shy about asking questions and raising concerns of the entrepreneurs pitching their ideas either. I know everyone appreciated hearing the perspectives of entrepreneurs and investors alike. We hope everyone who attended found the meetup engaging and useful. We sure did!&lt;/p&gt;
+
+&lt;p&gt;Special thanks to Fair Trade Cafe for allowing us to host our event there. The &lt;a href=&quot;http://upcoming.yahoo.com/event/2561649/&quot;&gt;May 7th Phoenix OpenCoffee Club&lt;/a&gt; will be held at Hob Nobs Coffee House. We'll try to have OpenCoffee Club every Thursday, so it's not a big deal if there are times you can't make it. Hope to see you there!&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/05/03/2009-04-30-recap-of-phoenix-opencoffee-club</id>
+      <link href="http://flatterline.com/blog/2009/05/03/2009-04-30-recap-of-phoenix-opencoffee-club"/>
+      <summary>A recap of the first Phoenix OpenCoffee Club held at Fair Trade in downtown Phoenix. Find out what was discussed, pitched and what the next plans are for OpenCoffee.</summary>
+      <title>2009-04-30: Recap of Phoenix OpenCoffee Club</title>
+      <updated>2009-05-03T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Chris Chandler</name>
+        <uri>http://flatterline.com/team/chris-chandler</uri>
+      </author>
+      <content type="html">&lt;p&gt;Flatterline believes heavily in the power of &lt;a href=&quot;http://en.wikipedia.org/wiki/Cloud_computing&quot;&gt;cloud computing&lt;/a&gt;. Dynamically allocated hardware on a pay-for-what-you-need basis has tremendous advantages when it comes to helping clients manage and provision their clusters. The main advantage of cloud computing is dynamically growing, or shrinking, hardware as the needs of the application change.&lt;/p&gt;
+
+&lt;p&gt;Because of the dynamic nature of cloud computing, we don't need a guaranteed answer on hardware requirements up front. However, a client may want a ballpark figure in order to set aside the right amount of budget or let investors know the estimated operational cost. You could crunch the numbers yourself, but why would you do that when we've already automated the process for you?&lt;/p&gt;
+
+&lt;h3&gt;Determining optimal cost&lt;/h3&gt;
+
+&lt;p&gt;We've constructed a very basic model for minimizing the cost of &lt;a href=&quot;http://aws.amazon.com/ec2/&quot;&gt;Amazon EC2&lt;/a&gt; hardware resources which satisfies a minimum number of &lt;a href=&quot;http://aws.amazon.com/ec2/instance-types/&quot;&gt;EC2 Compute Units&lt;/a&gt; and a given amount of RAM per process.&lt;/p&gt;
+
+&lt;p&gt;The technique uses &lt;a href=&quot;http://en.wikipedia.org/wiki/Linear_programming&quot;&gt;linear programming&lt;/a&gt; and the &lt;a href=&quot;http://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit&quot;&gt;GNU linear programming kit (GLPK)&lt;/a&gt;. &lt;strong&gt;Note&lt;/strong&gt;: I'm a math geek that likes linear modeling, so if you're unfamiliar with either, I'd be happy to chat with you about them over lunch.&lt;/p&gt;
+
+&lt;h3&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;First, install the GLPK. On Ubuntu execute the command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo aptitude install glpk
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;on Mac OS X execute the command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo port install glpk
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Next, download the following gist as &lt;code&gt;cloud_cost.txt&lt;/code&gt;.&lt;/p&gt;
+
+&lt;script src=&quot;http://gist.github.com/101809.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;h3&gt;Computing the cost&lt;/h3&gt;
+
+&lt;p&gt;The model requires the specification of two variables: total number of EC2 Compute Units and RAM. Both variables are specified at the bottom with &lt;code&gt;param unitsNeeded&lt;/code&gt; and &lt;code&gt;param ramRequiredPerAppInstance&lt;/code&gt; respectively. Change these params to reflect your particular situation. &lt;strong&gt;Note&lt;/strong&gt;: A future article will explore capacity planning in more detail.&lt;/p&gt;
+
+&lt;p&gt;When you're ready, execute the solver using the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;glpsol --model cloud_cost.txt --output result.txt
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Analyzing the results&lt;/h3&gt;
+
+&lt;p&gt;The program generates the result into a file called &lt;code&gt;result.txt&lt;/code&gt;. Assuming 500 EC2 Compute Units with 125MB of RAM per process, the file will look something like the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Problem:  cloud_cost
+Rows:    7
+Columns:  5 (5 integer, 0 binary)
+Non-zeros: 15
+Status:   INTEGER OPTIMAL
+Objective: cost = 14400 (MINimum)
+
+ 1 InstanceQuantity[Small]
+                    *              0             0
+ 2 InstanceQuantity[Large]
+                    *              0             0
+ 3 InstanceQuantity[XLarge]
+                    *              0             0
+ 4 InstanceQuantity[HCPULarge]
+                    *              0             0
+ 5 InstanceQuantity[HCPUXLarge]
+                    *             25             0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The objective function was cost, so the optimal arrangement of hardware needed to get that computational power costs $14,400/month. The second column of the hardware arrangement indicates the number of instance needed. In this case we need 25 high-CPU, extra large instances.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you find this useful? Let us know in the comments!&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2</id>
+      <link href="http://flatterline.com/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2"/>
+      <summary>Wondering what hardware you should provision for your application hosted in the cloud with Amazon EC2? We've got you covered with this handy optimal cost calculator.</summary>
+      <title>Optimizing hardware costs for Amazon EC2</title>
+      <updated>2009-04-27T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;At Flatterline, our stated mission is to help startups realize their vision. To that end, we've decided to help bring &lt;a href=&quot;http://upcoming.yahoo.com/group/15697/&quot;&gt;OpenCoffee Club to Phoenix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;What is OpenCoffee Club?&lt;/h3&gt;
+
+&lt;p&gt;OpenCoffee Club is a weekly gathering of entrepreneurs and investors in an informal setting (a.k.a, a coffee shop). The goal is to bring these entrepreneurs and investors together to talk about projects, collaborate and get to know each other.&lt;/p&gt;
+
+&lt;p&gt;It was originally started in London by &lt;a href=&quot;http://www.indexventures.com/team#profile_id_10&quot;&gt;Saul Klein, a venture partner at Index Ventures&lt;/a&gt;. Since then, over 80 OpenCoffee Clubs have sprung up worldwide. You can read more about it on &lt;a href=&quot;http://localglobe.blogspot.com/2007/02/opencoffee-club.html&quot;&gt;Saul's blog&lt;/a&gt; or at &lt;a href=&quot;http://www.readwriteweb.com/archives/the_open_coffee_club_movement.php&quot;&gt;ReadWriteWeb&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Why?&lt;/h3&gt;
+
+&lt;p&gt;On a recent trip to Boulder, CO I attended an OpenCoffee Club facilitated by &lt;a href=&quot;http://www.askthevc.com/blog/&quot;&gt;Jason Mendelson&lt;/a&gt; of the &lt;a href=&quot;http://www.foundrygroup.com/&quot;&gt;Foundry Group&lt;/a&gt;. It was really inspiring to see such a vibrant startup community meeting regularly to discuss ideas, share problems, give advice and, most of all, listen to each other.&lt;/p&gt;
+
+&lt;p&gt;We believe that Phoenix has a lot of talented, entrepreneurial people. We want them to have the best chance to grow and succeed and this is one small way we see that happening.&lt;/p&gt;
+
+&lt;p&gt;The first meetup will be on Thursday, April 30 from 8am - 10am at Fair Trade Coffee. &lt;a href=&quot;http://upcoming.yahoo.com/event/2473241/&quot;&gt;Please let us know you're coming&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In what other ways can we help the Phoenix startup community thrive?&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/04/24/phoenix-opencoffee-club</id>
+      <link href="http://flatterline.com/blog/2009/04/24/phoenix-opencoffee-club"/>
+      <summary>OpenCoffee Club is an event hosted around the world to provide a place for startup founders and investor to gather and discuss their progress, successes and failures. Find out about our plan to bring this great event to Phoenix!</summary>
+      <title>Phoenix OpenCoffee Club</title>
+      <updated>2009-04-24T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Chris Chandler</name>
+        <uri>http://flatterline.com/team/chris-chandler</uri>
+      </author>
+      <content type="html">&lt;p&gt;If you are a highly mobile laptop user, chances are you work out of a lot of varying public locations such as coffee shops, libraries, and just about anywhere that has public wifi. Are you concerned about the privacy of your data?If you're like me, and our clients, you're very concerned. Applications like &lt;a href=&quot;http://www.circlemud.org/~jelson/software/tcpflow/&quot;&gt;tcpflow&lt;/a&gt; and &lt;a href=&quot;http://www.wireshark.org/&quot;&gt;Wireshark&lt;/a&gt; are not only particularly effective at grabbing content from the network, they also happen to be readily available.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here's a very simple scheme to leverage the inexpensive power of Amazon's EC2 to create a disposable, secure proxy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Getting started&lt;/h3&gt;
+
+&lt;p&gt;You will need the following to make this recipe work:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Amazon AWS account&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A Ubuntu-based Amazon AMI with keypair (we are using publicami-7cfd1a15 for this article)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An EC2 security group allowing a minimum of port 22 for SSH&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;To start, launch a small instance of your AMI of choice. Once again, we prefer Ubuntu so most of this article is going to be Ubuntu-centric. This instance will need to be setup with whatever key pair you plan on using as well as be placed in the security group that allows SSH access. If you need help with this the Amazon &lt;a href=&quot;http://console.aws.amazon.com/&quot;&gt;AWS console&lt;/a&gt; is particularly useful.&lt;/p&gt;
+
+&lt;h3&gt;Putting the pieces together&lt;/h3&gt;
+
+&lt;p&gt;Once the instance is made available ssh to your newly created instance.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ssh -i identity_file -L 3128:localhost:3128 root@public_ec2_domain_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The noteworthy addition to the previous line is &lt;code&gt;-L 3128:localhost:3128&lt;/code&gt;. This addition to the SSH command will open port 3128 locally and forward all traffic to the remote port 3128 across the open SSH connection.&lt;/p&gt;
+
+&lt;p&gt;Once the connection is open you will need to install a proxy, we prefer &lt;a href=&quot;http://www.squid-cache.org/&quot;&gt;squid&lt;/a&gt;. Squid can be installed through the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;aptitude update
+aptitude install squid
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The last remaining step is to configure your browser of choice to use proxy &lt;code&gt;localhost:3128&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final result is &lt;strong&gt;all local HTTP traffic will be relayed across local port 3128 across the encrypted SSH tunnel to the 10 cents / hour remote server&lt;/strong&gt;. From there it will go out to the internet at large away from the prying eyes of nefarious coffee shop patrons. &lt;strong&gt;Keep the SSH connection open for as long as you need access to the proxy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Cleaning up after yourself&lt;/h3&gt;
+
+&lt;p&gt;When your done at the coffee shop feel free to decommission the AMI instance and you're done. The machine will go away with all records of the proxy's cache.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you're looking for a solution to more than just your HTTP traffic you have options such as OpenVPN. Look for an article from us soon.&lt;/em&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing</id>
+      <link href="http://flatterline.com/blog/2009/04/23/disposable-proxy-for-secure-coffee-shop-browsing"/>
+      <summary>Have you ever used an unsecured wireless connection at a coffeeshop? Find out how you're putting your data at risk and the steps you can take to protect yourself.</summary>
+      <title>Disposable proxy for secure coffee shop browsing</title>
+      <updated>2009-04-23T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Chris Chandler</name>
+        <uri>http://flatterline.com/team/chris-chandler</uri>
+      </author>
+      <content type="html">&lt;p&gt;Does your Linux-based virtualized hosting feel a little slow? Does it suffer from preemptive swapping? Here's a quick tip on getting some more performance out of your current setup. This is especially useful if you have a significant ratio of physical RAM to in-memory programs.&lt;/p&gt;
+
+&lt;h3&gt;Swappiness&lt;/h3&gt;
+
+&lt;p&gt;The Linux 2.6 kernel has a parameter called vm.swappiness that regulates the kernel's likelihood to swap memory to disk (e.g., to free up memory for disk/content caching, load other programs, etc). Valid values are between 0 and 100. On the current release of Ubuntu (Intrepid) this value has a default value of 60 that you can investigate with the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat /proc/sys/vm/swappiness
+60
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This value is generally fine, but if your physical memory is significantly higher than what you need it's worth investigating other choices.I personally find a pretty significant performance increase in Rails behavior with a value of 0; essentially telling the kernel to not swap anything out until it becomes absolutely necessary.&lt;/p&gt;
+
+&lt;p&gt;The value can be changed either with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sysctl vm.swappiness=0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;or&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ echo 0 &amp;amp;gt; /proc/sys/vm/swappiness
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;A persistent lack of swappiness&lt;/h3&gt;
+
+&lt;p&gt;If you restart the server, then your change will be lost. If you want the change to remain persistent across restarts you'll either need to create a script that calls one of these commands or edit /etc/sysctl.conf to specify the swappiness. As always, exercise caution playing with kernel parameters :-).&lt;/p&gt;
+
+&lt;h3&gt;Swapping it back in&lt;/h3&gt;
+
+&lt;p&gt;If you change vm.swappiness and want to force the kernel to swap everything back in you can temporarily disable the swap partition and then immediately re-enable it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ swapon -s
+
+Filename         Type      Size  Used  Priority
+/dev/sda2         partition    524280 33948  -2
+
+$ swapoff /dev/sda2
+$ swapon /dev/sda2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If the machine doesn't have enough memory to accommodate the swap-in the command will fail with an error.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let us know if this helps you out!&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/04/09/what-you-dont-know-is-affecting-your-performance</id>
+      <link href="http://flatterline.com/blog/2009/04/09/what-you-dont-know-is-affecting-your-performance"/>
+      <summary>Want to eek a little performance out of your current hosting setup? Follow these easy steps to decrease swapping.</summary>
+      <title>What you don't know is affecting your performance</title>
+      <updated>2009-04-09T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Chris Chandler</name>
+        <uri>http://flatterline.com/team/chris-chandler</uri>
+      </author>
+      <content type="html">&lt;p&gt;Just about everything is finally underway here at Flatterline! We've finished our first full month of activity and we've been having a blast while we've been doing it.I need to say this to the entire community and everyone we've talked with:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank You! Thank you for the support, the referrals, the chats, and everything else!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last month we have been approached by numerous individuals and companies who have been searching for developers. They all said they were referred to us by people in the community that had favorable past experiences with us or because they have worked with us directly. I cannot even begin to say what a compliment it is that no sooner did we form a company that people are already being referred to us.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;only&lt;/strong&gt; downside to all of these referrals is that we simply cannot take on all these clients. Curtis and I fundamentally believe, and agree, that we are not in any rush to grow or take on more clients than we believe we can handle at any given time. That being said, we absolutely believe in referring potential clients to people who do have the capacity and availability for more work. If your a development shop we will happily try and pair you with the awesome clients that we don't have the capacity for right now.&lt;/p&gt;
+
+&lt;p&gt;The ultimate goal is a win-win for clients and other developers. We want our potential clients to know that we value their time and future success, and sometimes that future success means hitting the ground running immediately with other developers in the community.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/04/01/current-activity-and-a-thanks-to-everyone</id>
+      <link href="http://flatterline.com/blog/2009/04/01/current-activity-and-a-thanks-to-everyone"/>
+      <summary>A quick thank you to all of the people that have helped Flatterline over the past month. We couldn't do it without you!</summary>
+      <title>Current activity and a thanks to everyone!</title>
+      <updated>2009-04-01T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Chris Chandler</name>
+        <uri>http://flatterline.com/team/chris-chandler</uri>
+      </author>
+      <content type="html">&lt;p&gt;Team Flatterline is now back in Phoenix!&lt;/p&gt;
+
+&lt;p&gt;Rather than try to recap the events of the conference, which were too numerous to do any sort of justice, I want to say thanks to all the great people we got to spend time with. If we got a business card from you then we're going to be in contact.... though it might take a few days while we catch up on the sheer volume.&lt;/p&gt;
+
+&lt;p&gt;As pictures and media become available I'll post the links here. More likely than not I'll get around to creating an account on Tumblr to keep the Flatterline feed a little more active.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/03/19/return-from-sxsw-and-followup</id>
+      <link href="http://flatterline.com/blog/2009/03/19/return-from-sxsw-and-followup"/>
+      <summary>We had a great time at SXSW and met some awesome people in Austin, but now we're back and ready to go!</summary>
+      <title>Return from SXSW and followup</title>
+      <updated>2009-03-19T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;That's right, folks, both &lt;a href=&quot;http://chrischandler.name&quot;&gt;Chris Chandler&lt;/a&gt; and &lt;a href=&quot;http://millarian.com&quot;&gt;Curtis Miller&lt;/a&gt; will be hitting up SXSW this year in Austin. We arrive Thursday night and leave Tuesday night. Unfortunately, we made our plans when we still worked for someone else, so we tried to minimize time off from work... boo!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/squanderingtime&quot;&gt;Follow Chandler on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/curtism&quot;&gt;Follow Curtis on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But wait, there's more. We're also going with some awesome people from Phoenix and sharing a loft right on 6th street!&lt;/p&gt;
+
+&lt;h3&gt;Who's Coming?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/joshhuckabee&quot;&gt;Josh Huckabee&lt;/a&gt;, an awesome &lt;a href=&quot;http://joshhuckabee.com&quot;&gt;freelance drupal and ruby on rails web developer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Josh used to work with us about a year ago and has since gone on to some cool projects (even one that relocated him to Europe for a while). He's also the one who found and secured our SXSW headquarters. Thanks Josh!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/jhuckabee&quot;&gt;Follow Josh on Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/chrisirish&quot;&gt;Chris Irish&lt;/a&gt;, the co-founder and lead developer of Freebootr.com, a site enabling people to &lt;a href=&quot;http://freebootr.com&quot;&gt;post, search and locate free items near you&lt;/a&gt; and give them a new life. It's all about reducing the amount of waste entering landfills.&lt;/p&gt;
+
+&lt;p&gt;Oh, he's also &lt;a href=&quot;http://yourmomshero.com&quot;&gt;your mom's hero&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/supairish&quot;&gt;Follow Chris on Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/mattgist&quot;&gt;Matt Gist&lt;/a&gt;, an &lt;a href=&quot;http://matthewgist.com&quot;&gt;interaction, interface and user experience designer&lt;/a&gt; in Boulder, CO.&lt;/p&gt;
+
+&lt;p&gt;I think Matt's the most excited about this trip to SXSW, he's been sending us link after link to parties we should sign up for and events we need to know about. In fact, we're trying to set a new record for longest. email. thread. ever.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/mattgist&quot;&gt;Follow Matt on Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/brianshaler&quot;&gt;Brian Shaler&lt;/a&gt;, a &lt;a href=&quot;http://brian.shaler.name&quot;&gt;Flash developer and jumper extraordinaire&lt;/a&gt; who seems to split his time between Phoenix, Disneyland and assorted couches across the country.&lt;/p&gt;
+
+&lt;p&gt;Brian co-hosts the &lt;a href=&quot;http://superwickedawesome.com&quot;&gt;Super Wicked Awesome Show&lt;/a&gt; and was recently issued a new license, so when you see him, please ask to see it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/brianshaler&quot;&gt;Follow Brian on Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Are you going to SXSW? Let us know in the comments and we'll see you there!&lt;/strong&gt;&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2009/03/09/sxsw-interactive-2009-flatterline-will-be-there</id>
+      <link href="http://flatterline.com/blog/2009/03/09/sxsw-interactive-2009-flatterline-will-be-there"/>
+      <summary>SXSW in Austin is the first of Flatterline's planned business adventures. We plan to raise hell, but we're not going alone. Find out who'll be there to hold back our hair.</summary>
+      <title>SXSW Interactive 2009: Flatterline will be there!</title>
+      <updated>2009-03-09T00:00:00-07:00</updated>
+    </entry>
+  
+</feed>

@@ -111,6 +111,14 @@ module Jekyll
       end
     end
   end
+
+  module TeamPathFilter
+    def team_path(text)
+      text = '' if text.nil?
+      text.to_str.downcase.gsub(' ', '-')
+    end
+  end
 end
 
 Liquid::Template.register_tag('authors', Jekyll::AuthorsTag)
+Liquid::Template.register_filter(Jekyll::TeamPathFilter)

@@ -103,6 +103,11 @@
     erb :contact_form
   end
 
+  # RSS Feed
+  get '/feed' do
+    File.read("_site/feed/index.xml")
+  end
+
   # Blitz.io routes
   get '/mu-3dd0acec-2383268f-097a0ad7-4e11727c' do
     '42'
