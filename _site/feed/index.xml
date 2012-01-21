@@ -3,15 +3,15 @@
   <author>
     <email>contact@flatterline.com</email>
     <name>The Flatterline Team</name>
-    <uri>http://flatterline.com/team/</uri>
+    <uri>http://flatterline.com/team</uri>
   </author>
   <id>http://flatterline.com</id>
-  <link href="http://flatterline.com/feed/" rel="self" />
-  <link href="http://flatterline.com"/>
+  <link href="http://flatterline.com/feed" rel="self" />
+  <link href="http://flatterline.com" />
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-01-21T16:29:06-07:00</updated>
+  <updated>2012-01-21T16:40:11-07:00</updated>
 
   
     <entry>

@@ -105,6 +105,7 @@
 
   # RSS Feed
   get '/feed' do
+    content_type 'application/atom+xml', :charset => 'utf-8'
     File.read("_site/feed/index.xml")
   end
 
