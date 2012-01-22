@@ -10,7 +10,6 @@ tags:
 - local seo
 - search engine marketing
 title: What My Midwife Taught Me About Local SEO
-published: false
 ---
 
 Not long ago, my wife and I were looking at midwifery services here in Phoenix. Now, you may be thinking, "what does that have to do with [search engine marketing](/services/search-engine-marketing)?" A lot actually, and let me explain why.

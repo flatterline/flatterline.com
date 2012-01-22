@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Disposable proxy for secure coffee shop browsing | Flatterline</title>
+    <title>What My Midwife Taught Me About Local SEO | Flatterline</title>
     <meta name="description" content="">
     <meta name="keywords"    content="">
 
@@ -75,64 +75,48 @@
   <article id="post">
     <header class="row">
       <div class="posted-on" >
-        <time datetime="2009-04-23" pubdate="pubdate">April 23, 2009</time>
+        <time datetime="2012-01-05" pubdate="pubdate">January 05, 2012</time>
         
       </div>
 
       <h1 class="title">
-        <a href="" title="Permalink for Disposable proxy for secure coffee shop browsing">Disposable proxy for secure coffee shop browsing</a>
+        <a href="" title="Permalink for What My Midwife Taught Me About Local SEO">What My Midwife Taught Me About Local SEO</a>
       </h1>
 
       <h2 class="byline">
         by
-        <a href="">Chris Chandler</a>
+        <a href="">Ralph Miller</a>
       </h2>
     </header>
 
     <div id="post-body">
       
 
-      <p>If you are a highly mobile laptop user, chances are you work out of a lot of varying public locations such as coffee shops, libraries, and just about anywhere that has public wifi. Are you concerned about the privacy of your data?If you're like me, and our clients, you're very concerned. Applications like <a href="http://www.circlemud.org/~jelson/software/tcpflow/">tcpflow</a> and <a href="http://www.wireshark.org/">Wireshark</a> are not only particularly effective at grabbing content from the network, they also happen to be readily available.</p>
+      <p>Not long ago, my wife and I were looking at midwifery services here in Phoenix. Now, you may be thinking, "what does that have to do with <a href="/services/search-engine-marketing">search engine marketing</a>?" A lot actually, and let me explain why.</p>
 
-<p><strong>Here's a very simple scheme to leverage the inexpensive power of Amazon's EC2 to create a disposable, secure proxy.</strong></p>
+<p>The midwife we liked doesn't rank for the keyword "Phoenix Midwife." Which is a shame because it gets a decent number of searches each month and it's what she is. When I saw this, I wondered how I could get her to rank for that phrase. Let's take a look at the search results and then I'll share a few of my ideas with you. Just keep in mind that ultimately, this is how you should be thinking about your own search results for your small business or startup.</p>
 
-<h3>Getting started</h3>
+<p>Take a quick look at the <a href="http://www.google.com/search?as_q=phoenix&amp;as_q=midwife">Google search results for Phoenix midwife</a>. Think about the strategy you'd use to rank for this keyword.</p>
 
-<p>You will need the following to make this recipe work:</p>
+<p>You don't have to scroll far to see this search has "local intent". Local intent means that Google shows you results for midwives in the area. That's one opportunity to rank for this keyword.</p>
+
+<p>If you take a look a little further down in the results, into page 2, you'll see some other interesting things like a couple videos, a Yelp page, an Angie's list listing, a city search listing and an Amazon book Listmania list. An additional 5 opportunities to rank for this keyword and it probably wouldn't take much to pop those onto the first page.</p>
+
+<p>So, if I were trying to get my midwife to rank for these terms, here's the approach I'd take:</p>
 
 <ul>
-<li><p>Amazon AWS account</p></li>
-<li><p>A Ubuntu-based Amazon AMI with keypair (we are using publicami-7cfd1a15 for this article)</p></li>
-<li><p>An EC2 security group allowing a minimum of port 22 for SSH</p></li>
+<li>I'd have her list herself in Yelp, Angie's list, and City Search.</li>
+<li>I'd work on a few other citations to help her rank for Google's local search results.</li>
+<li>I'd have her create some content on Amazon around midwives and home-birthing, maybe a book list or two.</li>
+<li>And I'd definitely be pulling out my Flip at our next appointment to shoot a video about Phoenix midwives.</li>
 </ul>
 
 
-<p>To start, launch a small instance of your AMI of choice. Once again, we prefer Ubuntu so most of this article is going to be Ubuntu-centric. This instance will need to be setup with whatever key pair you plan on using as well as be placed in the security group that allows SSH access. If you need help with this the Amazon <a href="http://console.aws.amazon.com/">AWS console</a> is particularly useful.</p>
+<p>Then, I'd work on promoting a few of those pages, especially getting some ratings/reviews from past clients on the local listings. And if 7 opportunities to rank for a keyword aren't enough, I'd also have her run some Google ads.</p>
 
-<h3>Putting the pieces together</h3>
+<p>If you're going to take this approach, be sure to brand each of the pages created on other sites with the same exact name and logo, to provide consistent branding across multiple sites. The reason for this is simple&hellip; each time a potential client sees you in another search ranking, it's going to heighten his or her opinion of you. In a sense, it's pre-selling you based on sheer number of mentions.</p>
 
-<p>Once the instance is made available ssh to your newly created instance.</p>
-
-<pre><code>ssh -i identity_file -L 3128:localhost:3128 root@public_ec2_domain_name
-</code></pre>
-
-<p>The noteworthy addition to the previous line is <code>-L 3128:localhost:3128</code>. This addition to the SSH command will open port 3128 locally and forward all traffic to the remote port 3128 across the open SSH connection.</p>
-
-<p>Once the connection is open you will need to install a proxy, we prefer <a href="http://www.squid-cache.org/">squid</a>. Squid can be installed through the following command:</p>
-
-<pre><code>aptitude update
-aptitude install squid
-</code></pre>
-
-<p>The last remaining step is to configure your browser of choice to use proxy <code>localhost:3128</code>.</p>
-
-<p>The final result is <strong>all local HTTP traffic will be relayed across local port 3128 across the encrypted SSH tunnel to the 10 cents / hour remote server</strong>. From there it will go out to the internet at large away from the prying eyes of nefarious coffee shop patrons. <strong>Keep the SSH connection open for as long as you need access to the proxy.</strong></p>
-
-<h3>Cleaning up after yourself</h3>
-
-<p>When your done at the coffee shop feel free to decommission the AMI instance and you're done. The machine will go away with all records of the proxy's cache.</p>
-
-<p><em>If you're looking for a solution to more than just your HTTP traffic you have options such as OpenVPN. Look for an article from us soon.</em></p>
+<p>Of course, in theory this sounds simple, but it's definitely easier said that done. If you need some help with your local SEO campaign, <a href="/contact">please drop us a line</a>, we'd be happy to help.</p>
 
     </div>
 
@@ -142,11 +126,11 @@ aptitude install squid
   <div class="vcard row">
     
       <div class="span2 center">
-        <img class="photo" src="/images/chris-chandler.jpg" title="Chris Chandler" alt="Chris Chandler" width="80" height="80" />
+        <img class="photo" src="/images/ralph-miller.jpg" title="Professional SEO Consultant" alt="Ralph Miller" width="80" height="80" />
       </div>
     
 
-    <div class="note span9"><p><a href="/team/chris-chandler">Chris</a> co-founded Flatterline, a <a href="/">Ruby on Rails development company</a> in 2009. He has extensive experience in security, algorithms, e-commerce and infrastructure engineering. He's currently employed as an infrastructural engineer at Square in San Francisco.</p></div>
+    <div class="note span9"><p>Ralph is our <a href="/team/ralph-miller">professional seo consultant</a> who handles the business and marketing for our clients at Flatterline. When not chasing down leads or backlinks you can find him meditating, practicing yoga or polishing his, er... lightsaber.</p></div>
   </div>
 </div>
 
@@ -160,11 +144,11 @@ aptitude install squid
       </li>
     
       <li>
-        <a href="/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2">Optimizing hardware costs for Amazon EC2</a>
+        <a href="/blog/2011/12/26/agile-goal-setting">3 Methods for Goal Setting</a>
       </li>
     
       <li>
-        <a href="/blog/2012/01/05/what-my-midwife-taught-me-about-local-seo">What My Midwife Taught Me About Local SEO</a>
+        <a href="/blog/2009/12/16/gathering-requirements-through-story-workshops">Gathering Requirements Through Story Workshops</a>
       </li>
     
   </ul>
