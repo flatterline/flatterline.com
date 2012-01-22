@@ -2,7 +2,7 @@
 author: Ralph Miller
 excerpt:
   In the second of our Entrepreneurship Series blog posts, we interview
-  Brian Webster of Fat Cat Software, who's
+  Brian Webster of Fat Cat Software.
 image:
   url: /images/brian-webster.jpg
   title: Brian Webster
@@ -18,15 +18,13 @@ published: false
 
 Brian Webster's a one-man-show, who's done everything right without maybe even intending to. What's his secret? He attributes his success to making a quality product and responding well to customer feedback.
 
-**Tell us about your startup.**
+**Tell us about your company. How did you get started?**
 
 I'm currently a one-man software company, [Fat Cat Software](http://fatcatsoftware.com"). I do programming for Mac OS X. I have three applications that I sell:
 
 *   [iPhoto Library Manager](http://www.fatcatsoftware.com/iplm/)
 *   [PowerTunes](http://www.fatcatsoftware.com/powertunes/)
 *   [PlistEdit Pro](http://www.fatcatsoftware.com/plisteditpro/)
-
-**How did you get started?**
 
 I wish I could say I had some grand plan like I'm going to start my own business, but it really just kinda happened...
 
