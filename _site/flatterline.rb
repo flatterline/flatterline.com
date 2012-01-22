@@ -105,8 +105,13 @@
 
   # RSS Feed
   get '/feed' do
-    content_type 'application/atom+xml', :charset => 'utf-8'
-    File.read("_site/feed/index.xml")
+    puts request.user_agent
+    if request.user_agent =~ /FeedBurner/
+      content_type 'application/atom+xml', :charset => 'utf-8'
+      File.read("_site/feed/index.xml")
+    else
+      redirect 'http://feeds.feedburner.com/flatterline', 301
+    end
   end
 
   # Blitz.io routes
