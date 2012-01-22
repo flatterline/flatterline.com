@@ -11,7 +11,7 @@
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-01-22T15:15:50-07:00</updated>
+  <updated>2012-01-22T15:17:19-07:00</updated>
 
   
     <entry>
@@ -65,6 +65,120 @@
       <summary>Launchspot is an incubator in Tempe offering coworking space and funding to startups. Read more about how the program works and how to apply.</summary>
       <title>Rapid Pitch Event at LaunchSpot</title>
       <updated>2012-01-19T00:00:00-07:00</updated>
+    </entry>
+  
+    <entry>
+      <author>
+        <name>Ralph Miller</name>
+        <uri>http://flatterline.com/team/ralph-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;Sitting casually across from me, he could be anyone, anywhere. Just looking at him, or even speaking with him, you'd never know that this is a man who went from using his media center as a server for his startup to raising $1.5 million for that very same tech startup&amp;hellip; and in Arizona!&lt;/p&gt;
+
+&lt;p&gt;Although Paul takes a relaxed attitude, he's not afraid to speak his mind and stand by his beliefs. In this article, he shares his intimate thoughts on entrepreneurship, startups, funding and, most of all, what worked and what didn't.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What startups have you been involved with in the past?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My first startup was Cork Office. It was suppose to be an online office. Ironically, it was a lot like Facebook; right product, wrong market. So I came close&amp;hellip; but it's not quite the same.&lt;/p&gt;
+
+&lt;p&gt;The next one was an IT service. We were able to remotely analyze what kind of software you were running and tell when you needed an update.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;I realized the industry is more about connections.&quot;&gt;
+After that one, I got tired of doing B2B projects, just going in and competing against companies like Microsoft, and I realized the industry is more about connections. At that time I was only 23, and someone who's 23 doesn't have a lot of connections. So at some point I realized this project was DNR and just let it go.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a learning experience, and after that I said no more B2B. That's when I did something called One-a-Month, which I think every developer should do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tell me more about One-a-Month.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I basically developed a project each month. And the rules were simple, one weekend, and it couldn't interfere with anything social. So if a friend called me and said, let's go to coffee, I'd go. I had to start it on Friday night and finish it by Sunday night. And finish it meant push it out to the web.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I did really quick projects, but they started getting more elaborate.&lt;/p&gt;
+
+&lt;p&gt;That was fun, but it was a learning experience. That's when I was learning &lt;a href=&quot;http://python.org/&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt;. And a couple months into it, that's when I created this last start up that I just came out of. I put it up and it was a terrible website; just download this plugin and run it on WordPress. But then the Denver Post started using it.&lt;/p&gt;
+
+&lt;p&gt;I logged in one day and the server was down. The server was a machine inside my house that was also my media center. So while I'm watching Netflix, it's serving this startup. That's called bootstrapping, right?&lt;/p&gt;
+
+&lt;p&gt;You do what you have to do, right? Because it worked. So when my server went down, I moved everything to Amazon EC2. Of all the One-a-Months I was doing, this is the one that got traction. And I thought, why not go with it?&lt;/p&gt;
+
+&lt;p&gt;So I started pursuing it. Raised a lot of money, put together a team, and made all the mistakes that a funded startup can make.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was your experience raising money for a tech startup?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent a year, just working on raising money. Going to investor pitches, writing business plans, putting together one pagers, rehearsing my elevator pitch, walking into every writing workshop on how to write a pitch and pitch investors. I was raising money in Arizona, this wasn't Silicon Valley&amp;hellip; so it's not like I could walk over to a different investor event ever week.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of investor events in Arizona, but they're more like get togethers for people who have money to invest. So if you just find one or two, people will invite you to the rest. You may go to some events that aren't investor events, but when you look around at all the people, you think, this is just like an investor event.&lt;/p&gt;
+
+&lt;p&gt;The reason for that is Phoenix was historically a real estate town. So the predominant story among investors is: &lt;em&gt;&quot;I made a lot of money in real estate, I can't make money in real estate now, my friend told me I can make money in startups.&quot;&lt;/em&gt; And that's pretty much the way it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what would you say was the key factor for you to raise money?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of it is luck, and a lot of persistence. I applied at ASU, through something called Angelsoft, now called &lt;a href=&quot;http://www.gust.com/&quot;&gt;Gust&lt;/a&gt;. I submitted my information and someone found it. Then I got a call from someone at ASU saying, &lt;em&gt;&quot;We'd like to set up an interview.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;When you meet your first investor, it's a lot like dating.&quot;&gt;
+We met for lunch. We had Greek or Italian or something. When you meet your first investor, it's a lot like dating. You go out, you see if you like them. You have to be nice, they're trying to be nice, then you go through a period where you're both not so nice, then you realize what their true colors are.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;So you date your first investor for a while, then he decides to introduce you to his friends. It's just like a girlfriend, you date her and then she decides that you're good enough to meet her friends. So you end up meeting his or her friends, and at some point you don't actually do the money raising. It's the first investor that you bring in that sees the potential, then they reach out to their friends and convince them. That surprised me cause I always thought you were looking for lots of investors, and what you're really looking for is an investor rep. I've talked with a lot of other entrepreneurs, and they've corroborated that.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen.&quot;&gt;
+After a while it's autopilot. The moment you decide to raise money, you know what you need to do, you just don't know what's going to happen. So you just keep going through the motions, and at some point you get that one investor that starts introducing you to other investors. Then you wake up one day and you get a phone call from your investor/girlfriend who says, &lt;em&gt;&quot;ok, I'm going to write the first check, he's going to write the second check&quot;&lt;/em&gt;, and you set up the office and start hiring a team.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was the negotiation process like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It's painful&amp;hellip; I don't know if I can talk about the specific details about our contract, but it comes down to getting a good lawyer. Get a good lawyer if it's your first funding. 'Cause if it's your first time taking funding, chances are the investor is going to recommend a lawyer and chances are they're going to be friends with that lawyer, so you need to be careful about what you sign.&lt;/p&gt;
+
+&lt;p&gt;So it's unavoidable you're going to need a lawyer. Because just as you're afraid, the investor and his friends are just as wary. It's not that they don't trust you, they just don't want any loopholes.&lt;/p&gt;
+
+&lt;p&gt;You may want to do convertible debt notes, that's the big thing right now.&lt;/p&gt;
+
+&lt;p&gt;Now, having said all that, I would say, don't raise money. The reason I say don't raise money is, we had a startup that went for three years with funding. And we started running out of money, so we had a decision: do we raise more money or pivot?&lt;/p&gt;
+
+&lt;p&gt;Looking back, what surprised me is that we made more progress in the last 2 two months then we did in the previous three years. So that set off red flags in my head. I said, &lt;em&gt;&quot;if we can do as much with two employees in a few months what I did in three years with eight employees, why would I raise money?&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;Having a lot of money gives you permission to mess up. Not having money, and having to bootstrap it forces you to think really, really hard.&quot;&gt;
+That's stuck with me. It's about having the right team and making the right choices. Having a lot of money gives you permission to mess up. Not having money, and having to bootstrap it forces you to think really, really hard.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, I feel fortunate that I had a multi-million dollar education about how &lt;strong&gt;not&lt;/strong&gt; to do a startup. So it's kind of a catch-22. If its your first start up, raise money, but go into it knowing that you're going to make a lot of mistakes, and make sure you take notes along the way.&lt;/p&gt;
+
+&lt;p&gt;When we were raising the money it was euphoria, and it's exciting. And if you have the ability to consistently turnaround startups, then yeah, raise money. But don't raise money thinking the money's going to solve your problems. Raise money because you know exactly how you're gong to apply it and exactly what you're going to use it. And the answer isn't: development&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Take marketing&amp;hellip; even the word marketing is too general. Instead, say, here's our travel budget, these are the seven companies were going to meet with, here's how much we're going to spend on dinners. It's gotta be ironclad. The reason you do that is because if something doesn't work, you stop doing it.&lt;/p&gt;
+
+&lt;p&gt;Of course, crazy ideas work. Look at Groupon. They spent a ridiculous amount of money throwing parties and throwing crazy ad campaigns. I still contend they haven't really made money because they've made less than they spent, but by their standards, they're a success.&lt;/p&gt;
+
+&lt;p&gt;So there will always be the argument that if you raise enough money, you can pay your way to success. But that's not how businesses really work. Those are outliers. You can say, this company succeeded doing this&amp;hellip; well, yes, but the number of companies that didn't succeed doing that is much greater, and chances are, you're going to fall into that last group.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your thoughts on bootstrapping?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;To me, bootstrapping is about finding a business model that you can execute, within your means. Period.&quot;&gt;
+A lot of people think bootstrapping is about not raising money. To me, bootstrapping is about finding a business model that you can execute, within your means. Period.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;What that means is, well, for developers, it's like, I can code that. But just because you can code it doesn't mean you can sell it. It doesn't mean you know the right people. I could probably develop software for the Boeing 747. But I'm not going to knock on Boeing's door and some guy's going to buy it from me. So I could spend a lot of energy on it, but odds are, I'm not going to be able to sell it. But some guy who used to work for Boeing, who's their ex-chief engineer, could probably sell it in 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;So find something that fits your ability to create it, sell it, maintain it, promote it. That's where funding can come in. Sometimes blind luck works, but you have to find the right team and make sure your product is the right fit.&lt;/p&gt;
+
+&lt;p&gt;In a bootstrap, the most important part is, you have to make some money on it. So make sure you have a viable product, and it's selling. Then, raise money to scale it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have for other entrepreneurs and startups?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Launch your product to your customers, not your friends. Friends are great, but you should be more interested in marketing to actual customers than getting feedback about how cool your project is.&lt;/p&gt;
+
+&lt;p&gt;And make a profit from your first customer. A lot of people think, we're going to make money eventually. If you spend a dollar, and you make two, your odds are much better than if its the other way around. Make it a clear, simple monetization model.&lt;/p&gt;
+
+&lt;p&gt;Look at apps, they do one thing. And they'll charge you 99 cents to get it. Mobile devices are just connections to the Internet and apps are just a clean way of selling little snippets of functionality.&lt;/p&gt;
+
+&lt;p&gt;I think websites are going to go down that route too. They're going to learn something from the mobile space. Instead of building a website that does a million things under the sun, build a website that does one thing and charge people 99 cents for it. There are so many websites, that you really can't count on people repeatedly coming back to your website in order for you to make money from advertising.&lt;/p&gt;
+
+&lt;p&gt;So when you're picking a model, pick something that you can charge for right away and set the expectation that you're going to charge for it. The great thing about that is, you're going to be able to tell right away if people are interested in your product. If someone's not willing to pay $10, charge $5. If not $5, charge $1. If you can't sell it for 10 cents, stop selling it.&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora</id>
+      <link href="http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora"/>
+      <summary>In the first of our Entrepreneurship Series blog posts, we interview Paul Kenjora, an entrepreneur who raised $1.5 million in Arizona for his tech startup. In this interview, he talks about lessons learned from running a funded startup.</summary>
+      <title>Entrepreneurship Series: Interview with Paul Kenjora</title>
+      <updated>2012-01-12T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -795,26 +909,6 @@ $ swapon /dev/sda2
       <summary>SXSW in Austin is the first of Flatterline's planned business adventures. We plan to raise hell, but we're not going alone. Find out who'll be there to hold back our hair.</summary>
       <title>SXSW Interactive 2009: Flatterline will be there!</title>
       <updated>2009-03-09T00:00:00-07:00</updated>
-    </entry>
-  
-    <entry>
-      <author>
-        <name>Chris Chandler</name>
-        <uri>http://flatterline.com/team/chris-chandler</uri>
-      </author>
-      <content type="html">&lt;p&gt;Tomorrow marks the last day of the first full week of Flatterline operations, and let me say it's been awesome.&lt;/p&gt;
-
-&lt;p&gt;First and foremost, I would like to thank everyone that's wished us luck on this endeavor! All the support has really meant a lot to us. I would also like to thank everyone that has so innocently asked &quot;Dude, why do you still have the default WordPress post up?&quot; The essential answer is that everything came together so quickly for Curtis and I to put this company together that getting some content up became a secondary-but-still-really-high-priority item. Which I am now rectifying...&lt;/p&gt;
-
-&lt;p&gt;That being said, the weeks ahead are going to be busy. Amazingly wonderful and deliciously busy. Next Thursday Curtis and I, along with several other cohorts, will be trekking out to Texas for SXSW. We plan on spending some time to really get the name out there, so if you're going please help spread the word to your entrepreneur friends (more on why we're focusing on this segment to come!). We're also going to be looking to make this page a little more &quot;custom&quot;. Sure, it's a nice theme but it would benefit from a logo (which we don't have) and some more style (which we have, but not in CSS form).&lt;/p&gt;
-
-&lt;p&gt;Personality Flatline has taken a temporary hiatus while we are getting everything in motion, but rest assured the content on my harddrive that was recorded mid-December is still both salient and awesome. If we do it right, all the references to &quot;the holidays&quot; will seamlessly sound like Easter.&lt;/p&gt;
-</content>
-      <id>http://flatterline.com/blog/2009/03/06/in-the-beginning</id>
-      <link href="http://flatterline.com/blog/2009/03/06/in-the-beginning"/>
-      <summary>Whew... what a week! Flatterline has been extremely busy and productive doing what we love: working with awesome clients to build kick-ass web applications. What's up next for us?</summary>
-      <title>In the beginning...</title>
-      <updated>2009-03-06T00:00:00-07:00</updated>
     </entry>
   
 </feed>

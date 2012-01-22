@@ -45,6 +45,10 @@
       <lastmod>2012-01-22</lastmod>
   </url>
   <url>
+      <loc>http://flatterline.com/blog/page/3</loc>
+      <lastmod>2012-01-22</lastmod>
+  </url>
+  <url>
       <loc>http://flatterline.com/blog/2012</loc>
       <lastmod>2012-01-22</lastmod>
   </url>
@@ -183,6 +187,11 @@
   <url>
       <loc>http://flatterline.com/blog/2012/01/19/rapid-pitch-event-at-launchspot</loc>
       <lastmod>2012-01-19</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora</loc>
+      <lastmod>2012-01-12</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
