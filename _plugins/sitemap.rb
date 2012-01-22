@@ -15,6 +15,7 @@
 # site, and generate an entry in sitemap.xml for each one.
 
 require 'pathname'
+require 'zlib'
 
 module Jekyll
 
@@ -59,8 +60,16 @@ module Jekyll
         f.close
       end
 
+      # GZip the sitemap
+      File.open(File.join(site_folder, 'sitemap.xml.gz'), 'w') do |f|
+        gz = ::Zlib::GzipWriter.new(f)
+        gz.write IO.binread(File.join(site_folder, 'sitemap.xml'))
+        gz.close
+      end
+
       # Add a static file entry for the zip file, otherwise Site::cleanup will remove it.
       site.static_files << Jekyll::StaticSitemapFile.new(site, site.dest, '/', 'sitemap.xml')
+      site.static_files << Jekyll::StaticSitemapFile.new(site, site.dest, '/', 'sitemap.xml.gz')
     end
 
   private
