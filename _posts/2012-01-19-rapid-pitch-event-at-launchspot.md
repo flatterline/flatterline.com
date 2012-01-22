@@ -2,7 +2,7 @@
 author: Ralph Miller
 excerpt:
   Launchspot is an incubator in Tempe offering coworking space and funding
-  to startups. Read more about how the program works and how to apply.
+  to startups. Read more about how the program works and how to apply. 
 layout: post
 tags:
 - incubator
@@ -42,4 +42,4 @@ And the [judges](http://rapidpitch.launchspot.com/judges/) are...
 *   Jeffrey Pruitt, Partner & CEO Tallwave
 *   Allan Kaplan, Managing Partner KG Investments, LLC
 
-[Connect with LaunchSpot on Facebook](http://www.facebook.com/LaunchSpot).
+[Connect with LaunchSpot on Facebook](http://www.facebook.com/LaunchSpot). 4DXUSJ34ZEUT

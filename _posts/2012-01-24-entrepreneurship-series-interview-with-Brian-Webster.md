@@ -2,7 +2,7 @@
 author: Ralph Miller
 excerpt:
   In the second of our Entrepreneurship Series blog posts, we interview
-  Brian Webster of Fat Cat Software.
+  Brian Webster of Fat Cat Software, who took a self-learning project to a full time development job. Brian shares his insights and challenges about being a developer and founder, his unique position as an iOS developer, the importance of allocating tasks to other people as your business grows, and the importance of allowing user feedback to drive product development.
 image:
   url: /images/brian-webster.jpg
   title: Brian Webster
@@ -28,7 +28,7 @@ I'm currently a one-man software company, [Fat Cat Software](http://fatcatsoftwa
 
 I wish I could say I had some grand plan like I'm going to start my own business, but it really just kinda happened...
 
-iPhoto Library Manager originally started out as a programming project to teach myself Mac OS X programming. iPhoto had just come out when I graduated from college, and I hadn't found a job yet, so I had a lot of free time on my hands. I wrote this little program that would allow people to switch between libraries, because iPhoto library only allows for one library. I did it as freeware and Apple updated a year later and I did an update and still remained free.
+iPhoto Library Manager originally started out as a programming project to teach myself Mac OS X programming. iPhoto had just come out when I graduated from college, and I hadn't found a job yet, so I had a lot of free time on my hands. I wrote this little program that would allow people to switch between libraries, because iPhoto only allows for one library. I did it as freeware and Apple updated a year later and I did an update and still remained free.
 
 {% pullquote left %}
 As time went along, I got email, and people asking to be able to do other things. Eventually, it was a combination of me getting enough of these emails and iPhoto expanding its capabilities.  At that time I was working for a Mac development company for a couple years. My then girlfriend, now wife, was up in grad school, and I had plenty of free time in the evenings; basically I had no life. I'd go to my job and program all day, then I'd come home and work on my own programming. I was just kinda plunking away on it as a side project.  {" Eventually I said, what the heck, I'll try charging $20 for it, and it just kinda took off. "} Lots of people needed it; lots of people liked it. Within about a year, I was making as much for that as I was from my current job. Once it got to that point, I decide to transition over and do that full time. And I've been doing it ever since.
@@ -64,9 +64,13 @@ I go back and forth on the best way to do trial limitations for software, becaus
 
 **How do you sell your app?**
 
-The Mac app store has guidelines for what apps that are in the store are allowed to do and I fall outside of those guidelines. So I sell everything through my own online store. For that I use Potion Store, an [open source Ruby on Rails web store](http://www.potionfactory.com/potionstore). It's on GitHub, and I'm not Rails expert, but I was able to learn enough to make the change and updates I need.
+I started by selling everything through my own online store. For that I use Potion Store, an [open source Ruby on Rails web store](http://www.potionfactory.com/potionstore). It's on GitHub, and I'm not Rails expert, but I was able to learn enough to make the change and updates I need.
 
-I have a total of over 90,000 customers and growing. The curve has gone up over time. Apple's selling more and more computers with people using iPhoto. As their user base grows, my customer base grows too. I'm in a really good situation.
+**Why not sell through the Mac App Store?**
+
+When I first started, the app store didn't exist. And of course, the Mac app store has guidelines for what apps in the store are allowed to do. I fall outside of those guidelines. So I've never tried to sell there.
+
+But the curve for the number of users for my app has gone up over time. Apple's selling more and more computers with people using iPhoto. As their user base grows, my customer base grows too. I'm in a really good situation.
 
 **How do you spend your day?**
 

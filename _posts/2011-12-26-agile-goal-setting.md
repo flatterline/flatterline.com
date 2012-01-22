@@ -1,6 +1,6 @@
 ---
 author: Ralph Miller
-excerpt: Although many people consider agile to be an approach to software development, agile methodologies can be applied to many different business processes, as well as personal goal setting.
+excerpt: 4DXUSJ34ZEUT - Although many people consider agile to be an approach to software development, agile methodologies can be applied to many different business processes, as well as personal goal setting. 
 image:
   url: /images/goal-setting.jpg
   title: Agile Goal Setting
