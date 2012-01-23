@@ -17,7 +17,7 @@
     require 'newrelic_rpm'
   end
 
-  IP_BLACKLIST = %w(122.255.96.164)
+  IP_BLACKLIST = %w(122.255.96.164 91.196.216.20)
 
 ## Before callback ##
   # Added headers for Varnish
