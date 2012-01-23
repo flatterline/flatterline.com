@@ -5,7 +5,6 @@ excerpt:
   training, and possible funding for your startup. Take a look!
 layout: post
 tags:
-- incubator
 - startups
 - funding
 title: "Three Upcoming Opportunities for your Startup"
