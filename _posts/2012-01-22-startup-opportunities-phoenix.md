@@ -10,7 +10,7 @@ tags:
 title: "Three Upcoming Opportunities for your Startup"
 ---
 
-Thinking about starting a business in the Phoenix area? Or maybe you have an existing startup that just needs a little help to expand? You're in luck, because in this post, we'll cover three upcoming opportunities for your startup business to get some awesome training, experience, publicity and in some instances, possible funding. These all take place in the Phoenix area, including Mesa, Tempe, Chandler and Gilbert.
+Thinking about starting a business in the Phoenix area? Or maybe you have an existing startup that just needs a little help to expand? You're in luck, because in this post, we'll cover three upcoming opportunities for your startup business to get some awesome training, experience, publicity and in some instances, possible funding. These all take place in the Phoenix area, including Mesa, Tempe and Gilbert.
 
 ### Mesa New Venture Accelerator
 
