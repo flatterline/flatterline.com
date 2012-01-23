@@ -18,7 +18,7 @@ This is an opportunity for Mesa startup businesses to get ten weeks of training 
 Check out [Stealthmode's Mesa New Venture Accelerator](http://blog.stealthmode.com/work-with-francine/fasttrac-new-venture-in-mesa-enrolling-now/) for more information.
 
 ## Roadmap to Launch 2012 - 
-It looks like the team over at Gangplank has put together a great program. Roadmap to Launch starts February 3rd with a weekend kickstart product development. Then, you'll meet every Tuesday from 5:30-8:30pm. In addition, you'll have weekly meetings with a team counselor to track your progress, and there will be three opportunities to practice you pitch, and a full day of PR training.
+It looks like the team over at Gangplank has put together a great program. Roadmap to Launch starts February 3rd with a weekend kickstart product development. Then, you'll meet every Tuesday from 5:30-8:30pm. In addition, you'll have weekly meetings with a team counselor to track your progress, three opportunities to practice your pitch, and a full day of PR training.
 
 Check out [GangPlank's Roadmap to Launch](http://gangplankhq.com/2012/01/roadmap-to-launch-2012/) for more information.
 
@@ -26,7 +26,9 @@ Check out [GangPlank's Roadmap to Launch](http://gangplankhq.com/2012/01/roadmap
 
 Maker Week begins February 16th and is put on through the ASU College of Technology and Innovation (CTI). Maker Week is free and 'is designed to inspire a passion for building, creating and making among students, teachers, and anyone who ever looked at a mousetrap and thought: 'You know, I could make that better.'"
 
-Events will include Maker Pitch, Maker Faire and the Making Your Future conference. Entrepreneurs can get experience and practice pitching their innovations and startup ideas at the idea pitch event. If you wish to pitch, [apply here](https://technology.asu.edu/makerweek/makerpitch/form).
+Events will include Maker Pitch, Maker Faire and the Making Your Future conference. 
+
+The Maker Pitch is and idea pitch event where entrepreneurs can get experience and practice pitching their innovations and startup ideas. If you wish to pitch, [apply here](https://technology.asu.edu/makerweek/makerpitch/form).
 
 The Faire will consist of demonstrations, workshops and other hands-on challenges. If have a project you'd like to be included, here's the [Maker Faire Call for Entries](https://docs.google.com/spreadsheet/viewform?formkey=dHMzR0lZUHZxeFY1NzFmWjRoV2FVVWc6MQ).
 
