@@ -10,7 +10,7 @@ tags:
 title: "Three Opportunites for Your Startup"
 ---
 
-Thinking about starting a business in the Phoenix area? Or maybe you have an existing startup that just needs a little help to expand? You're in luck, because in this post, we'll cover three upcoming opportunites for your startup business to get some awesome training, experience, publicity and in some instances, possible funding. These all take place in the Phoenix area, including Mesa, Tempe, Chandler and Gilbert. 
+Thinking about starting a business in the Phoenix area? Or maybe you have an existing startup that just needs a little help to expand? You're in luck, because in this post, we'll cover three upcoming opportunites for your startup business to get some awesome training, experience, publicity and in some instances, possible funding. These all take place in the Phoenix area, including Mesa, Tempe, and Gilbert. 
 
 ## Mesa New Venture Accelerator
 This is an opportunity for Mesa startup businesses to get ten weeks of training beginning February 2, 2012. You'll meet every Thursday evening from 5:30-8:30 for the founder roundtable, which aims to help you start and grow your business. Experienced mentors will be available to help in the realms of retail, manufacturing, health care, software, and information technology businesses.
