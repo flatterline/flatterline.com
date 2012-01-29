@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
       <loc>http://flatterline.com/404.html</loc>
-      <lastmod>2011-12-21</lastmod>
+      <lastmod>2011-12-13</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/500.html</loc>
-      <lastmod>2011-12-21</lastmod>
+      <lastmod>2011-12-13</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/agile-development</loc>
-      <lastmod>2011-12-07</lastmod>
+      <lastmod>2011-12-06</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/blog</loc>
-      <lastmod>2011-12-02</lastmod>
+      <lastmod>2011-12-01</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/contact</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-03</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/feed/index.xml</loc>
-      <lastmod>2012-01-22</lastmod>
+      <lastmod>2012-01-21</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-13</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/code-audits</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-02</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/ruby-on-rails-development</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-02</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/services/search-engine-marketing</loc>
-      <lastmod>2011-12-05</lastmod>
+      <lastmod>2011-12-02</lastmod>
   </url>
   <url>
       <loc>http://flatterline.com/blog/page/2</loc>
@@ -185,7 +185,7 @@
       <lastmod>2012-01-29</lastmod>
   </url>
   <url>
-      <loc>http://flatterline.com/blog/2012/01/27/ASU-Startup-Summit-Pitches</loc>
+      <loc>http://flatterline.com/blog/2012/01/27/asu-startup-summit-pitches</loc>
       <lastmod>2012-01-27</lastmod>
       <changefreq>never</changefreq>
   </url>

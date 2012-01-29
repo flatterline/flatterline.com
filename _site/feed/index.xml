@@ -11,7 +11,7 @@
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-01-29T13:12:30-08:00</updated>
+  <updated>2012-01-29T14:20:06-07:00</updated>
 
   
     <entry>
@@ -19,136 +19,268 @@
         <name>Ralph Miller</name>
         <uri>http://flatterline.com/team/ralph-miller</uri>
       </author>
-      <content type="html">&lt;h2&gt;List of Funding Pitches at the 2012 ASU Startup Summit&lt;/h2&gt;
+      <content type="html">&lt;p&gt;We recently attended the 2012 ASU Startup Summit and were fortunate enough to have an excellent seat for recording the pitches. There were some really interesting pitches this year so, if you missed it, check out the companies and their funding pitches below.&lt;/p&gt;
 
-&lt;p&gt;We realize you may not want to watch all 15 funding pitch videos, so just click on the one you're interested in below, and it will take you to the video of the company doing their funding pitch. Or watch all the funding pitch videos, just know there's about 2.5 hours of video here, each one is about 10 minutes.&lt;/p&gt;
+&lt;h3&gt;List of Funding Pitches at the 2012 ASU Startup Summit&lt;/h3&gt;
 
-&lt;table border=&quot;0&quot;&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch1&quot; title=&quot;&quot;reNature startup funding pitch&quot;&gt;ReNature&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch2&quot; title=&quot;&quot;Arizona Pro DJs startup funding   pitch&quot;&gt;Arizona Pro DJs&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch3&quot; title=&quot;&quot;Bright Evolutions startup funding pitch&quot;&gt;Bright Evolutions&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch4&quot; title=&quot;&quot;Baby Cate startup funding pitch&quot;&gt;Baby Cate&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch5&quot; title=&quot;&quot;Mercury Innovation startup funding pitch&quot;&gt;Mercury Innovation&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch6&quot; title=&quot;&quot;Bridge Communications startup funding pitch&quot;&gt;Bridge Communications&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch7&quot; title=&quot;&quot;Arbsource startup funding pitch&quot;&gt;Arbsource&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch8&quot; title=&quot;&quot;Ellens Technologies startup funding pitch&quot;&gt;Ellens Technologies&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch9&quot; title=&quot;&quot;Bebe EcoPosh startup funding pitch&quot;&gt;Bebe EcoPosh&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch10&quot; title=&quot;&quot;Seymore Enterprises startup funding pitch&quot;&gt;Seymore Enterprises&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch11&quot; title=&quot;&quot;BlueDream startup funding pitch&quot;&gt;BlueDream&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch12&quot; title=&quot;&quot;KVZ Sports startup funding pitch&quot;&gt;KVZ Sports&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch13&quot; title=&quot;&quot;G3Box startup funding pitch&quot;&gt;G3Box&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch14&quot; title=&quot;&quot;eEcosphere startup funding pitch&quot;&gt;eEcosphere&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&quot;#pitch15&quot; title=&quot;&quot;Vantaged Realized startup funding pitch&quot;&gt;Vantaged Realized&lt;/a&gt;&lt;/td&gt;
+&lt;p&gt;We realize you may not want to watch all 15 funding pitch videos, so just click on the one you're interested in below, and it will take you to the video of the company doing their funding pitch. Or watch all the funding pitch videos. Just know there are about 2.5 hours of video here; each one is about 10 minutes.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href=&quot;#renature&quot;&gt;ReNature&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#arizona-pro-djs&quot;&gt;Arizona Pro DJs&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#bright-evolutions&quot;&gt;Bright Evolutions&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href=&quot;#baby-cate&quot;&gt;Baby Cate&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#mercury-innovative&quot;&gt;Mercury Innovative&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#bridge-communities&quot;&gt;Bridge Communities&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href=&quot;#arbsource&quot;&gt;Arbsource&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#ellens-technologies&quot;&gt;Ellens Technologies&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#bebe-ecoposh&quot;&gt;Bebe EcoPosh&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href=&quot;#seymour-enterprises&quot;&gt;Seymour Enterprises&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#bluedream&quot;&gt;BlueDream&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#kvz-sports&quot;&gt;KVZ Sports&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href=&quot;#g3box&quot;&gt;G3Box&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#eecosphere&quot;&gt;eEcosphere&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;#vantage-realized&quot;&gt;Vantage Realized&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch1&quot;&gt;
-&lt;a href=&quot;http://www.renatureinc.com/&quot;&gt;reNature&lt;/a&gt; is a Phoenix startup that industrializes the natural processes of decomposition to provide sustainable alternatives to land filling food waste while simultaneously creating alternatives to petrochemical based agricultural products. Here's their funding pitch:&lt;/p&gt;
+
+
+&lt;h3 id=&quot;renature&quot;&gt;reNature&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.renatureinc.com/&quot;&gt;reNature&lt;/a&gt; is a Phoenix startup that industrializes the natural processes of decomposition to provide sustainable alternatives to land filling food waste while simultaneously creating alternatives to petrochemical based agricultural products.&lt;/p&gt;
 
 &lt;iframe title=&quot;reNature startup funding pitch&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/WALk7EUiWlI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch2&quot;&gt;
-&lt;a href=&quot;http://www.azprodjs.com/&quot;&gt;AZ Pro DJs&lt;/a&gt; offers entertainment services including lights, sound and DJ services. Here's their funding pitch:&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;arizona-pro-djs&quot;&gt;Arizona Pro DJs&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.azprodjs.com/&quot;&gt;AZ Pro DJs&lt;/a&gt; offers entertainment services including lights, sound and DJ services.&lt;/p&gt;
 
 &lt;iframe title=&quot;AZ Pro DJs pitches for funing&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/WZjgX4CQxBU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch3&quot;&gt;&lt;/a&gt;
-Bright Evolutions pitches their healthy, flying food app.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;bright-evolutions&quot;&gt;Bright Evolutions&lt;/h3&gt;
+
+
+&lt;p&gt;Bright Evolutions pitches their healthy, flying food app.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/y71xbmgRv1E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch4&quot;&gt;&lt;/a&gt;
-Baby Cate, also known as Simple Swaddle, pitches their custom baby swaddling blankets.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;baby-cate&quot;&gt;Baby Cate&lt;/h3&gt;
+
+
+&lt;p&gt;Baby Cate, also known as Simple Swaddle, pitches their custom baby swaddling blankets.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/NvmK9MUlLzY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch5&quot;&gt;
-&lt;a href=&quot;http://www.mercuryinnovative.com/&quot;&gt;Mercury innovative&lt;/a&gt; creates, tests, and offers unique language analysis and language arts software. Here's their pitch:&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;mercury-innovative&quot;&gt;Mercury Innovative&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.mercuryinnovative.com/&quot;&gt;Mercury Innovative&lt;/a&gt; creates, tests, and offers unique language analysis and language arts software.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/_rTW-zzzIb4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch6&quot;&gt;&lt;/a&gt;
-Bridge Communities pitches for their online community for baby boomers.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;bridge-communities&quot;&gt;Bridge Communities&lt;/h3&gt;
+
+
+&lt;p&gt;Bridge Communities pitches for their online community for baby boomers.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/C9ONbNCLzAo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch7&quot;&gt;
-&lt;a href=&quot;http://www.arbsource.us/&quot;&gt;Arbsource&lt;/a&gt; pitches for funding for their ARBCell biological reactor system, which can cut the cost of wastewater treatment for many food and beverage manufacturing companies by 50% or more through reduced energy consumption and maintenance.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;arbsource&quot;&gt;Arbsource&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.arbsource.us/&quot;&gt;Arbsource&lt;/a&gt; pitches for funding for their ARBCell biological reactor system, which can cut the cost of wastewater treatment for many food and beverage manufacturing companies by 50% or more through reduced energy consumption and maintenance.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/cA6Ly0HCzAM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch8&quot;&gt;
-&lt;a href=&quot;&quot;&gt;Ellens Technologies&lt;/a&gt; pitches their veterinarian app.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;ellens-technologies&quot;&gt;Ellens Technologies&lt;/h3&gt;
+
+
+&lt;p&gt;Ellens Technologies pitches their veterinarian app.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/7d-CzdvX8PA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch9&quot;&gt;
-&lt;a href=&quot;http://www.bebeecoposh.com/&quot;&gt;Bebe EcoPosh&lt;/a&gt; pitches for funding for their green luxury eBoutique for baby.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;bebe-ecoposh&quot;&gt;Bebe EcoPosh&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.bebeecoposh.com/&quot;&gt;Bebe EcoPosh&lt;/a&gt; pitches for funding for their green luxury e-boutique for baby.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/b4bvmr5TB9Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch10&quot;&gt;
-&lt;a href=&quot;http://seymourenterprises.us/&quot;&gt;Seymour Enterprises&lt;/a&gt; pitches for funding for their biomedical firm which is designing a low cost respiratory monitor designed for infants at elevated risk of Sudden Infant Death Syndrome.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;seymour-enterprises&quot;&gt;Seymour Enterprises&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://seymourenterprises.us/&quot;&gt;Seymour Enterprises&lt;/a&gt; pitches for funding for their biomedical firm which is designing a low cost respiratory monitor designed for infants at elevated risk of Sudden Infant Death Syndrome.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/D8FH4xnXXUI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch11&quot;&gt;
-&lt;a href=&quot;http://bluedream.tv/&quot;&gt;BlueDream&lt;/a&gt; pitches for funding for their one-stop production facility which provides branding, production and marketing.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;bluedream&quot;&gt;BlueDream&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://bluedream.tv/&quot;&gt;BlueDream&lt;/a&gt; pitches for funding for their one-stop production facility which provides branding, production and marketing.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/O6sVGENz5oE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch12&quot;&gt;
-&lt;a href=&quot;http://kvzsports.com/&quot;&gt;KVZ Sports&lt;/a&gt; pitches for funding:&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;kvz-sports&quot;&gt;KVZ Sports&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://kvzsports.com/&quot;&gt;KVZ Sports&lt;/a&gt; pitches for funding:&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/_-I5QMtgz48&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch13&quot;&gt;
-&lt;a href=&quot;http://g3box.org/&quot;&gt;G3Box&lt;/a&gt; provides engineering design and manufacturing towards the conversion of steel shipping containers into low-cost, modular, and mobile medical clinics. Here's their funding pitch:&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;g3box&quot;&gt;G3Box&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://g3box.org/&quot;&gt;G3Box&lt;/a&gt; provides engineering design and manufacturing towards the conversion of steel shipping containers into low-cost, modular, and mobile medical clinics.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/8vA1FxiXlMg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch14&quot;&gt;&lt;/a&gt;
-eEcosphere pitches their social came for sustainability.&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;eecosphere&quot;&gt;eEcosphere&lt;/h3&gt;
+
+
+&lt;p&gt;eEcosphere pitches their social came for sustainability.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/dS_EtnmlxAc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;a name=&quot;pitch15&quot;&gt;
-&lt;a href=&quot;http://www.vantagerealized.com/&quot;&gt;Vantage Realized&lt;/a&gt; provides products for people with disabilities. Here's their pitch for a better way to build a wheelchair:&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+
+
+&lt;h3 id=&quot;vantage-realized&quot;&gt;Vantage Realized&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.vantagerealized.com/&quot;&gt;Vantage Realized&lt;/a&gt; provides products for people with disabilities.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/yxj2hffcClY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;Read more about &lt;a href=&quot;http://studentventures.asu.edu/ventures&quot;&gt;ASU Student Ventures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read more about &lt;a href=&quot;http://studentventures.asu.edu/ventures&quot;&gt;ASU Student Ventures&lt;/a&gt;.&lt;/p&gt;
 </content>
-      <id>http://flatterline.com/blog/2012/01/27/ASU-Startup-Summit-Pitches</id>
-      <link href="http://flatterline.com/blog/2012/01/27/ASU-Startup-Summit-Pitches"/>
-      <summary>Fifteen startup companies pitch for funding to a panel of three judges at the 2012 ASU Startup Summit at Arizona Skysong.</summary>
+      <id>http://flatterline.com/blog/2012/01/27/asu-startup-summit-pitches</id>
+      <link href="http://flatterline.com/blog/2012/01/27/asu-startup-summit-pitches"/>
+      <summary>Fifteen startup companies pitch for funding to a panel of three judges at the 2012 ASU Startup Summit at SkySong.</summary>
       <title>Funding Pitch Videos from the 2012 ASU Startup Summit</title>
-      <updated>2012-01-27T00:00:00-08:00</updated>
+      <updated>2012-01-27T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -235,7 +367,7 @@ Writing code is a big part of the business, but replying to emails is the second
       <link href="http://flatterline.com/blog/2012/01/24/entrepreneurship-series-interview-with-brian-webster"/>
       <summary>In the second of our Entrepreneurship Series blog posts, we interview Brian Webster of Fat Cat Software, who took a self-learning project to a full time development job. Brian shares his insights and challenges about being a developer and founder, his unique position as an iOS developer, the importance of allocating tasks to other people as your business grows, and the importance of allowing user feedback to drive product development.</summary>
       <title>Entrepreneurship Series: Interview with Brian Webster</title>
-      <updated>2012-01-24T00:00:00-08:00</updated>
+      <updated>2012-01-24T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -277,7 +409,7 @@ Writing code is a big part of the business, but replying to emails is the second
       <link href="http://flatterline.com/blog/2012/01/22/startup-opportunities-phoenix"/>
       <summary>Here are three upcoming opportunities in Phoenix to get support, publicity, training, and possible funding for your startup. Take a look!</summary>
       <title>Three Upcoming Opportunities for your Startup</title>
-      <updated>2012-01-22T00:00:00-08:00</updated>
+      <updated>2012-01-22T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -330,7 +462,7 @@ Writing code is a big part of the business, but replying to emails is the second
       <link href="http://flatterline.com/blog/2012/01/19/rapid-pitch-event-at-launchspot"/>
       <summary>Launchspot is an incubator in Tempe offering coworking space and funding to startups. Read more about how the program works and how to apply.</summary>
       <title>Rapid Pitch Event at LaunchSpot</title>
-      <updated>2012-01-19T00:00:00-08:00</updated>
+      <updated>2012-01-19T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -444,7 +576,7 @@ A lot of people think bootstrapping is about not raising money. To me, bootstrap
       <link href="http://flatterline.com/blog/2012/01/12/entrepreneurship-series-interview-with-paul-kenjora"/>
       <summary>In the first of our Entrepreneurship Series blog posts, we interview Paul Kenjora, an entrepreneur who raised $1.5 million in Arizona for his tech startup. In this interview, he talks about lessons learned from running a funded startup.</summary>
       <title>Entrepreneurship Series: Interview with Paul Kenjora</title>
-      <updated>2012-01-12T00:00:00-08:00</updated>
+      <updated>2012-01-12T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -478,7 +610,7 @@ and social media.&lt;/p&gt;&lt;/li&gt;
       <link href="http://flatterline.com/blog/2012/01/09/startup-america-partnership"/>
       <summary>The Startup America Partnership offers resources, tools, marketing opportunities and access to capital to startups to help America's top young companies grow and create jobs.</summary>
       <title>Startup America Partnership</title>
-      <updated>2012-01-09T00:00:00-08:00</updated>
+      <updated>2012-01-09T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -516,7 +648,7 @@ and social media.&lt;/p&gt;&lt;/li&gt;
       <link href="http://flatterline.com/blog/2012/01/05/what-my-midwife-taught-me-about-local-seo"/>
       <summary>Google says 90% of search is local, but many local businesses have no idea what they're doing. Which leaves things wide open for you if you just follow the strategy I lay out in this article. Kudos to my midwife for the inspiration!</summary>
       <title>What My Midwife Taught Me About Local SEO</title>
-      <updated>2012-01-05T00:00:00-08:00</updated>
+      <updated>2012-01-05T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -540,7 +672,7 @@ and social media.&lt;/p&gt;&lt;/li&gt;
       <link href="http://flatterline.com/blog/2012/01/04/coworking-in-phoenix"/>
       <summary>We're a small company, but we love connecting and contributing to our community. That's why we're regular drop-in members at CO+HOOTS coworking in central Phoenix.</summary>
       <title>Coworking in Phoenix</title>
-      <updated>2012-01-04T00:00:00-08:00</updated>
+      <updated>2012-01-04T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -605,7 +737,7 @@ and social media.&lt;/p&gt;&lt;/li&gt;
       <link href="http://flatterline.com/blog/2012/01/02/AZ-disruptors-funding-for-startups"/>
       <summary>If you're a tech startup company, don't miss this opportunity for funding. In exchange for 10% of your startup, AZ Disruptors will give you cash, a place to work, and mentors to help guide you.</summary>
       <title>AZ Disruptors Provides Funding For Startups</title>
-      <updated>2012-01-02T00:00:00-08:00</updated>
+      <updated>2012-01-02T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -677,7 +809,7 @@ and social media.&lt;/p&gt;&lt;/li&gt;
       <link href="http://flatterline.com/blog/2011/12/26/agile-goal-setting"/>
       <summary>4DXUSJ34ZEUT - Although many people consider agile to be an approach to software development, agile methodologies can be applied to many different business processes, as well as personal goal setting.</summary>
       <title>3 Methods for Goal Setting</title>
-      <updated>2011-12-26T00:00:00-08:00</updated>
+      <updated>2011-12-26T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -719,7 +851,7 @@ please contact us and we'll be happy to help out. You can also peruse the source
       <link href="http://flatterline.com/blog/2011/12/20/presentation-jekyll-static-site-generator"/>
       <summary>Curtis gave a short presentation on the Jekyll static site generator for Ruby at the Dec 2011 Ruby AZ meetup. He discussed the benefits, usage and even a few gotchas found along the way.</summary>
       <title>Presentation: The Jekyll Static Site Generator</title>
-      <updated>2011-12-20T00:00:00-08:00</updated>
+      <updated>2011-12-20T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -776,7 +908,7 @@ So that I GET SOME VALUE
       <link href="http://flatterline.com/blog/2009/12/16/gathering-requirements-through-story-workshops"/>
       <summary>Flatterline uses a technique called a story workshop to gather project requirements. Find out more about how we use this technique to provide value to our clients.</summary>
       <title>Gathering Requirements Through Story Workshops</title>
-      <updated>2009-12-16T00:00:00-08:00</updated>
+      <updated>2009-12-16T00:00:00-07:00</updated>
     </entry>
   
     <entry>
@@ -802,7 +934,7 @@ So that I GET SOME VALUE
       <link href="http://flatterline.com/blog/2009/11/11/developer-ignite-phoenix-real-world-cryptography"/>
       <summary>Hear our (video) take on cryptography in the real world as voiced by Chandler at the first Developer Ignite in Phoenix. You might be surprised at what you learn.</summary>
       <title>Developer Ignite Phoenix: Real World Cryptography</title>
-      <updated>2009-11-11T00:00:00-08:00</updated>
+      <updated>2009-11-11T00:00:00-07:00</updated>
     </entry>
   
     <entry>
