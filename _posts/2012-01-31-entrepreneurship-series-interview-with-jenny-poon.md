@@ -34,7 +34,7 @@ I went to the Arizona Republic. I was art director of their local magazine, [AZ 
 **Did that make you want to start your own business?**
 
 {% pullquote left %}
-I remember growing up thinking, "I'll never be in a job I really love, cause that just doesn't happen." Kids grow up thinking that. They say, "I'm going to be a doctor because everyone says I should be a doctor." And they think about how they're going to work for somebody else. I think you have to work for somebody, so you know how to run your own business. {"I love running my own business!"}
+Yes, but I remember growing up thinking, "I'll never be in a job I really love, cause that just doesn't happen." Kids grow up thinking that. They say, "I'm going to be a doctor because everyone says I should be a doctor." And they think about how they're going to work for somebody else. I think you have to work for somebody, so you know how to run your own business. {"I love running my own business!"}
 {% endpullquote %}
 
 My parents own a busines. They've run their own business for a really long time...since I was born. I had to work in the restaurant and I had to go work in the restaurant every day after shcool. I remember thinking, "This is terrible. My parents are always at work and I always have to be there helping. I never want to run my own business."
@@ -49,17 +49,17 @@ But this isn't a restaurant, so I still take vacations, and I work from home whe
 
 My company, [Ecco Studio](http://www.eekostudio.com/) grew out of one of those things I was passionate about: sustainability. I see the benefit in solar and being more sustainabe, so I thought, "How can I help them with their cause?" I started searching out sustainable companies and hearing their stories, and learning about what they do. The ones that won me over were the ones I ended up working with.
 
-And that's what Ecco ended up being about--finding clients and things to do that I'm passionate about. Anything that needs design help. Good ideas need good help. Ecco Studio has made a name out of helping small businesses brand themselves. We do logos, print advertising, web design, online advertising. 
+And that's what Ecco ended up being about--finding clients and things to do that I'm passionate about. Anything that needs design help. Good ideas need good help. Ecco Studio has made a name out of helping small businesses brand themselves. We do logos, print advertising, web design, and online advertising. 
 
 **How did you market your business?**
 
-I've been really fortunate to not have to do much marketing. From the time I launched Ecco Studios, I had clients waiting to work with me. So when I launched, I had a flurry of work. It was great, but in the back of my head, I was always nervous about where my next paycheck was coming from. Am i going to pay the bills in six months? I always have 6-8 months leeway on everything. 
+I've been really fortunate to not have to do much marketing. From the time I launched Ecco Studios, I had clients waiting to work with me. So when I launched, I had a flurry of work. It was great, but in the back of my head, I was always nervous about where my next paycheck was coming from. I wondered, "Am I going to be able to pay the bills in six months?" So I always have 6-8 months leeway on everything. 
 
 {% pullquote left %}
 {"I love being in this community of people that are passionate about everything they're doing."} So I asked, "How do I continue that?" The answer was by working with clients who are passionate about what they do.
 {% endpullquote %}
 
-What cool things can we do that maybe don't raise a lot of revenue, that opens all these ideas out. Hopefully that leads to bigger products. Big agencies are impersonal. A lot of stuff that comes out of agencies has been done and done and done again. I'm really big on keeping our team and creativeity fresh. We have the time to focus on you and focus on developing ideas, cauase they're like us; passionate.
+I ask, "What cool things can we do that maybe don't raise a lot of revenue, that opens all these ideas out?" Hopefully that leads to bigger projects. Big agencies are impersonal. A lot of stuff that comes out of agencies has been done and done and done again. I'm really big on keeping our team and creativeity fresh. We have the time to focus on you and focus on developing ideas, cauase they're like us; passionate.
 
 I have lots of collaborators. That's how Co+hoots works. You work together with other people that are really strong in other skill sets and focus on your own skill set.
 
@@ -86,7 +86,7 @@ I was fortunate, because I knew that I wanted to do this before I left my job, s
 Thinking I could do it all by myself. I learned quickly that it's okay to ask for help. People really like being asked to help other people. It gives them a level of respect and increases their reputation. 
 
 {% pullquote left %}
-Try to think of it as not everyone's your competitor, but everyone's someone who could possibly help you. Tell me how I can help you, and here's what I need help with.  {"It's not about competing, it's about producing a good quality product. If you create a quality product, there's no way to compete."} 
+Try to think of it as not everyone's your competitor, but everyone's someone who could possibly help you. Tell me how I can help you, and here's what I need help with.  {"It's not about competing, it's about producing a good, quality product. If you create a quality product, there's no way for others to compete."} 
 {% endpullquote %}
 
 I always ask myself, "How can I get really excited about this project that I'm working on?" And then it flows...and if we're not excited about doing something, I can always pass it off to someone else who's a better fit...one of our collaborators at Co+Hoots. 
@@ -94,12 +94,12 @@ I always ask myself, "How can I get really excited about this project that I'm w
 **What's been the most important thing you've learned?**
 
 {% pullquote %}
-Knowing my worth and knowing when to say no. I read this book called Hell No! {"If there's any red flag that goes up at any point, then don't just say no, say hell no."} There are plenty of people who will take up the project, and if you take it on, then you know you'll be kicking yourself later. So its okay if we starve for a day or two until we get a good project...but that hasn't happened yet **knocks on wood**.
+Knowing my worth and knowing when to say no. I read this book called Hell No! {"If there's any red flag that goes up at any point, then don't just say no, say hell no."} There are plenty of people who will take up the project, and if you take it on, then you know you'll be kicking yourself later. So its okay if we starve for a day or two until we get a good project...but that hasn't happened yet...**knocks on wood**.
 {% endpullquote %}
 
 **What's the best marketing you've done?**
 
-Connecting with [Local First Arizona](http://www.localfirstaz.com/) was huge! Because it's right along side what I believe in--working with people that are passionate about what they're doing, working with local businesses, helping improve connectins between small businesses.
+Connecting with [Local First Arizona](http://www.localfirstaz.com/) was huge! Because it's right along side what I believe in--working with people that are passionate about what they're doing, working with local businesses, helping improve connections between small businesses.
 
 The next best thing was doing good work and having good client relationships, because those always spin off to more work. When you're working with a client, you need to make sure you're on your best behavior. Its simple things like being polite, respectful, don't spit in anyone's hair...
 
@@ -114,7 +114,7 @@ I'm a strong believer in being harsh in the beginning. I learned that from being
 You just make it very clear from the beginning, here are all our expectations, all our deliverables, all our deadlines. If you're honest with people, they'll understand it. Admiting that you have faults, people are willing to help you overcome them. You tell them, this is what you're going to get from me, this is what I'm going to get from you, and then you over deliver, and they'll be happy.
 
 {% pullquote left %}
-{I never say I'm going to do something if I don't know I'm going to do it.} In a trusted relationship, I think of it as friendships and personal relationships quite honestly. It is business, and money is exchange, but in the beginning if we're clear about expectations and we build a good relationsihp, then hell, I'll help you because I know what you're doing is good.
+{"I never say I'm going to do something if I don't know I'm going to do it."} In a trusted relationship, I think of it as friendships and personal relationships quite honestly. It is business, and money is exchange, but in the beginning, if we're clear about expectations and we build a good relationsihp, then hell, I'll help you because I know what you're doing is good.
 {% endpullquote %}
 
 If that means I think of a cool promotional item I think you should do, and I don't tell you about it and I just do it and give it to you, and it makes your day, then hell yeah! I think that's just being a good person. What would you do for your brother or sister? That's what you should be doing for your client. 
@@ -125,6 +125,6 @@ It's okay to say no.
 
 Always stay focused on what you're passionate about.
 
-Don't give your boss the finger on your way out the door as you're going to do your startup.
+Don't give your boss the finger on your way out the door.
 
 Oh yeah, and you can be happy at your job! It is possible! You can do this and be happy at your job. It's going to be hard work and you better be driven to do it, but you CAN do it!
