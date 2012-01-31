@@ -19,7 +19,7 @@ Jenny Poon--a woman who admittedly likes to tell people hell no, makes little ch
   
 **Tell us about yourself**
 
-I went to the University of Minnesota for advertising and journalism. Although I like writing and I like understanding the advertising industry, I still wasn't able to do what I love, which is design. So I went to design school, but by my second year, teachers were asking me how to do things, and I asked myself, "Why am I paying $4000 a semester to teach a class?"
+I went to the University of Minnesota for advertising and journalism. Although I like writing and understanding the advertising industry, I still wasn't able to do what I love, which is design. So I went to design school. But by my second year, teachers were asking me how to do things, and I asked myself, "Why am I paying $4000 a semester to teach a class?"
 
 {% pullquote %}
 So I stopped that and got an internship to do design work. {"I don't recommend people dropping out of school, ever...but it was the best decision for me"}, because I learned more at my internship than I ever did at school.
@@ -31,7 +31,7 @@ I worked for quite a few different magazines. It was great seeing how businesses
 
 I went to the Arizona Republic. I was art director of their local magazine, [AZ Magazine](http://www.azcentral.com/style/azmag/azmagdex.html). It was great because I got to meet entrepreneurs and small business people while learning about Phoenix, which really got me excited. 
 
-**How did you know you wanted to start your own business?**
+**Did that make you want to start your own business?**
 
 {% pullquote left %}
 I remember growing up thinking, "I'll never be in a job I really love, cause that just doesn't happen." Kids grow up thinking that. They say, "I'm going to be a doctor because everyone says I should be a doctor." And they think about how they're going to work for somebody else. I think you have to work for somebody, so you know how to run your own business. {"I love running my own business!"}
