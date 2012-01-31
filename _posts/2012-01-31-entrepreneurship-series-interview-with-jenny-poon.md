@@ -14,7 +14,9 @@ tags:
 - women startups
 title: "Entrepreneurship Series: Interview with Jenny Poon"
 ---
-
+  
+Jenny Poon--a woman who admittedly likes to tell people hell no, makes little children cry and says the best part of being a busines owner is, "I'm the BOSS!" But she won't spit in your hair, she'll admit her faults, and she'll go out of her way to make your day. She's won several design awards, but for her, it's not about the design...
+  
 **Tell us about yourself**
 
 I went to the University of Minnesota for advertising and journalism. Although I like writing and I like understanding the advertising industry, I still wasn't able to do what I love, which is design. So I went to design school, but by my second year, teachers were asking me how to do things, and I asked myself, "Why am I paying $4000 a semester to teach a class?"
