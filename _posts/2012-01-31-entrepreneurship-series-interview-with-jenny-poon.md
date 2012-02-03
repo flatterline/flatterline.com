@@ -2,12 +2,11 @@
 author: Ralph Miller
 excerpt:
   Jenny Poon &mdash; a woman who admittedly likes to tell people hell no,
-  makes little children cry and says the best part of being a business
-  owner is, "I'm the BOSS!" But she won't spit in your hair, she'll admit
-  her faults, and she'll go out of her way to make your day. Read our
-  interview with creative director and designer Jenny Poon, and you'll see
-  what makes this woman so successful (here's a hint -- she's won several
-  Folio awards for best design, but for her, it's not about the design).
+  make little children cry and says the best part of being a business
+  owner is, "I'm the BOSS!" Read our interview with creative director and
+  designer Jenny Poon, and you'll see what makes this woman so successful
+  (here's a hint -- she's won several Folio awards for best design, but for
+  her, it's not entirely about design).
 image:
   url: /images/jenny-poon.jpg
   title: Jenny Poon
@@ -22,7 +21,7 @@ title: "Entrepreneurship Series: Interview with Jenny Poon"
 
 Jenny Poon &mdash; a woman who admittedly likes to tell people hell no, makes little children cry and says the best part of being a business owner is, "I'm the BOSS!"
 
-But she won't spit in your hair, she'll admit her faults, and she'll go out of her way to make your day. She's won several design awards, but for her, it's not about the design.
+But she won't spit in your hair, she'll admit her faults, and she'll go out of her way to make your day. She's won several design awards, but for her, it's not entirely about design.
 
 **Tell us about yourself**
 
@@ -44,7 +43,7 @@ I went to the Arizona Republic. I was art director of their local magazine, [AZ 
 Yes, but I remember growing up thinking, "I'll never be in a job I really love, cause that just doesn't happen." Kids grow up thinking that. They say, "I'm going to be a doctor because everyone says I should be a doctor." And they think about how they're going to work for somebody else. {" I think you have to work for somebody, so you know how to run your own business. "} I love running my own business!
 {% endpullquote %}
 
-My parents own a busines. They've run their own business for a really long time&hellip; since I was born. I had to work in the restaurant and I had to go work in the restaurant every day after school. I remember thinking, "This is terrible. My parents are always at work and I always have to be there helping. I never want to run my own business."
+My parents own a business. They've run their own business for a really long time&hellip; since I was born. I had to go work in the restaurant every day after school. I remember thinking, "This is terrible. My parents are always at work and I always have to be there helping. I never want to run my own business."
 
 Friends would ask, "Do you want to run a business when you get older?" and I'd say, "No! That's a 24/7 job for the rest of your life. When you take a vacation, it's not really a vacation cause you're getting docked pay for not working." So I was very much against it. But then you start working for other people, and you realize maybe you're crazy and selfish and there are things you want to do your way, and you don't like doing things that don't have an effect on people.
 
@@ -70,18 +69,18 @@ I've been really fortunate to not have to do much marketing. From the time I lau
 {"I love being in this community of people that are passionate about everything they're doing."} So I asked, "How do I continue that?" The answer was by working with clients who are passionate about what they do.
 {% endpullquote %}
 
-I ask, "What cool things can we do that maybe don't raise a lot of revenue, that opens all these ideas out?" Hopefully that leads to bigger projects. Big agencies are impersonal. A lot of stuff that comes out of agencies has been done and done and done again. I'm really big on keeping our team and creativeity fresh. We have the time to focus on you and focus on developing ideas, cauase they're like us; passionate.
+I ask, "What cool things can we do that maybe don't raise a lot of revenue, that opens all these ideas out?" Hopefully that leads to bigger projects. Big agencies are impersonal. A lot of stuff that comes out of agencies has been done and done and done again. I'm really big on keeping our team and creativity fresh. We have the time to focus on you and focus on developing ideas, 'cause they're like us: passionate.
 
 I have lots of collaborators. That's how CO+HOOTS works. You work together with other people that are really strong in other skill sets and focus on your own skill set.
 
-**Tell me more about CO+HOOTS, collaboration and coworking**
+**Tell us more about CO+HOOTS, collaboration and coworking**
 
 {% pullquote %}
 At first, I was working from home and I was doing great. But as I was growing and hiring on people, I knew it just wasn't going to work from home. Meeting at coffee shops just wasn't going to work either. I talked to a few people and looked into sharing space, just for the sake of small business and not taking crazy risks. So we looked at a few spaces, ran the numbers and it seemed to work. If everyone pitched in, we could pay the rent, pay for a few supplies and everyone could focus on their business and not worry about where they were working out of.
 
 That turned into CO+HOOTS, a [coworking space in downtown Phoenix](http://cohoots.com). 
 
-We gave it a try and its been successful. It's kinda magical&hellip; but honestly, the concept isn't hard to sell, expecially for the people who understand coworking and are looking for it. {"When people see what we're doing, they see it's really different."}
+We gave it a try and its been successful. It's kinda magical&hellip; but honestly, the concept isn't hard to sell, especially for the people who understand coworking and are looking for it. {"When people see what we're doing, they see it's really different."}
 {% endpullquote %}
 
 **Give me an example of how collaboration works.**
@@ -108,11 +107,11 @@ Knowing my worth and knowing when to say no. I read this book called Hell No! {"
 
 Connecting with [Local First Arizona](http://www.localfirstaz.com/) was huge! Because it's right along side what I believe in &mdash; working with people that are passionate about what they're doing, working with local businesses, helping improve connections between small businesses.
 
-The next best thing was doing good work and having good client relationships, because those always spin off to more work. When you're working with a client, you need to make sure you're on your best behavior. Its simple things like being polite, respectful, don't spit in anyone's hair!
+The next best thing was doing good work and having good client relationships, because those always spin off to more work. When you're working with a client, you need to make sure you're on your best behavior. Its simple things like being polite, respectful; don't spit in anyone's hair!
 
 **What do you do when a client isn't on their best behavior?**
 
-It alway needs to be equal balance. The client has to hold up their end of the deal and if they're not, you have to stand your ground. That goes back to knowing your worth. If someone's stepping on you, you have to put your foot down and sometimes it's just not going to work out, because you're a different personality or there's different expectations. That's okay, that comes with every single business. We've had to fire a few clients.
+It always needs to be equal balance. The client has to hold up their end of the deal and if they're not, you have to stand your ground. That goes back to knowing your worth. If someone's stepping on you, you have to put your foot down and sometimes it's just not going to work out, because you're a different personality or there's different expectations. That's okay, that comes with every single business. We've had to fire a few clients.
 
 **How do you set expectations?**
 
