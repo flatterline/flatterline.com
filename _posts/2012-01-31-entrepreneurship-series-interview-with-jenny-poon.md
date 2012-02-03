@@ -25,7 +25,7 @@ But she won't spit in your hair, she'll admit her faults, and she'll go out of h
 
 **Tell us about yourself**
 
-I went to the University of Minnesota for advertising and journalism. Although I like writing and understanding the advertising industry, I still wasn't able to do what I love, which is design. So I went to design school. But by my second year, teachers were asking me how to do things, and I asked myself, "Why am I paying $4000 a semester to teach a class?"
+I double majored at the University of Minnesota in advertising and journalism. Although I like writing and understanding the advertising industry, I still wasn't able to do what I love, which is design. So I went to design school. But by my second year, teachers were asking me how to do things, and I asked myself, "Why am I paying $4000 a semester to teach a class?"
 
 {% pullquote %}
 So I stopped that and got an internship to do design work. {"I don't recommend people dropping out of school, ever&hellip; but it was the best decision for me"}, because I learned more at my internship than I ever did at school.
@@ -53,9 +53,9 @@ But this isn't a restaurant, so I still take vacations, and I work from home whe
 
 **Tell us about that.**
 
-My company, [Eeko Studio](http://www.eekostudio.com/) grew out of one of those things I was passionate about: sustainability. I see the benefit in solar and being more sustainable, so I thought, "How can I help them with their cause?" I started searching out sustainable companies and hearing their stories, and learning about what they do. The ones that won me over were the ones I ended up working with.
+My company, [eeko studio](http://www.eekostudio.com/) grew out of one of those things I was passionate about: sustainability. I see the benefit in solar and being more sustainable, so I thought, "How can I help them with their cause?" I started searching out sustainable companies and hearing their stories, and learning about what they do. The ones that won me over were the ones I ended up working with.
 
-And that's what Eeko ended up being about &mdash; finding clients and things to do that I'm passionate about. Anything that needs design help. Good ideas need good help. Eeko Studio has made a name out of helping small businesses brand themselves. We do logos, print advertising, web design and online advertising.
+And that's what eeko ended up being about &mdash; finding clients and things to do that I'm passionate about. Anything that needs design help. Good ideas need good help. eeko studio has made a name out of helping small businesses brand themselves. We do logos, print advertising, web design and online advertising.
 
 **How did you fund your business?**
 
@@ -63,7 +63,7 @@ I was fortunate because I knew that I wanted to do this before I left my job, so
 
 **How did you market your business?**
 
-I've been really fortunate to not have to do much marketing. From the time I launched Eeko Studios, I had clients waiting to work with me. So when I launched, I had a flurry of work. It was great, but in the back of my head, I was always nervous about where my next paycheck was coming from. I wondered, "Am I going to be able to pay the bills in six months?" So I always have 6-8 months leeway on everything. 
+I've been really fortunate to not have to do much marketing. From the time I launched eeko studio, I had clients waiting to work with me. So when I launched, I had a flurry of work. It was great, but in the back of my head, I was always nervous about where my next paycheck was coming from. I wondered, "Am I going to be able to pay the bills in six months?" So I always have 6-8 months leeway on everything. 
 
 {% pullquote left %}
 {"I love being in this community of people that are passionate about everything they're doing."} So I asked, "How do I continue that?" The answer was by working with clients who are passionate about what they do.
@@ -73,7 +73,7 @@ I ask, "What cool things can we do that maybe don't raise a lot of revenue, that
 
 I have lots of collaborators. That's how CO+HOOTS works. You work together with other people that are really strong in other skill sets and focus on your own skill set.
 
-**Tell us more about CO+HOOTS, collaboration and coworking**
+**Tell us more about CO+HOOTS, collaboration and coworking.**
 
 {% pullquote %}
 At first, I was working from home and I was doing great. But as I was growing and hiring on people, I knew it just wasn't going to work from home. Meeting at coffee shops just wasn't going to work either. I talked to a few people and looked into sharing space, just for the sake of small business and not taking crazy risks. So we looked at a few spaces, ran the numbers and it seemed to work. If everyone pitched in, we could pay the rent, pay for a few supplies and everyone could focus on their business and not worry about where they were working out of.
@@ -100,7 +100,7 @@ I always ask myself, "How can I get really excited about this project that I'm w
 **What's been the most important thing you've learned?**
 
 {% pullquote %}
-Knowing my worth and knowing when to say no. I read this book called Hell No! {"If there's any red flag that goes up at any point, then don't just say no, say hell no."} There are plenty of people who will take up the project, and if you take it on, then you know you'll be kicking yourself later. So its okay if we starve for a day or two until we get a good project. But that hasn't happened yet&hellip; **_knocks on wood_**
+Knowing my worth and knowing when to say no. I read this book called [Hell Yes](http://www.amazon.com/Hell-Yes-Little-Simpler-Happier/dp/0740779192)! If you're going to do something, it shouldn't just be a 'yes,' it should be a'hell yes.' {"If there's any red flag that goes up at any point, then don't just say no, say hell no."} There are plenty of people who will take up the project, and if you take it on, then you know you'll be kicking yourself later. So its okay if we starve for a day or two until we get a good project. But that hasn't happened yet&hellip; **_knocks on wood_**
 {% endpullquote %}
 
 **What's the best marketing you've done?**
@@ -120,7 +120,7 @@ I'm a strong believer in being harsh in the beginning. I learned that from being
 You just make it very clear from the beginning, here are all our expectations, all our deliverables, all our deadlines. If you're honest with people, they'll understand it. Admitting that you have faults, people are willing to help you overcome them. You tell them, this is what you're going to get from me, this is what I'm going to get from you, and then you over deliver, and they'll be happy.
 
 {% pullquote left %}
-{"I never say I'm going to do something if I don't know I'm going to do it."} In a trusted relationship, I think of it as friendships and personal relationships quite honestly. It is business, and money is exchanged, but in the beginning, if we're clear about expectations and we build a good relationship, then hell, I'll help you because I know what you're doing is good.
+{"I never say I'm going to do something if I don't know I'm going to do it."} In a trusted relationship, I think of it as friendships and personal relationships quite honestly. It is business, and money is exchanged, but in the beginning, if we're clear about expectations and we build a good relationship, then hell yes!...I'll help you because I know what you're doing is good.
 {% endpullquote %}
 
 If that means I think of a cool promotional item I think you should do, and I don't tell you about it and I just do it and give it to you, and it makes your day, then hell yeah! I think that's just being a good person. What would you do for your brother or sister? That's what you should be doing for your client. 
