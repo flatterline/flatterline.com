@@ -303,14 +303,15 @@ footer {
 
 /* Main content area */
 #content {
-}
+  h3 {
+    margin-top: 0.25em;
+  }
 
-#content h3 {
-  margin-top: 0.25em;
-}
-
-#content p strong {
-  font-size: 0.9em;
+  p {
+    strong {
+      font-size: 0.95em;
+    }
+  }
 }
 
 
@@ -668,6 +669,16 @@ footer {
   margin-top: 30px;
 }
 
+
+
+/* Events */
+.vevent {
+  font: 1.5em/1.6em "Linden Hill",Georgia,serif;
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  padding: 1em 0;
+  text-align: center;
+}
 
 
 

@@ -10,6 +10,7 @@ image:
   title: Dan Munro
   alt: Dan Munro
 layout: post
+published: false
 tags:
 - entrepreneurship series
 - startups

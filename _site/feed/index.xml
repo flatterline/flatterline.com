@@ -11,103 +11,42 @@
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-02-06T13:15:35-07:00</updated>
+  <updated>2012-02-24T17:38:51-07:00</updated>
 
   
     <entry>
       <author>
-        <name>Ralph Miller</name>
-        <uri>http://flatterline.com/team/ralph-miller</uri>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
       </author>
-      <content type="html">&lt;p&gt;Shivering, coughing, moaning&amp;hellip; you walk into the doctor's office. Greeting you with a ratty old clipboard, the receptionist points you to an isolated corner. Flopping down on the chair, you remove the chewed-up pen cap and dig in to heaps of paperwork with loads of minutiae &amp;mdash; much of it repeated, page after page.&lt;/p&gt;
+      <content type="html">&lt;p&gt;Just in time for SXSW, CO+HOOTS creative coworking, is hosting a sendoff extravaganza! On Tuesday, March 6th, Phoenix film, music and interactive will collide at this awesome &lt;a href=&quot;http://www.cohoots.com&quot;&gt;downtown Phoenix office space&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If this current landscape seems bleak, you're right, it is. However, entrepreneur Dan Munro is setting out to change that, with a little thing he calls: iPatient.&lt;/p&gt;
+&lt;p&gt;Expect to be wowed with film trailers and shorts from the &lt;a href=&quot;http://www.phoenixfilmfestival.com/&quot;&gt;Phoenix Film Festival&lt;/a&gt; and &lt;a href=&quot;http://www.ifpphx.org/&quot;&gt;IFP Phoenix&lt;/a&gt;, music sponsored by &lt;a href=&quot;http://stinkweeds.com/&quot;&gt;Stinkweeds&lt;/a&gt;, wine from &lt;a href=&quot;http://www.onehopewine.com/&quot;&gt;ONEHOPE wine&lt;/a&gt; and snacks from &lt;a href=&quot;http://www.popchips.com/&quot;&gt;PopChips&lt;/a&gt;. There will also be a raffle for awesome prizes from the sponsors, local restaurants and shops, CO+HOOTS coworking passes and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tell us about yourself and the projects you've been involved in.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can find all of the details about the prizes, how to enter the raffle and more on the registration page:&lt;/p&gt;
 
-&lt;p&gt;I'm the Founder and CEO of &lt;a href=&quot;http://ipatient.com/&quot;&gt;iPatient&lt;/a&gt;, a &lt;a href=&quot;http://blogs.forbes.com/danmunro/&quot;&gt;contributing Editor with Forbes&lt;/a&gt;, and the organizer of the &lt;a href=&quot;http://www.linkedin.com/groups/Health-20-Phoenix-Chapter-2861078&quot;&gt;Health 2.0 Phoenix Chapter&lt;/a&gt;. I've been in and around startups for 15 years in a variety of different industries, but predominantly healthcare.&lt;/p&gt;
+&lt;div class=&quot;vevent well&quot; id=&quot;hcalendar-3-Days-to-Austin&quot;&gt;
+  &lt;a class=&quot;url&quot; href=&quot;http://3daystoatx.eventbrite.com/?ref=flatterline&quot;&gt;
+    &lt;span class=&quot;summary&quot;&gt;3 Days to Austin&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;div&gt;
+    &lt;abbr class=&quot;dtstart&quot; title=&quot;2012-03-06T19:00-07:0000&quot;&gt;March 6, 2012 7&lt;/abbr&gt; –
+    &lt;abbr class=&quot;dtend&quot; title=&quot;2012-03-06T22:00-07:00&quot;&gt;10pm&lt;/abbr&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;location&quot;&gt;CO+HOOTS, 825 N. 7th St., Phoenix, AZ&lt;/div&gt;
+  &lt;div class=&quot;description&quot;&gt;FREE, but donations are accepted.&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;One project I've worked on was a company called Aerocast, which turned out to be a predecessor to &lt;a href=&quot;http://www.limelight.com/&quot;&gt;Limelight Networks&lt;/a&gt;, which is now publicly traded and headquartered in Phoenix, and is one of the Phoenix startup success stories.&lt;/p&gt;
 
-&lt;p&gt;I also worked in some other early stage ventures. One of those got on the radar with Microsoft, who pulled us in to do a demo at a healthcare user conference. Bill Gates actually did the demo, presenting our early stage healthcare venture at this event. We thought for a while we'd be acquired by Microsoft, but it ended up being acquired by Citrix.&lt;/p&gt;
+&lt;p&gt;As an added bonus, we heard that you can bring your SXSW ticket proof-of-purchase in to CO+HOOTS from March 5-9th for FREE coworking!&lt;/p&gt;
 
-&lt;p&gt;My other project was a solution that helped large insurance companies, (think Blue Cross, Blue Shield, Etna, Cigna, United Health) process paper claims on a daily basis in high volume. Our software was written as &lt;abbr title=&quot;Optical Character Recognition&quot;&gt;OCR&lt;/abbr&gt; for the paper claims that payers interpret at very high volume. Our solution had a very high accuracy at high volume, with high speed. When you put all three of those together in a transaction environment, it becomes a compelling solution. So much so that we got on the radar with, and were ultimately acquired by, WebMD.&lt;/p&gt;
-
-&lt;p&gt;I also have a computer science degree and I've done software development, but what I like to tell people is, &quot;You don't want me coding.&quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What are you working on now?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;When I show up at a facility, clinic, doctor's office, hospital, I want paperless checkin.&quot;&gt;
-&lt;a href=&quot;http://ipatient.com/&quot;&gt;iPatient&lt;/a&gt; is focused on an area of healthcare that is broken: the patient-provider dialogue. We know that because today, that dialogue starts with paper forms. That's the part we think is a great entry point into helping to bridge the fractured dialogue between patients and their providers. 'Cause if you're starting with paper, that's the wrong way to start. It's painful for providers, and it's equally painful as consumers to walk into a waiting room, be handed a stack of paper forms, then go off in the corner and fill them out. Really!? There's no technology other than paper?&lt;/p&gt;
-
-&lt;p&gt;So that's where we start&amp;hellip; but it's not the total solution. Maybe think of it as Foursquare for healthcare. When I show up at a facility, clinic, doctor's office, hospital, I want paperless checkin.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where are you in the development cycle?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We're anticipating a launch next quarter; iPatient is still early stage. We've made a lot of progress, but healthcare is different &amp;mdash; it doesn't attract a lot of early stage investing. There are too many other areas for investors to be attracted to, so healthcare is underfunded at early stages, much like education. Those two, unfortunately, represent book ends for a society and culture. Education is at the front end; healthcare at the back. Yet both are massively underfunded.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;I'm trying to move the needle in healthcare before it jams one in me.&quot;&gt;
-But that's starting to change because the numbers in healthcare are staggering &amp;mdash; both eye opening and eye popping &amp;mdash; it's $3 trillion and it represents 18% of our GDP. It's unsustainable. We can't live with these costs indefinitely, and it's growing at a rate of 4%. Now, that doesn't sound like much, until you multiply 4% by $3 trillion. It's a big problem relative to how we deliver healthcare and get better results from the healthcare system we have.&lt;/p&gt;
-
-&lt;p&gt;Right now, the two other statistics that play out in healthcare that are troubling are life expectancy and infant mortality.  In both cases, we're way below average. The World Health Organization ranked world healthcare systems and the U.S. ranked 37th. So I like to say, I'm trying to move the needle in healthcare before it jams one in me.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How did you raise funds for iPatient?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We're bootstrapped with early stage investment interest. We are engaging investors for a consumer facing solution that's baked, and a provider facing solution that's in the early stages of development. We're talking with healthcare providers to work with us on a two-sided solution that's compelling for both sides from day one. In healthcare, you have to be compelling to both sides from day one.&lt;/p&gt;
-
-&lt;p&gt;The next step in our evolution is a seed stage investment.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is your advice for other entrepreneurs trying to get funding for their startup?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;pullquote-left&quot; data-pullquote=&quot;Start as early as you can developing the relationships necessary to raise money.&quot;&gt;
-I don't recommend fundraising for everyone, and certainly not for every startup. And I don't push venture capital as a mechanism for every startup. There are a lot of startups that don't need it and I advocate that they work for as long as they can without it.&lt;/p&gt;
-
-&lt;p&gt;If and when you decide to pursue it, I think it's important to start as early as you can developing the relationships necessary to raise money. In this culture, investors invest in people.&lt;/p&gt;
-
-&lt;p&gt;This isn't like a bank, we don't have collateral. We're not walking in saying look at this block of gold I've got and I'd like to borrow money against it. The people are the investment. So establishing those relationships early is the key to successful funding.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How have you approached that?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;Investors don't invest in a single pitch or presentation, it's a sequence of events they're looking for.&quot;&gt;
-The best advice I've heard and I try to mirror is from &lt;a href=&quot;http://www.bothsidesofthetable.com/&quot;&gt;Mark Suster&lt;/a&gt;. He talked about investing in lines, not dots. That's an important distinction, because that's what investors need to see in early stage ventures. Investors don't invest in a single pitch or presentation, it's a sequence of events they're looking for.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the things they're looking for is traction, and traction comes in a variety of forms. It doesn't just mean customer traction. It means, how are you building a solution to address the market. At the earliest stages, that solution may be a minimal viable product (MVP), but at other times it may be how you are attracting talent in a competitive market to help you build your solution. It's not just customers and revenue. It's far broader than that. That's the type of traction investors are looking for.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What do you think about incubators and accelerators?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I'm thrilled because it supports an ecosystem of experiments. At the end of the day, that's what all startups are: experiments. We're all trying hard to be successful with our experiment.&lt;/p&gt;
-
-&lt;p&gt;The beauty of it now, is that in healthcare, we do have three incubators. There's &lt;a href=&quot;http://rockhealth.com/&quot;&gt;Rock Health&lt;/a&gt; in San Francisco, &lt;a href=&quot;http://www.sandboxindustries.com/about/healthbox/&quot;&gt;Health Box&lt;/a&gt; in Chicago, &lt;a href=&quot;http://www.blueprinthealth.org/&quot;&gt;Blue Print Health&lt;/a&gt; in New York. Just 18 months ago we didn't have any, and now we have three. So my hope is that we eventually have one in every major metro city. The need is there to work on healthcare, so anything that supports that broadly across the country is worth supporting.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What challenges do startups in Phoenix face?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the challenges for Phoenix is we don't have any venture capitalists here. And that's a challenge because VCs typically become the exit point for angels. As an angel investor, what you're looking for is: &quot;Where's my next step? Where does this go from here?&quot; As an investor, if there isn't a local, healthy, vibrant VC community, your only option for subsequent funding is to go out of state. And that's a challenge, because VCs typically have sufficient startups to consider in their own space. So they don't really need to consider outside companies.&lt;/p&gt;
-
-&lt;p&gt;If you look at the companies that have gotten funded here in Phoenix by VCs, the VCs have all been out of state. The two great examples are &lt;a href=&quot;http://www.lifelock.com/&quot;&gt;LifeLock&lt;/a&gt; which is funded out of Silicon Valley and &lt;a href=&quot;http://www.infusionsoft.com/&quot;&gt;Infusionsoft&lt;/a&gt; which is funded out of the Bay area. They've attracted VC capital, but there doesn't seem to be anyone in Phoenix that can support that. One of the things needed to change that (and it's a chicken or the egg kind of thing) is a success.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What factors do you attribute to your success?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I don't do so well inside a large organization. I've seen that happen with large companies. They get so big, it's just really hard to innovate. There are just too many layers, too many people and too much thinking.&lt;/p&gt;
-
-&lt;p&gt;Startups have a huge advantage when it comes to innovation. Speed! It's like the difference between a small boat and an aircraft carrier. An aircraft carrier takes ten miles to make a u-turn. The speed boat, you just turn the wheel. So that gives you an inherent advantage. It's not to say one is better than the other. Both are meant to do certain things. You couldn't get very far from shore in a small boat, and you certainly couldn't carry many supplies. But when it comes to speed, you have the advantage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What advice would you offer to other startups and entrepreneurs?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;pullquote-right&quot; data-pullquote=&quot;You have to establish a voice and tell a story in a compelling way.&quot;&gt;
-Invest in lines, not dots. Establish your connections early in the cycle of your startups evolution, cause that's how investors see traction. You have to think of everyone as an investor. Don't just think of it as a dollar investment; there are lots of different types of investments: time and resources are needed in every way. So the more you can capture of any of that is a big advantage.&lt;/p&gt;
-
-&lt;p&gt;Some of the best advice I ever heard was from Don Hewitt. I can give it to you in four words. &quot;Tell me a story.&quot; Don't sell me. Don't pitch me. Don't promote yourself. That's noise. To be part of the signal, you have to establish a voice and tell a story in a compelling way. Whether it's through software, publishing, video, whatever it is, it has to be captivating and compelling.
-&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is an event you won't want to miss!&lt;/strong&gt;&lt;/p&gt;
 </content>
-      <id>http://flatterline.com/blog/2012/02/07/entrepreneurship-series-interview-with-dan-munro</id>
-      <link href="http://flatterline.com/blog/2012/02/07/entrepreneurship-series-interview-with-dan-munro"/>
-      <summary>Dan Munro is a successful serial entrepreneur who's looking to change the way healthcare works with his latest software startup, iPatient. This interview contains some great little jewels for aspiring startups and entrepreneurs.</summary>
-      <title>Entrepreneurship Series: Interview with Dan Munro</title>
-      <updated>2012-02-07T00:00:00-07:00</updated>
+      <id>http://flatterline.com/blog/2012/02/24/co-hoots-presents-3-days-to-austin</id>
+      <link href="http://flatterline.com/blog/2012/02/24/co-hoots-presents-3-days-to-austin"/>
+      <summary>CO+HOOTS is hosting a pre-SXSW sendoff event 3 days before the big event! Come get a taste of Phoenix film, music, interactive and more as they collide at <b>the</b> premiere SXSW sendoff party in Phoenix.</summary>
+      <title>CO+HOOTS Presents: 3 Days to Austin</title>
+      <updated>2012-02-24T00:00:00-07:00</updated>
     </entry>
   
     <entry>
