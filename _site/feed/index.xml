@@ -11,8 +11,55 @@
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-02-24T17:38:51-07:00</updated>
+  <updated>2012-03-09T12:42:36-07:00</updated>
 
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;There are a lot of great books out there about startups, entrepreneurship
+and small business and a new book club at CO+HOOTS &lt;a href=&quot;http://cohoots.com&quot;&gt;coworking in Phoenix&lt;/a&gt;
+aims to introduce and discuss some of those books with the local community. The
+meetup will take place on the first Monday of each month for 1 - 1.5 hours.&lt;/p&gt;
+
+&lt;p&gt;Here's the full book list:&lt;/p&gt;
+
+&lt;h3&gt;2012&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;April&lt;/strong&gt; &amp;mdash; &lt;em&gt;The Lean Startup&lt;/em&gt; by Eric Ries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May&lt;/strong&gt; &amp;mdash; &lt;em&gt;Rework&lt;/em&gt; by Jason Fried &amp;amp; David Heinemeier Hanson&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;June&lt;/strong&gt; &amp;mdash; &lt;em&gt;Ignore Everybody: and 39 Other Keys to Creativity&lt;/em&gt; by Hugh MacLeod&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July&lt;/strong&gt; &amp;mdash; &lt;em&gt;The Startup Owner's Manual&lt;/em&gt; by Steve Blank &amp;amp; Bob Dorf&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;August&lt;/strong&gt; &amp;mdash; &lt;em&gt;The Art of the Start&lt;/em&gt; by Guy Kawasaki&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September&lt;/strong&gt; &amp;mdash; &lt;em&gt;Getting Real&lt;/em&gt; by Jason Fried,  David Heinemeier Hanson &amp;amp; Matthew Linderman&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October&lt;/strong&gt; &amp;mdash; &lt;em&gt;Do More Faster&lt;/em&gt; by Brad Feld &amp;amp; David Cohen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;November&lt;/strong&gt; &amp;mdash; &lt;em&gt;The E-Myth Revisited&lt;/em&gt; by Michael E. Gerber&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December&lt;/strong&gt; &amp;mdash; &lt;em&gt;Founders at Work&lt;/em&gt; by Jessica Livingston&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;2013&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;January&lt;/strong&gt; &amp;mdash; &lt;em&gt;Crush It!&lt;/em&gt; by Gary Vaynerchuk&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The first meetup will take place &lt;strong&gt;April 2, 2012 at 6pm&lt;/strong&gt;, so pick up a
+copy of &lt;em&gt;The Lean Startup&lt;/em&gt; from your local library or independent bookseller
+today and start reading!&lt;/p&gt;
+
+&lt;p&gt;If you have suggestions for the book club, please &lt;a href=&quot;mailto:curtis@flatterline.com&quot;&gt;let us know&lt;/a&gt;!&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/03/09/startup-book-club</id>
+      <link href="http://flatterline.com/blog/2012/03/09/startup-book-club"/>
+      <summary>A monthly book club is starting in downtown Phoenix geared specifically toward topics on startups and entrepreneurship. Take a look!</summary>
+      <title>{Event} Startup Book Club</title>
+      <updated>2012-03-09T00:00:00-07:00</updated>
+    </entry>
   
     <entry>
       <author>
@@ -45,7 +92,7 @@
       <id>http://flatterline.com/blog/2012/02/24/co-hoots-presents-3-days-to-austin</id>
       <link href="http://flatterline.com/blog/2012/02/24/co-hoots-presents-3-days-to-austin"/>
       <summary>CO+HOOTS is hosting a pre-SXSW sendoff event 3 days before the big event! Come get a taste of Phoenix film, music, interactive and more as they collide at <b>the</b> premiere SXSW sendoff party in Phoenix.</summary>
-      <title>CO+HOOTS Presents: 3 Days to Austin</title>
+      <title>{Event} CO+HOOTS Presents: 3 Days to Austin</title>
       <updated>2012-02-24T00:00:00-07:00</updated>
     </entry>
   
@@ -1243,36 +1290,6 @@ Objective: cost = 14400 (MINimum)
       <summary>Wondering what hardware you should provision for your application hosted in the cloud with Amazon EC2? We've got you covered with this handy optimal cost calculator.</summary>
       <title>Optimizing hardware costs for Amazon EC2</title>
       <updated>2009-04-27T00:00:00-07:00</updated>
-    </entry>
-  
-    <entry>
-      <author>
-        <name>Curtis Miller</name>
-        <uri>http://flatterline.com/team/curtis-miller</uri>
-      </author>
-      <content type="html">&lt;p&gt;At Flatterline, our stated mission is to help startups realize their vision. To that end, we've decided to help bring &lt;a href=&quot;http://upcoming.yahoo.com/group/15697/&quot;&gt;OpenCoffee Club to Phoenix&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;What is OpenCoffee Club?&lt;/h3&gt;
-
-&lt;p&gt;OpenCoffee Club is a weekly gathering of entrepreneurs and investors in an informal setting (a.k.a, a coffee shop). The goal is to bring these entrepreneurs and investors together to talk about projects, collaborate and get to know each other.&lt;/p&gt;
-
-&lt;p&gt;It was originally started in London by &lt;a href=&quot;http://www.indexventures.com/team#profile_id_10&quot;&gt;Saul Klein, a venture partner at Index Ventures&lt;/a&gt;. Since then, over 80 OpenCoffee Clubs have sprung up worldwide. You can read more about it on &lt;a href=&quot;http://localglobe.blogspot.com/2007/02/opencoffee-club.html&quot;&gt;Saul's blog&lt;/a&gt; or at &lt;a href=&quot;http://www.readwriteweb.com/archives/the_open_coffee_club_movement.php&quot;&gt;ReadWriteWeb&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Why?&lt;/h3&gt;
-
-&lt;p&gt;On a recent trip to Boulder, CO I attended an OpenCoffee Club facilitated by &lt;a href=&quot;http://www.askthevc.com/blog/&quot;&gt;Jason Mendelson&lt;/a&gt; of the &lt;a href=&quot;http://www.foundrygroup.com/&quot;&gt;Foundry Group&lt;/a&gt;. It was really inspiring to see such a vibrant startup community meeting regularly to discuss ideas, share problems, give advice and, most of all, listen to each other.&lt;/p&gt;
-
-&lt;p&gt;We believe that Phoenix has a lot of talented, entrepreneurial people. We want them to have the best chance to grow and succeed and this is one small way we see that happening.&lt;/p&gt;
-
-&lt;p&gt;The first meetup will be on Thursday, April 30 from 8am - 10am at Fair Trade Coffee. &lt;a href=&quot;http://upcoming.yahoo.com/event/2473241/&quot;&gt;Please let us know you're coming&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In what other ways can we help the Phoenix startup community thrive?&lt;/strong&gt;&lt;/p&gt;
-</content>
-      <id>http://flatterline.com/blog/2009/04/24/phoenix-opencoffee-club</id>
-      <link href="http://flatterline.com/blog/2009/04/24/phoenix-opencoffee-club"/>
-      <summary>OpenCoffee Club is an event hosted around the world to provide a place for startup founders and investor to gather and discuss their progress, successes and failures. Find out about our plan to bring this great event to Phoenix!</summary>
-      <title>Phoenix OpenCoffee Club</title>
-      <updated>2009-04-24T00:00:00-07:00</updated>
     </entry>
   
 </feed>

@@ -12,7 +12,7 @@ layout: post
 published: true
 tags:
 - event
-title: "CO+HOOTS Presents: 3 Days to Austin"
+title: "{Event} CO+HOOTS Presents: 3 Days to Austin"
 ---
 
 Just in time for SXSW, CO+HOOTS creative coworking, is hosting a sendoff extravaganza! On Tuesday, March 6th, Phoenix film, music and interactive will collide at this awesome [downtown Phoenix office space](http://www.cohoots.com).

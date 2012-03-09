@@ -1,7 +1,7 @@
 $(function() {
   // Open external links in a new tab/window
   $('a').each(function() {
-     var a = new RegExp('/' + window.location.host + '/');
+     var a = new RegExp(window.location.host + '|mailto:|tel:');
      if(!a.test(this.href)) {
          $(this).attr('rel', $.trim([$(this).attr('rel'), 'external'].join(' ')))
 
