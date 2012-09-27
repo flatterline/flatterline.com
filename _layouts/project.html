@@ -4,7 +4,9 @@ layout: page
 
 {% if page.image %}
   <div class="span5 logo">
-    <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+    <a href="{{ page.website }}">
+      <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+    </a>
   </div>
 {% endif %}
 
