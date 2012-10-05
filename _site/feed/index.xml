@@ -11,8 +11,42 @@
   <rights>Flatterline.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</rights>
   <subtitle>A Web Development and SEO blog</subtitle>
   <title>The Flatterline Blog</title>
-  <updated>2012-09-27T12:18:50-07:00</updated>
+  <updated>2012-10-05T11:58:42-07:00</updated>
 
+  
+    <entry>
+      <author>
+        <name>Curtis Miller</name>
+        <uri>http://flatterline.com/team/curtis-miller</uri>
+      </author>
+      <content type="html">&lt;p&gt;From the inception of our company, coworking has played a very
+important role. We've worked from, held meetings at and learned
+from other businesses at an amazing &lt;a href=&quot;http://cohoots.com&quot;&gt;coworking space in Phoenix&lt;/a&gt;.
+Now, we'd like to give other freelancers and small businesses
+the opportunity, for free, to experience the benefits that
+coworking can offer.&lt;/p&gt;
+
+&lt;p&gt;To that end, we've teamed up with CO+HOOTS to offer the chance
+to win a &lt;strong&gt;two month, unlimited coworking membership&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;One membership will be raffled every week for the next eight
+weeks. There's no purchase necessary. All you need to do is show
+up at any of the &lt;a href=&quot;http://www.cohoots.com/events/&quot;&gt;free events hosted at CO+HOOTS&lt;/a&gt;
+or Washington Row and leave your contact information with a
+CO+HOOTS representative.&lt;/p&gt;
+
+&lt;p&gt;For all the details, see the official
+&lt;a href=&quot;http://www.cohoots.com/blog/flatterline-scholarship-fund/&quot;&gt;Flatterline Coworking Scholarship Fund&lt;/a&gt;
+page on the CO+HOOTS website.&lt;/p&gt;
+
+&lt;p&gt;Best of luck!&lt;/p&gt;
+</content>
+      <id>http://flatterline.com/blog/2012/10/05/the-flatterline-coworking-scholarship-fund</id>
+      <link href="http://flatterline.com/blog/2012/10/05/the-flatterline-coworking-scholarship-fund"/>
+      <summary>In collaboration with CO+HOOTS, we're offering freelancers and small businesses an awesome opportunity to try out coworking for free!</summary>
+      <title>The Flatterline Coworking Scholarship Fund</title>
+      <updated>2012-10-05T00:00:00-07:00</updated>
+    </entry>
   
     <entry>
       <author>
@@ -1215,81 +1249,6 @@ So that I GET SOME VALUE
       <summary>A recap of the first Phoenix OpenCoffee Club held at Fair Trade in downtown Phoenix. Find out what was discussed, pitched and what the next plans are for OpenCoffee.</summary>
       <title>2009-04-30: Recap of Phoenix OpenCoffee Club</title>
       <updated>2009-05-03T00:00:00-07:00</updated>
-    </entry>
-  
-    <entry>
-      <author>
-        <name>Chris Chandler</name>
-        <uri>http://flatterline.com/team/chris-chandler</uri>
-      </author>
-      <content type="html">&lt;p&gt;Flatterline believes heavily in the power of &lt;a href=&quot;http://en.wikipedia.org/wiki/Cloud_computing&quot;&gt;cloud computing&lt;/a&gt;. Dynamically allocated hardware on a pay-for-what-you-need basis has tremendous advantages when it comes to helping clients manage and provision their clusters. The main advantage of cloud computing is dynamically growing, or shrinking, hardware as the needs of the application change.&lt;/p&gt;
-
-&lt;p&gt;Because of the dynamic nature of cloud computing, we don't need a guaranteed answer on hardware requirements up front. However, a client may want a ballpark figure in order to set aside the right amount of budget or let investors know the estimated operational cost. You could crunch the numbers yourself, but why would you do that when we've already automated the process for you?&lt;/p&gt;
-
-&lt;h3&gt;Determining optimal cost&lt;/h3&gt;
-
-&lt;p&gt;We've constructed a very basic model for minimizing the cost of &lt;a href=&quot;http://aws.amazon.com/ec2/&quot;&gt;Amazon EC2&lt;/a&gt; hardware resources which satisfies a minimum number of &lt;a href=&quot;http://aws.amazon.com/ec2/instance-types/&quot;&gt;EC2 Compute Units&lt;/a&gt; and a given amount of RAM per process.&lt;/p&gt;
-
-&lt;p&gt;The technique uses &lt;a href=&quot;http://en.wikipedia.org/wiki/Linear_programming&quot;&gt;linear programming&lt;/a&gt; and the &lt;a href=&quot;http://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit&quot;&gt;GNU linear programming kit (GLPK)&lt;/a&gt;. &lt;strong&gt;Note&lt;/strong&gt;: I'm a math geek that likes linear modeling, so if you're unfamiliar with either, I'd be happy to chat with you about them over lunch.&lt;/p&gt;
-
-&lt;h3&gt;Installation&lt;/h3&gt;
-
-&lt;p&gt;First, install the GLPK. On Ubuntu execute the command&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo aptitude install glpk
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;on Mac OS X execute the command&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo port install glpk
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Next, download the following gist as &lt;code&gt;cloud_cost.txt&lt;/code&gt;.&lt;/p&gt;
-
-&lt;script src=&quot;http://gist.github.com/101809.js&quot;&gt;&lt;/script&gt;
-
-
-&lt;h3&gt;Computing the cost&lt;/h3&gt;
-
-&lt;p&gt;The model requires the specification of two variables: total number of EC2 Compute Units and RAM. Both variables are specified at the bottom with &lt;code&gt;param unitsNeeded&lt;/code&gt; and &lt;code&gt;param ramRequiredPerAppInstance&lt;/code&gt; respectively. Change these params to reflect your particular situation. &lt;strong&gt;Note&lt;/strong&gt;: A future article will explore capacity planning in more detail.&lt;/p&gt;
-
-&lt;p&gt;When you're ready, execute the solver using the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;glpsol --model cloud_cost.txt --output result.txt
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3&gt;Analyzing the results&lt;/h3&gt;
-
-&lt;p&gt;The program generates the result into a file called &lt;code&gt;result.txt&lt;/code&gt;. Assuming 500 EC2 Compute Units with 125MB of RAM per process, the file will look something like the following:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Problem:  cloud_cost
-Rows:    7
-Columns:  5 (5 integer, 0 binary)
-Non-zeros: 15
-Status:   INTEGER OPTIMAL
-Objective: cost = 14400 (MINimum)
-
- 1 InstanceQuantity[Small]
-                    *              0             0
- 2 InstanceQuantity[Large]
-                    *              0             0
- 3 InstanceQuantity[XLarge]
-                    *              0             0
- 4 InstanceQuantity[HCPULarge]
-                    *              0             0
- 5 InstanceQuantity[HCPUXLarge]
-                    *             25             0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The objective function was cost, so the optimal arrangement of hardware needed to get that computational power costs $14,400/month. The second column of the hardware arrangement indicates the number of instance needed. In this case we need 25 high-CPU, extra large instances.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Did you find this useful? Let us know in the comments!&lt;/strong&gt;&lt;/p&gt;
-</content>
-      <id>http://flatterline.com/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2</id>
-      <link href="http://flatterline.com/blog/2009/04/27/optimizing-hardware-costs-for-amazon-ec2"/>
-      <summary>Wondering what hardware you should provision for your application hosted in the cloud with Amazon EC2? We've got you covered with this handy optimal cost calculator.</summary>
-      <title>Optimizing hardware costs for Amazon EC2</title>
-      <updated>2009-04-27T00:00:00-07:00</updated>
     </entry>
   
 </feed>
